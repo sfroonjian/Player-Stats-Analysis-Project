@@ -1,5 +1,5 @@
 gkey = "AIzaSyBMRCMIU6MCqGnafEdz4R5c0qd-RHXmdtI"
 
-sportskey = "24d07414-742a-44a5-b57a-471bc5"
+sportskey = "5e11fb5e-d23a-4d56-a075-de2bd2"
 
 password = "!!Archer.."

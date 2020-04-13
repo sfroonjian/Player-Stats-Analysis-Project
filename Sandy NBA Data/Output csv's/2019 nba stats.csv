@@ -1,0 +1,882 @@
+,Name,Age,Birth City,Birth Country,Birth Lat,Birth Lng,College,College Lat,College Lng,Ability Score
+0,Alex Abrines,26,Palma de Mallorca,Spain,,,,,,8.1
+1,Quincy Acy,29,"Tyler, TX",USA,,,Baylor University,,,5.5
+2,Jaylen Adams,23,"Elkridge, MD",USA,,,,,,7.4
+3,Steven Adams,26,Rotorua,New Zealand,,,University of Pittsburgh,,,27.400000000000002
+4,Bam Adebayo,22,"Newark, NJ",USA,,,University of Kentucky,,,20.099999999999998
+5,Deng Adel,23,Juba,South Sudan,,,,,,3.3000000000000003
+6,DeVaughn Akoon-Purcell,26,"Orlando, FL",Trinidad and Tobago,,,,,,2.8
+7,LaMarcus Aldridge,34,"Dallas, TX",USA,,,University of Texas at Austin,,,34.699999999999996
+8,Rawle Alkins,22,"Brooklyn, NY",USA,,,,,,7.7
+9,Grayson Allen,24,"Jacksonville, FL",USA,,,,,,7.199999999999999
+10,Jarrett Allen,21,"Austin, TX",USA,,,University of Texas at Austin,,,22.7
+11,Kadeem Allen,27,"Wilmington, NC",USA,,,University of Arizona,,,17.6
+12,Al-Farouq Aminu,29,"Atlanta, GA",USA,,,Wake Forest University,,,19.4
+13,Justin Anderson,26,"Montross, VA",USA,,,University of Virginia,,,6.8
+14,Kyle Anderson,26,"New York, NY",USA,,,"University of California, Los Angeles",,,19.099999999999998
+15,Ryan Anderson,31,"Sacramento, CA",USA,,,University of California,,,8.1
+16,Ryan Anderson,31,"Sacramento, CA",USA,,,University of California,,,1.9000000000000001
+17,Ike Anigbogu,21,"San Diego, CA",USA,,,"University of California, Los Angeles",,,1.6
+18,Giannis Antetokounmpo,25,Athens,Greece,,,,,,48.9
+19,Kostas Antetokounmpo,22,Athens,Greece,,,,,,2.5
+20,Carmelo Anthony,35,"New York, NY",USA,,,Syracuse University,,,20.4
+21,OG Anunoby,22,London,United Kingdom,,,Indiana University,,,11.6
+22,Ryan Arcidiacono,26,"Langhorne, PA",USA,,,Villanova University,,,13.5
+23,Trevor Ariza,34,"Miami, FL",USA,,,"University of California, Los Angeles",,,20.6
+24,Trevor Ariza,34,"Miami, FL",USA,,,"University of California, Los Angeles",,,24.6
+25,D.J. Augustin,32,"New Orleans, LA",USA,,,University of Texas at Austin,,,20.1
+26,Deandre Ayton,21,Nassau,Bahamas,,,,,,30.2
+27,Dwayne Bacon,24,"Lakeland, FL",USA,,,Florida State University,,,10.9
+28,Marvin Bagley III,21,"Tempe, AZ",USA,,,,,,25.0
+29,Ron Baker,27,"Hays, KS",USA,,,Wichita State University,,,3.6
+30,Ron Baker,27,"Hays, KS",USA,,,Wichita State University,,,1.9
+31,Wade Baldwin IV,24,"Belle Mead, NJ",USA,,,Vanderbilt University,,,3.8
+32,Lonzo Ball,22,"Anaheim, CA",USA,,,"University of California, Los Angeles",,,22.5
+33,Mo Bamba,21,"Harlem, NY",USA,,,,,,13.600000000000003
+34,J.J. Barea,35,Mayaguez,Puerto Rico,,,Northeastern University,,,19.6
+35,Harrison Barnes,27,"Ames, IA",USA,,,University of North Carolina,,,24.099999999999998
+36,Harrison Barnes,27,"Ames, IA",USA,,,University of North Carolina,,,22.3
+37,Will Barton,29,"Baltimore, MD",USA,,,University of Memphis,,,19.9
+38,Keita Bates-Diop,24,"Sacramento, CA",USA,,,,,,9.5
+39,Nicolas Batum,31,Lisieux,France,,,,,,19.3
+40,Jerryd Bayless,31,"Phoenix, AZ",USA,,,University of Arizona,,,12.1
+41,Aron Baynes,33,Gisborne,Australia,,,Washington State University,,,12.299999999999999
+42,Kent Bazemore,30,"Kelford, NC",USA,,,Old Dominion University,,,19.700000000000003
+43,Bradley Beal,26,"St. Louis, MO",USA,,,University of Florida,,,38.300000000000004
+44,Malik Beasley,23,"Atlanta, GA",USA,,,Florida State University,,,15.799999999999999
+45,Michael Beasley,31,"Frederick, MD",USA,,,Kansas State University,,,11.000000000000002
+46,Marco Belinelli,34,Bologna,Italy,,,,,,15.2
+47,Jordan Bell,25,"Los Angeles, CA",USA,,,University of Oregon,,,8.2
+48,DeAndre' Bembry,25,"Charlotte, NC",USA,,,Saint Joseph's University,,,17.1
+49,Dragan Bender,22,Capljina,Croatia,,,,,,11.1
+50,Dairis Bertans,30,,,,,,,,4.499999999999999
+51,Davis Bertans,27,Valmiera,Latvia,,,,,,13.700000000000001
+52,Patrick Beverley,31,"Chicago, IL",USA,,,University of Arkansas,,,18.0
+53,Khem Birch,27,Montreal,Canada,,,"University of Nevada, Las Vegas",,,10.4
+54,Bismack Biyombo,27,Lubumbashi,Democratic Republic of the Congo,,,,,,10.6
+55,Nemanja Bjelica,31,Belgrade,Serbia,,,,,,18.699999999999996
+56,Antonio Blakeney,23,"Watertown, NY",USA,,,Louisiana State University,,,10.299999999999997
+57,Eric Bledsoe,30,"Birmingham, AL",USA,,,University of Kentucky,,,28.0
+58,Jaron Blossomgame,26,"Alpharetta, GA",USA,,,,,,8.900000000000002
+59,Bogdan Bogdanovic,27,Belgrade,Serbia,,,,,,22.6
+60,Bojan Bogdanovic,30,Mostar,Croatia,,,,,,25.0
+61,Andrew Bogut,35,Melbourne,Australia,,,University of Utah,,,10.5
+62,Jonah Bolden,24,Melbourne,Australia,,,,,,10.700000000000001
+63,Isaac Bonga,20,Neuwied,Germany,,,,,,3.3000000000000003
+64,Devin Booker,23,"Grand Rapids, MI",USA,,,University of Kentucky,,,38.6
+65,Chris Boucher,27,Castries,Canada,,,University of Oregon,,,6.5
+66,Avery Bradley,29,"Tacoma, WA",USA,,,University of Texas at Austin,,,13.799999999999999
+67,Avery Bradley,29,"Tacoma, WA",USA,,,University of Texas at Austin,,,24.3
+68,Tony Bradley,22,"Bartow, FL",USA,,,University of North Carolina,,,12.399999999999999
+69,Corey Brewer,34,"Portland, TN",USA,,,University of Florida,,,13.4
+70,Corey Brewer,34,"Portland, TN",USA,,,University of Florida,,,8.799999999999999
+71,Mikal Bridges,23,"Philadelphia, PA",USA,,,,,,15.6
+72,Miles Bridges,22,"Flint, MI",USA,,,,,,14.099999999999998
+73,Isaiah Briscoe,24,"Newark, NJ",USA,,,,,,8.0
+74,Ryan Broekhoff,29,Melbourne,Australia,,,,,,6.199999999999999
+75,Malcolm Brogdon,27,"Atlanta, GA",USA,,,University of Virginia,,,24.2
+76,Dillon Brooks,24,Mississauga,Canada,,,University of Oregon,,,10.899999999999999
+77,MarShon Brooks,31,"Long Branch, NJ",USA,,,,,,9.5
+78,Bruce Brown,23,"Boston, MA",USA,,,,,,9.0
+79,Jaylen Brown,23,"Marietta, GA",USA,,,University of California,,,19.899999999999995
+80,Lorenzo Brown,29,"Roswell, GA",USA,,,North Carolina State University,,,5.1000000000000005
+81,Sterling Brown,25,"Maywood, IL",USA,,,Southern Methodist University,,,11.500000000000002
+82,Troy Brown Jr.,20,"Las Vegas, NV",USA,,,,,,9.6
+83,Jalen Brunson,23,"Lincolnshire, IL",USA,,,,,,15.4
+84,Thomas Bryant,22,"Rochester, NY",USA,,,Indiana University,,,19.3
+85,Reggie Bullock,29,"Baltimore, MD",USA,,,University of North Carolina,,,18.0
+86,Reggie Bullock,29,"Baltimore, MD",USA,,,University of North Carolina,,,14.200000000000001
+87,Trey Burke,27,"Columbus, OH",USA,,,University of Michigan,,,17.200000000000003
+88,Trey Burke,27,"Columbus, OH",USA,,,University of Michigan,,,14.399999999999999
+89,Alec Burks,28,"Grandview, MO",USA,,,University of Colorado,,,11.799999999999999
+90,Alec Burks,28,"Grandview, MO",USA,,,University of Colorado,,,21.2
+91,Alec Burks,28,"Grandview, MO",USA,,,University of Colorado,,,4.8999999999999995
+92,Deonte Burton,28,"Milwaukee, WI",USA,,,,,,4.2
+93,Jimmy Butler,30,"Houston, TX",USA,,,Marquette University,,,34.1
+94,Jimmy Butler,30,"Houston, TX",USA,,,Marquette University,,,29.8
+95,Bruno Caboclo,24,Osasco,Brazil,,,,,,15.8
+96,Jose Calderon,38,Villanueva de la Serena,Spain,,,,,,6.199999999999999
+97,Kentavious Caldwell-Pope,27,"Thomaston, GA",USA,,,University of Georgia,,,16.7
+98,Isaiah Canaan,28,"Biloxi, MS",USA,,,Murray State University,,,13.999999999999998
+99,Isaiah Canaan,28,"Biloxi, MS",USA,,,Murray State University,,,8.500000000000002
+100,Isaiah Canaan,28,"Biloxi, MS",USA,,,Murray State University,,,3.5
+101,Clint Capela,25,Geneva,Switzerland,,,,,,32.8
+102,DeMarre Carroll,33,"Birmingham, AL",USA,,,University of Missouri,,,18.1
+103,Jevon Carter,24,"Oak Park, IL",USA,,,,,,8.9
+104,Vince Carter,43,"Daytona Beach, FL",USA,,,University of North Carolina,,,11.9
+105,Wendell Carter Jr.,20,"Atlanta, GA",USA,,,,,,21.000000000000004
+106,Michael Carter-Williams,28,"Hamilton, MA",USA,,,Syracuse University,,,7.3999999999999995
+107,Michael Carter-Williams,28,"Hamilton, MA",USA,,,Syracuse University,,,16.0
+108,Alex Caruso,26,"College Station, TX",USA,,,Texas A&M University,,,16.4
+109,Omri Casspi,31,Holon,Israel,,,,,,10.999999999999998
+110,Willie Cauley-Stein,26,"Spearville, KS",USA,,,University of Kentucky,,,24.5
+111,Troy Caupain,24,"New York, NY",USA,,,,,,4.5
+112,Tyler Cavanaugh,26,"Syracuse, NY",USA,,,George Washington University,,,1.6
+113,Tyson Chandler,37,"Hanford, CA",USA,,,,,,10.600000000000001
+114,Tyson Chandler,37,"Hanford, CA",USA,,,,,,10.2
+115,Wilson Chandler,32,"Benton Harbor, MI",USA,,,DePaul University,,,14.4
+116,Wilson Chandler,32,"Benton Harbor, MI",USA,,,DePaul University,,,8.499999999999998
+117,Joe Chealey,24,"Orlando, FL",USA,,,,,,3.0
+118,Chris Chiozza,24,"Memphis, TN",USA,,,,,,2.3000000000000003
+119,Marquese Chriss,22,"Sacramento, CA",USA,,,University of Washington,,,4.3
+120,Marquese Chriss,22,"Sacramento, CA",USA,,,University of Washington,,,11.4
+121,Gary Clark,25,"Smithfield, NC",USA,,,,,,6.5
+122,Ian Clark,29,"Memphis, TN",USA,,,Belmont University,,,10.299999999999999
+123,Jordan Clarkson,27,"Tampa, FL",USA,,,University of Missouri,,,23.4
+124,John Collins,22,"Layton, UT",USA,,,Wake Forest University,,,32.3
+125,Zach Collins,22,"Las Vegas, NV",USA,,,Gonzaga University,,,12.900000000000002
+126,Darren Collison,32,"Rancho Cucamonga, CA",USA,,,"University of California, Los Angeles",,,21.799999999999997
+127,Bonzie Colson,24,"Washington, DC",USA,,,,,,9.799999999999999
+128,Mike Conley,32,"Fayetteville, AR",USA,,,Ohio State University,,,32.49999999999999
+129,Pat Connaughton,27,"Arlington, MA",USA,,,University of Notre Dame,,,14.000000000000002
+130,Quinn Cook,27,"Washington, DC",USA,,,Duke University,,,10.8
+131,DeMarcus Cousins,29,"Mobile, AL",USA,,,University of Kentucky,,,29.9
+132,Robert Covington,29,"Bellwood, IL",USA,,,Tennessee State University,,,21.200000000000003
+133,Robert Covington,29,"Bellwood, IL",USA,,,Tennessee State University,,,25.0
+134,Allen Crabbe,28,"Los Angeles, CA",USA,,,University of California,,,14.9
+135,Torrey Craig,29,"Columbia, SC",USA,,,University of South Carolina Upstate,,,11.299999999999999
+136,Jamal Crawford,40,"Seattle, WA",USA,,,University of Michigan,,,13.5
+137,Mitch Creek,27,Horsham,Australia,,,,,,7.7
+138,Mitch Creek,27,Horsham,Australia,,,,,,10.0
+139,Jae Crowder,29,"Villa Rica, GA",USA,,,Marquette University,,,19.599999999999998
+140,Dante Cunningham,32,"Clinton, MD",USA,,,Villanova University,,,7.300000000000001
+141,Seth Curry,29,"Charlotte, NC",USA,,,Duke University,,,11.1
+142,Stephen Curry,32,"Akron, OH",USA,,,Davidson College,,,39.5
+143,Troy Daniels,28,"Roanoke, VA",USA,,,Virginia Commonwealth University,,,8.7
+144,Anthony Davis,27,"Chicago, IL",USA,,,University of Kentucky,,,45.8
+145,Deyonta Davis,23,"Muskegon, MI",USA,,,Michigan State University,,,9.5
+146,Ed Davis,30,"Washington, DC",USA,,,University of North Carolina,,,16.0
+147,Tyler Davis,22,"San Jose, CA",USA,,,,,,1.0
+148,Dewayne Dedmon,30,"Lancaster, CA",USA,,,University of Southern California,,,21.900000000000002
+149,Sam Dekker,25,"Sheboygan, WI",USA,,,University of Wisconsin,,,12.2
+150,Sam Dekker,25,"Sheboygan, WI",USA,,,University of Wisconsin,,,10.999999999999998
+151,Ángel Delgado,25,Santo Domingo,Dominican Republic,,,,,,4.0
+152,Matthew Dellavedova,29,Maryborough,Australia,,,Saint Mary's College of California,,,5.1000000000000005
+153,Matthew Dellavedova,29,Maryborough,Australia,,,Saint Mary's College of California,,,13.799999999999999
+154,Luol Deng,34,Wow,South Sudan,,,Duke University,,,12.299999999999999
+155,DeMar DeRozan,30,"Compton, CA",USA,,,University of Southern California,,,35.0
+156,Marcus Derrickson,24,"Washington, DC",USA,,,,,,5.6
+157,Cheick Diallo,23,Kayes,Mali,,,University of Kansas,,,12.7
+158,Hamidou Diallo,21,"Queens, NY",USA,,,,,,6.5
+159,Gorgui Dieng,30,Kebemer,Senegal,,,University of Louisville,,,12.5
+160,Spencer Dinwiddie,27,"Los Angeles, CA",USA,,,University of Colorado,,,24.599999999999998
+161,Donte DiVincenzo,23,"Newark, DE",USA,,,,,,9.1
+162,Luka Doncic,21,Ljubjana,Slovenia,,,,,,36.4
+163,Tyler Dorsey,24,"Pasadena, CA",USA,,,University of Oregon,,,5.8
+164,Tyler Dorsey,24,"Pasadena, CA",USA,,,University of Oregon,,,15.400000000000002
+165,Damyean Dotson,25,"Houston, TX",USA,,,University of Houston,,,17.0
+166,PJ Dozier,23,"Columbia, SC",USA,,,,,,7.1
+167,Goran Dragic,33,Ljubljana,Slovenia,,,,,,22.500000000000004
+168,Andre Drummond,26,"Mount Vernon, NY",USA,,,University of Connecticut,,,37.8
+169,Jared Dudley,34,"San Diego, CA",USA,,,Boston College,,,9.8
+170,Kris Dunn,26,"New London, CT",USA,,,Providence College,,,23.4
+171,Kevin Durant,31,"Washington, DC",USA,,,University of Texas at Austin,,,40.199999999999996
+172,Trevon Duval,21,"New Castle, DE",USA,,,,,,2.7
+173,Vincent Edwards,24,"Middletown, OH",USA,,,,,,2.5
+174,Henry Ellenson,23,"Rice Lake, WI",USA,,,Marquette University,,,11.0
+175,Henry Ellenson,23,"Rice Lake, WI",USA,,,Marquette University,,,10.8
+176,Wayne Ellington,32,"Wynnewood, PA",USA,,,University of North Carolina,,,12.6
+177,Wayne Ellington,32,"Wynnewood, PA",USA,,,University of North Carolina,,,16.8
+178,Joel Embiid,26,Yaounde,Cameroon,,,University of Kansas,,,47.400000000000006
+179,James Ennis III,29,"Ventura, CA",USA,,,"California State University, Long Beach",,,12.4
+180,James Ennis III,29,"Ventura, CA",USA,,,"California State University, Long Beach",,,10.3
+181,Drew Eubanks,23,"Starkville, MS",USA,,,,,,3.9
+182,Jacob Evans,22,"Jacksonville, NC",USA,,,,,,3.2000000000000006
+183,Jawun Evans,23,"Greenville, SC",USA,,,Oklahoma State University,,,4.4
+184,Jawun Evans,23,"Greenville, SC",USA,,,Oklahoma State University,,,0.0
+185,Tyreke Evans,30,"Chester, PA",USA,,,University of Memphis,,,16.6
+186,Dante Exum,24,Melbourne,Australia,,,,,,11.5
+187,Kenneth Faried,30,"Newark, NJ",USA,,,Morehead State University,,,9.5
+188,Kenneth Faried,30,"Newark, NJ",USA,,,Morehead State University,,,23.300000000000004
+189,Derrick Favors,28,"Atlanta, GA",USA,,,Georgia Institute of Technology,,,22.5
+190,Cristiano Felicio,27,Pouso Alegre,Brazil,,,,,,8.499999999999998
+191,Raymond Felton,35,"Marion, SC",USA,,,University of North Carolina,,,7.2
+192,Terrance Ferguson,21,"Tulsa, OK",USA,,,,,,10.5
+193,Yogi Ferrell,26,"Indianapolis, IN",USA,,,Indiana University,,,9.9
+194,Dorian Finney-Smith,26,"Portsmouth, VA",USA,,,University of Florida,,,14.9
+195,Bryn Forbes,26,"Lansing, MI",USA,,,Michigan State University,,,17.3
+196,Evan Fournier,27,Saint-Maurice,France,,,,,,22.900000000000002
+197,De'Aaron Fox,22,"New Orleans, LA",USA,,,University of Kentucky,,,30.600000000000005
+198,Tim Frazier,29,"Houston, TX",USA,,,Pennsylvania State University,,,12.9
+199,Tim Frazier,29,"Houston, TX",USA,,,Pennsylvania State University,,,12.8
+200,Melvin Frazier Jr.,23,"New Orleans, LA",USA,,,,,,2.2
+201,Jimmer Fredette,31,"Glens Falls, NY",USA,,,Brigham Young University,,,6.7
+202,Channing Frye,36,"White Plains, NY",USA,,,University of Arizona,,,5.8999999999999995
+203,Markelle Fultz,21,"Upper Marlboro, MD",USA,,,University of Washington,,,16.099999999999998
+204,Danilo Gallinari,31,Sant'Angelo Lodigiano,Italy,,,,,,29.5
+205,Langston Galloway,28,"Baton Rouge, LA",USA,,,Saint Joseph's University,,,12.2
+206,Billy Garrett,25,"Chicago, IL",USA,,,,,,9.499999999999998
+207,Marc Gasol,35,Barcelona,Spain,,,,,,31.299999999999997
+208,Marc Gasol,35,Barcelona,Spain,,,,,,21.499999999999996
+209,Pau Gasol,39,Barcelona,Spain,,,,,,11.5
+210,Pau Gasol,39,Barcelona,Spain,,,,,,5.6
+211,Rudy Gay,33,"Brooklyn, NY",USA,,,University of Connecticut,,,24.400000000000002
+212,Paul George,29,"Palmdale, CA",USA,,,"California State University, Fresno",,,42.800000000000004
+213,Taj Gibson,34,"Brooklyn, NY",USA,,,University of Southern California,,,19.8
+214,Harry Giles III,21,"Winston-Salem, NC",USA,,,Duke University,,,13.200000000000001
+215,Shai Gilgeous-Alexander,21,"Toronto, ON",Canada,,,,,,18.6
+216,Rudy Gobert,27,Saint-Quentin,France,,,,,,33.800000000000004
+217,Brandon Goodwin,24,,,,,,,,2.5
+218,Aaron Gordon,24,"San Jose, CA",USA,,,University of Arizona,,,28.4
+219,Eric Gordon,31,"Indianapolis, IN",USA,,,Indiana University,,,21.299999999999997
+220,Marcin Gortat,36,Lodz,Poland,,,,,,12.6
+221,Devonte' Graham,25,"Raleigh, NC",USA,,,,,,9.2
+222,Treveon Graham,26,"Washington, DC",USA,,,Virginia Commonwealth University,,,9.9
+223,Jerami Grant,26,"Portland, OR",USA,,,Syracuse University,,,21.8
+224,Jerian Grant,27,"Silver Spring, MD",USA,,,University of Notre Dame,,,9.2
+225,Donte Grantham,25,,,,,,,,0.0
+226,Danny Green,32,"North Babylon, NY",USA,,,University of North Carolina,,,17.5
+227,Draymond Green,30,"Saginaw, MI",USA,,,Michigan State University,,,24.1
+228,Gerald Green,34,"Houston, TX",USA,,,,,,13.1
+229,JaMychal Green,29,"Montgomery, AL",USA,,,University of Alabama,,,18.200000000000003
+230,JaMychal Green,29,"Montgomery, AL",USA,,,University of Alabama,,,16.7
+231,Jeff Green,33,"Cheverly, MD",USA,,,Georgetown University,,,19.200000000000003
+232,Blake Griffin,31,"Oklahoma City, OK",USA,,,University of Oklahoma,,,38.5
+233,Daniel Hamilton,24,"Los Angeles, CA",USA,,,University of Connecticut,,,7.1
+234,Dusty Hannahs,26,,,,,,,,7.5
+235,Tim Hardaway Jr.,28,"Orinda, CA",USA,,,University of Michigan,,,26.3
+236,Tim Hardaway Jr.,28,"Orinda, CA",USA,,,University of Michigan,,,21.3
+237,James Harden,30,"Los Angeles, CA",USA,,,Arizona State University,,,52.900000000000006
+238,Maurice Harkless,26,"Queens, NY",USA,,,St. John's University,,,15.399999999999999
+239,Montrezl Harrell,26,"Tarboro, NC",USA,,,University of Louisville,,,27.3
+240,Devin Harris,37,"Milwaukee, WI",USA,,,University of Wisconsin,,,10.4
+241,Gary Harris,25,"Fishers, IN",USA,,,Michigan State University,,,19.2
+242,Joe Harris,28,"Chelan, WA",USA,,,University of Virginia,,,20.699999999999996
+243,Tobias Harris,27,"Islip, NY",USA,,,University of Tennessee,,,32.5
+244,Tobias Harris,27,"Islip, NY",USA,,,University of Tennessee,,,29.9
+245,Andrew Harrison,25,"San Antonio, TX",USA,,,University of Kentucky,,,2.0
+246,Andrew Harrison,25,"San Antonio, TX",USA,,,University of Kentucky,,,8.1
+247,Andrew Harrison,25,"San Antonio, TX",USA,,,University of Kentucky,,,3.5
+248,Shaquille Harrison,26,"Kansas City, MO",USA,,,,,,13.0
+249,Josh Hart,25,"Silver Spring, MD",USA,,,Villanova University,,,14.5
+250,Isaiah Hartenstein,21,"Eugene, OR",Germany,,,,,,4.7
+251,Udonis Haslem,39,"Miami, FL",USA,,,University of Florida,,,5.4
+252,Gordon Hayward,30,"Indianapolis, IN",USA,,,Butler University,,,20.5
+253,John Henson,29,"Greensboro, NC",USA,,,University of North Carolina,,,13.0
+254,Juancho Hernangomez,24,Madrid,Spain,,,,,,11.200000000000001
+255,Willy Hernangomez,25,,Spain,,,,,,14.4
+256,Mario Hezonja,25,Dubrovnik,Croatia,,,,,,15.5
+257,Isaiah Hicks,25,"Oxford, NC",USA,,,University of North Carolina,,,8.3
+258,Buddy Hield,27,Freeport,Bahamas,,,University of Oklahoma,,,29.299999999999997
+259,Haywood Highsmith,23,,,,,,,,3.4
+260,Nene Hilario,37,Sao Carlos,Brazil,,,,,,7.9
+261,George Hill,33,"Indianapolis, IN",USA,,,Indiana University-Purdue University Indianapolis,,,16.8
+262,George Hill,33,"Indianapolis, IN",USA,,,Indiana University-Purdue University Indianapolis,,,12.5
+263,Solomon Hill,29,"Los Angeles, CA",USA,,,University of Arizona,,,9.2
+264,Aaron Holiday,23,"Ruston, LA",USA,,,,,,9.600000000000001
+265,Jrue Holiday,29,"Chatsworth, CA",USA,,,"University of California, Los Angeles",,,36.3
+266,Justin Holiday,31,"Mission Hills, CA",USA,,,University of Washington,,,20.6
+267,Justin Holiday,31,"Mission Hills, CA",USA,,,University of Washington,,,15.9
+268,John Holland,31,"Bronx, NY",USA,,,Boston University,,,0.0
+269,Rondae Hollis-Jefferson,25,"Chester, PA",USA,,,University of Arizona,,,17.0
+270,Richaun Holmes,26,"Lockport, IL",USA,,,Bowling Green State University,,,15.499999999999998
+271,Rodney Hood,27,"Meridian, MS",USA,,,Duke University,,,17.6
+272,Rodney Hood,27,"Meridian, MS",USA,,,Duke University,,,13.5
+273,Al Horford,33,Puerto Plata,Dominican Republic,,,University of Florida,,,26.599999999999998
+274,Danuel House Jr.,26,"Houston, TX",USA,,,Texas A&M University,,,14.8
+275,Dwight Howard,34,"Atlanta, GA",USA,,,,,,23.599999999999998
+276,Kevin Huerter,21,"Albany, NY",USA,,,,,,17.1
+277,Isaac Humphries,22,Sydney,Australia,,,,,,5.4
+278,RJ Hunter,26,"Oxford, OH",USA,,,Georgia State University,,,24.0
+279,Chandler Hutchison,23,,,,,,,,10.8
+280,Serge Ibaka,30,Brazzaville,Democratic Republic of the Congo,,,,,,26.2
+281,Andre Iguodala,36,"Springfield, IL",USA,,,University of Arizona,,,14.300000000000002
+282,Ersan Ilyasova,32,Eskisehir,Turkey,,,,,,12.900000000000002
+283,Joe Ingles,32,Happy Valley,Australia,,,,,,23.2
+284,Andre Ingram,34,"Richmond, VA",USA,,,,,,0.7
+285,Brandon Ingram,22,"Kinston, NC",USA,,,Duke University,,,27.6
+286,Kyrie Irving,28,Melbourne,Australia,,,Duke University,,,37.800000000000004
+287,Jonathan Isaac,22,"New York, NY",USA,,,Florida State University,,,18.3
+288,Wes Iwundu,25,"Houston, TX",USA,,,Kansas State University,,,9.500000000000002
+289,Demetrius Jackson,25,"South Bend, IN",USA,,,University of Notre Dame,,,5.3
+290,Frank Jackson,21,"Washington, DC",USA,,,Duke University,,,11.8
+291,Josh Jackson,23,"San Diego, CA",USA,,,University of Kansas,,,19.799999999999997
+292,Justin Jackson,23,"Houston, TX",Canada,,,Maryland,,,11.4
+293,Justin Jackson,23,"Houston, TX",Canada,,,Maryland,,,11.8
+294,Reggie Jackson,29,Pordenone,USA,,,Boston College,,,23.0
+295,Jaren Jackson Jr.,20,"Plainfield, NJ",USA,,,,,,21.9
+296,LeBron James,35,"Akron, OH",USA,,,,,,46.1
+297,Amile Jefferson,26,"Philadelphia, PA",USA,,,Duke University,,,4.6000000000000005
+298,John Jenkins,29,"Nashville, TN",USA,,,Vanderbilt University,,,1.9
+299,John Jenkins,29,"Nashville, TN",USA,,,Vanderbilt University,,,7.9
+300,Jonas Jerebko,33,Kinna,Sweden,,,,,,12.1
+301,Alize Johnson,23,"Williamsport, PA",USA,,,,,,2.7
+302,Amir Johnson,32,"Los Angeles, CA",USA,,,,,,8.600000000000001
+303,BJ Johnson,24,,,,,,,,5.1
+304,BJ Johnson,24,,,,,,,,2.0
+305,James Johnson,33,"Cheyenne, WY",USA,,,Wake Forest,,,14.6
+306,Stanley Johnson,23,"Los Angeles, CA",USA,,,University of Arizona,,,13.6
+307,Stanley Johnson,23,"Los Angeles, CA",USA,,,University of Arizona,,,9.999999999999998
+308,Tyler Johnson,27,"Grand Forks, ND",USA,,,"California State University, Fresno",,,17.4
+309,Tyler Johnson,27,"Grand Forks, ND",USA,,,"California State University, Fresno",,,20.900000000000002
+310,Wesley Johnson,32,"Corsicana, TX",USA,,,Syracuse University,,,7.2
+311,Wesley Johnson,32,"Corsicana, TX",USA,,,Syracuse University,,,5.5
+312,Nikola Jokic,25,Sombor,Serbia,,,,,,40.2
+313,Damian Jones,24,"Baton Rouge, LA",USA,,,Vanderbilt University,,,11.2
+314,Jalen Jones,26,"Dallas, TX",USA,,,Texas A&M University,,,8.299999999999999
+315,Jemerrio Jones,25,,,,,,,,17.099999999999998
+316,Terrence Jones,28,"Portland, OR",USA,,,University of Kentucky,,,3.0
+317,Tyus Jones,23,"Burnsville, MN",USA,,,Duke University,,,14.999999999999998
+318,Derrick Jones Jr.,23,"Chester, PA",USA,,,"University of Nevada, Las Vegas",,,13.1
+319,DeAndre Jordan,31,"Houston, TX",USA,,,Texas A&M University,,,28.400000000000002
+320,DeAndre Jordan,31,"Houston, TX",USA,,,Texas A&M University,,,26.800000000000004
+321,Cory Joseph,28,Toronto,Canada,,,University of Texas at Austin,,,15.200000000000001
+322,Frank Kaminsky,27,"Winfield, IL",USA,,,University of Wisconsin,,,14.000000000000002
+323,Enes Kanter,27,Zurich,Turkey,,,,,,27.199999999999996
+324,Enes Kanter,27,Zurich,Turkey,,,,,,24.099999999999998
+325,Luke Kennard,23,"Middletown, OH",USA,,,Duke University,,,14.9
+326,Michael Kidd-Gilchrist,26,"Philadelphia, PA",USA,,,University of Kentucky,,,12.6
+327,George King,25,"Fayetteville, NC",USA,,,,,,1.0
+328,Maxi Kleber,28,Wurzburg,Germany,,,,,,13.999999999999998
+329,Brandon Knight,28,"Miami, FL",USA,,,University of Kentucky,,,4.8
+330,Brandon Knight,28,"Miami, FL",USA,,,University of Kentucky,,,13.499999999999998
+331,Kevin Knox II,20,"Phoenix, AZ",USA,,,,,,19.300000000000004
+332,Furkan Korkmaz,22,Istanbul,Turkey,,,,,,9.7
+333,Luke Kornet,24,"Lantana, TX",USA,,,Vanderbilt University,,,12.6
+334,Kyle Korver,39,"Lakewood, CA",USA,,,Creighton University,,,9.999999999999998
+335,Kyle Korver,39,"Lakewood, CA",USA,,,Creighton University,,,13.399999999999999
+336,Kosta Koufos,31,"Canton, OH",USA,,,Ohio State University,,,9.600000000000001
+337,Rodions Kurucs,22,Cēsis,Latvia,,,,,,14.3
+338,Kyle Kuzma,24,"Flint, MI",USA,,,University of Utah,,,27.7
+339,Skal Labissiere,24,Port-Au-Prince,Haiti,,,University of Kentucky,,,5.5
+340,Skal Labissiere,24,Port-Au-Prince,Haiti,,,University of Kentucky,,,6.699999999999999
+341,Jeremy Lamb,27,"Henrico Valley, VA",USA,,,University of Connecticut,,,24.5
+342,Zach LaVine,25,"Renton, WA",USA,,,"University of California, Los Angeles",,,34.3
+343,Jake Layman,26,"Norwood, MA",USA,,,University of Maryland,,,12.2
+344,TJ Leaf,22,Tel Aviv,USA,,,"University of California, Los Angeles",,,7.0
+345,Courtney Lee,34,"Indianapolis, IN",USA,,,Western Kentucky University,,,9.1
+346,Courtney Lee,34,"Indianapolis, IN",USA,,,Western Kentucky University,,,6.3999999999999995
+347,Damion Lee,27,Baltimore. MD,USA,,,Louisville,,,7.700000000000001
+348,Walt Lemon Jr.,27,,,,,,,,25.8
+349,Alex Len,26,Antratsit,Ukraine,,,University of Maryland,,,19.0
+350,Kawhi Leonard,28,"Los Angeles, CA",USA,,,San Diego State University,,,39.39999999999999
+351,Meyers Leonard,28,"Woodbridge, VA",USA,,,University of Illinois at Urbana-Champaign,,,11.299999999999999
+352,Jon Leuer,30,"Long Lake, MN",USA,,,University of Wisconsin,,,6.899999999999999
+353,Caris LeVert,25,"Columbus, OH",USA,,,University of Michigan,,,22.799999999999997
+354,Damian Lillard,29,"Oakland, CA",USA,,,Weber State University,,,38.8
+355,Jeremy Lin,31,"Palo Alto, CA",USA,,,Harvard University,,,17.3
+356,Jeremy Lin,31,"Palo Alto, CA",USA,,,Harvard University,,,12.500000000000002
+357,Shaun Livingston,34,"Peoria, IL",USA,,,,,,8.5
+358,Zach Lofton,27,,,,,,,,1.0
+359,Kevon Looney,24,"Milwaukee, WI",USA,,,"University of California, Los Angeles",,,14.2
+360,Brook Lopez,32,"North Hollywood, CA",USA,,,Stanford University,,,21.4
+361,Robin Lopez,32,"North Hollywood, CA",USA,,,Stanford University,,,15.799999999999999
+362,Kevin Love,31,"Santa Monica, CA",USA,,,"University of California, Los Angeles",,,30.7
+363,Kyle Lowry,34,"Philadelphia, PA",USA,,,Villanova University,,,29.599999999999998
+364,Jordan Loyd,26,"Atlanta, GA",USA,,,,,,3.7
+365,Kalin Lucas,30,"Sterling Heights, MI",USA,,,,,,6.0
+366,Timothe Luwawu-Cabarrot,24,Cannes,France,,,,,,3.0000000000000004
+367,Timothe Luwawu-Cabarrot,24,Cannes,France,,,,,,11.0
+368,Tyler Lydon,24,"Hudson, NY",USA,,,Syracuse University,,,1.9000000000000001
+369,Trey Lyles,24,Saskatoon,USA,,,University of Kentucky,,,14.600000000000001
+370,Scott Machado,29,"Queens, NY",USA,,,,,,3.5
+371,Shelvin Mack,29,"Lexington, KY",USA,,,Butler University,,,14.100000000000001
+372,Shelvin Mack,29,"Lexington, KY",USA,,,Butler University,,,3.4000000000000004
+373,Daryl Macon,24,,,,,,,,6.1
+374,J.P. Macura,24,"Lakeville, MN",USA,,,,,,5.5
+375,Ian Mahinmi,33,Rouen,France,,,,,,9.799999999999999
+376,Thon Maker,23,,South Sudan,,,,,,8.700000000000001
+377,Thon Maker,23,,South Sudan,,,,,,11.6
+378,Boban Marjanovic,31,Zajecar,Serbia,,,,,,12.3
+379,Boban Marjanovic,31,Zajecar,Serbia,,,,,,15.499999999999998
+380,Lauri Markkanen,22,Vantaa,Finland,,,University of Arizona,,,30.499999999999996
+381,Jarell Martin,25,"Baton Rouge, LA",USA,,,Louisiana State University,,,5.1000000000000005
+382,Frank Mason,26,"Petersburg, VA",USA,,,University of Kansas,,,8.899999999999999
+383,Yante Maten,23,"Pontiac, MI",USA,,,,,,3.0
+384,Wesley Matthews,33,"San Antonio, TX",USA,,,Marquette University,,,18.8
+385,Wesley Matthews,33,"San Antonio, TX",USA,,,Marquette University,,,12.0
+386,Wesley Matthews,33,"San Antonio, TX",USA,,,Marquette University,,,17.199999999999996
+387,Luc Mbah a Moute,33,Yaounde,Cameroon,,,"University of California, Los Angeles",,,7.7
+388,Tahjere McCall,25,,,,,,,,5.0
+389,Patrick McCaw,24,"St. Louis, MO",USA,,,"University of Nevada, Las Vegas",,,4.1000000000000005
+390,Patrick McCaw,24,"St. Louis, MO",USA,,,"University of Nevada, Las Vegas",,,6.3
+391,CJ McCollum,28,"Canton, OH",USA,,,Lehigh University,,,29.2
+392,T.J. McConnell,28,"Pittsburgh, PA",USA,,,University of Arizona,,,13.299999999999999
+393,Doug McDermott,28,"Grand Forks, ND",USA,,,Creighton University,,,9.899999999999999
+394,JaVale McGee,32,"Flint, MI",USA,,,"University of Nevada, Reno",,,22.900000000000002
+395,Rodney McGruder,28,"Landover, MD",USA,,,Kansas State University,,,13.599999999999998
+396,Alfonzo McKinnie,27,"Chicago, IL",USA,,,University of Wisconsin-Green Bay,,,9.0
+397,Ben McLemore,27,"St. Louis, MO",USA,,,University of Kansas,,,5.5
+398,Jordan McRae,29,"Savannah, GA",USA,,,University of Tennessee,,,9.2
+399,Jodie Meeks,32,"Norcross, GA",USA,,,University of Kentucky,,,9.1
+400,Salah Mejri,33,Jendouba,Tunisia,,,,,,9.600000000000001
+401,De'Anthony Melton,21,"North Hollywood, CA",USA,,,,,,12.8
+402,Chimezie Metu,23,"Los Angeles, CA",USA,,,,,,3.7
+403,Khris Middleton,28,"Charleston, SC",USA,,,Texas A&M University,,,29.700000000000003
+404,CJ Miles,33,"Dallas, TX",USA,,,,,,8.399999999999999
+405,CJ Miles,33,"Dallas, TX",USA,,,,,,13.5
+406,Darius Miller,30,"Maysville, KY",USA,,,University of Kentucky,,,13.0
+407,Malcolm Miller,27,"Gaithersburg, MD",USA,,,College of the Holy Cross,,,4.299999999999999
+408,Patty Mills,31,Canberra,Australia,,,Saint Mary's College of California,,,15.8
+409,Paul Millsap,35,"Monroe, LA",USA,,,Louisiana Tech University,,,23.8
+410,Shake Milton,23,"Savannah, GA",USA,,,,,,7.800000000000002
+411,Nikola Mirotic,29,Podgorica,Montenegro,,,,,,27.5
+412,Nikola Mirotic,29,Podgorica,Montenegro,,,,,,19.7
+413,Donovan Mitchell,23,"Elmsford, NY",USA,,,University of Louisville,,,33.9
+414,Naz Mitrou-Long,26,Mississauga,Canada,,,Iowa State University,,,2.8000000000000003
+415,Malik Monk,22,"Jonesboro, AR",USA,,,University of Kentucky,,,13.200000000000001
+416,Greg Monroe,29,"New Orleans, LA",USA,,,Georgetown University,,,9.799999999999999
+417,Greg Monroe,29,"New Orleans, LA",USA,,,Georgetown University,,,5.0
+418,Greg Monroe,29,"New Orleans, LA",USA,,,Georgetown University,,,20.6
+419,E'Twaun Moore,31,"East Chicago, IN",USA,,,Purdue University,,,17.2
+420,Eric Moreland,28,"Houston, TX",USA,,,Oregon State University,,,3.0
+421,Eric Moreland,28,"Houston, TX",USA,,,Oregon State University,,,7.4
+422,Jaylen Morris,24,"Amherst, NY",USA,,,,,,5.2
+423,Markieff Morris,30,"Philadelphia, PA",USA,,,University of Kansas,,,19.700000000000003
+424,Markieff Morris,30,"Philadelphia, PA",USA,,,University of Kansas,,,11.700000000000001
+425,Monte Morris,24,"Grand Rapids, MI",USA,,,Iowa State University,,,17.3
+426,Marcus Morris Sr.,30,"Philadelphia, PA",USA,,,University of Kansas,,,22.400000000000002
+427,Donatas Motiejunas,29,Kaunas,Lithuania,,,,,,3.5999999999999996
+428,Johnathan Motley,24,"Houston, TX",USA,,,Baylor University,,,7.699999999999999
+429,Emmanuel Mudiay,24,Kinshasa,Democratic Republic of the Congo,,,,,,23.0
+430,Jamal Murray,23,Kitchener,Canada,,,University of Kentucky,,,28.499999999999996
+431,Dzanan Musa,20,Bihać,Bosnia,,,,,,3.1000000000000005
+432,Mike Muscala,28,"St. Louis Park, MN",USA,,,Bucknell University,,,14.0
+433,Mike Muscala,28,"St. Louis Park, MN",USA,,,Bucknell University,,,10.2
+434,Svi Mykhailiuk,22,Cherkasy,Ukraine,,,,,,5.199999999999999
+435,Svi Mykhailiuk,22,Cherkasy,Ukraine,,,,,,4.3
+436,Abdel Nader,26,Alexandria,Egypt,,,Iowa State University,,,6.7
+437,Larry Nance Jr.,27,"Akron, OH",USA,,,University of Wyoming,,,22.900000000000002
+438,Shabazz Napier,28,"Roxbury, MA",USA,,,University of Connecticut,,,14.900000000000002
+439,Raul Neto,27,Belo Horizonte,Brazil,,,,,,10.0
+440,Georges Niang,26,"Lawrence, MA",USA,,,Iowa State University,,,6.3999999999999995
+441,Joakim Noah,35,"New York, NY",USA,,,University of Florida,,,16.1
+442,Nerlens Noel,26,"Malden, MA",USA,,,University of Kentucky,,,11.8
+443,Dirk Nowitzki,41,Wurzburg,Germany,,,,,,11.7
+444,Frank Ntilikina,21,Ixelles,France,,,,,,11.5
+445,James Nunnally,29,"San Jose, CA",USA,,,,,,2.9
+446,James Nunnally,29,"San Jose, CA",USA,,,,,,6.0
+447,Jusuf Nurkic,25,Tuzla,Bosnia and Herzegovina,,,,,,31.599999999999998
+448,David Nwaba,27,"Los Angeles, CA",USA,,,"California Polytechnic State University, San Luis Obispo",,,11.799999999999999
+449,Semi Ojeleye,25,"Overland Park, KS",USA,,,Southern Methodist University,,,5.5
+450,Jahlil Okafor,24,"Chicago, IL",USA,,,Duke University,,,14.599999999999998
+451,Elie Okobo,22,Bordeaux,France,,,,,,10.7
+452,Josh Okogie,21,Lagos,Nigeria,,,,,,13.399999999999999
+453,Victor Oladipo,27,"Silver Spring, MD",USA,,,Indiana University,,,31.599999999999998
+454,Kelly Olynyk,28,Toronto,Canada,,,Gonzaga University,,,17.7
+455,Royce O'Neale,26,"Killeen, TX",USA,,,Baylor University,,,11.2
+456,Kyle O'Quinn,30,"Flushing, NY",USA,,,Norfolk State University,,,8.1
+457,Cedi Osman,25,Ohrid,Turkey,,,,,,21.200000000000003
+458,Kelly Oubre Jr.,24,"New Orleans, LA",USA,,,University of Kansas,,,19.599999999999998
+459,Kelly Oubre Jr.,24,"New Orleans, LA",USA,,,University of Kansas,,,25.700000000000003
+460,Zaza Pachulia,36,Tbilisi,Georgia,,,,,,9.799999999999999
+461,Jabari Parker,25,"Chicago, IL",USA,,,Duke University,,,23.7
+462,Jabari Parker,25,"Chicago, IL",USA,,,Duke University,,,26.4
+463,Tony Parker,37,Bruges,Belgium,,,,,,15.2
+464,Chandler Parsons,31,"Casselberry, FL",USA,,,University of Florida,,,13.0
+465,Patrick Patterson,31,"Washington, DC",USA,,,University of Kentucky,,,6.9
+466,Justin Patton,22,"Riverdale, GA",USA,,,Creighton University,,,5.4
+467,Chris Paul,34,"Winston-Salem, NC",USA,,,Wake Forest University,,,30.099999999999998
+468,Cameron Payne,25,"Memphis, TN",USA,,,Murray State University,,,10.9
+469,Cameron Payne,25,"Memphis, TN",USA,,,Murray State University,,,14.1
+470,Elfrid Payton,26,"Gretna, LA",USA,,,University of Louisiana at Lafayette,,,24.799999999999997
+471,Gary Payton II,27,"Seattle, WA",USA,,,Oregon State University,,,7.0
+472,Theo Pinson,24,"Greensboro, NC",USA,,,,,,8.0
+473,Mason Plumlee,30,"Fort Wayne, IN",USA,,,Duke University,,,18.9
+474,Miles Plumlee,31,"Fort Wayne, IN",USA,,,Duke University,,,8.0
+475,Jakob Poeltl,24,Vienna,Austria,,,University of Utah,,,13.3
+476,Quincy Pondexter,32,"Fresno, CA",USA,,,University of Washington,,,3.4000000000000004
+477,Otto Porter Jr.,26,"St. Louis, MO",USA,,,Georgetown University,,,22.400000000000002
+478,Otto Porter Jr.,26,"St. Louis, MO",USA,,,Georgetown University,,,27.5
+479,Bobby Portis,25,"Little Rock, AR",USA,,,University of Arkansas,,,23.599999999999998
+480,Bobby Portis,25,"Little Rock, AR",USA,,,University of Arkansas,,,25.799999999999997
+481,Dwight Powell,28,Toronto,Canada,,,Stanford University,,,18.7
+482,Norman Powell,26,"San Diego, CA",USA,,,"University of California, Los Angeles",,,13.199999999999998
+483,Alex Poythress,26,"Savannah, GA",USA,,,University of Kentucky,,,10.2
+484,Taurean Prince,26,"San Marcos, TX",USA,,,Baylor University,,,20.500000000000004
+485,Ivan Rabb,23,"Sacramento, CA",USA,,,University of California,,,11.700000000000001
+486,Chasson Randle,27,"Rock Island, IL",USA,,,Stanford University,,,9.2
+487,Julius Randle,25,"Dallas, TX",USA,,,University of Kentucky,,,34.5
+488,JJ Redick,35,"Cookeville, TN",USA,,,Duke University,,,23.799999999999997
+489,Davon Reed,24,"Princeton, NJ",USA,,,University of Miami,,,2.1999999999999997
+490,Cameron Reynolds,25,,,,,,,,7.699999999999999
+491,Josh Richardson,26,"Edmond, OK",USA,,,University of Tennessee,,,25.900000000000006
+492,Malachi Richardson,24,"Trenton, NJ",USA,,,Syracuse University,,,2.0
+493,Austin Rivers,27,"Santa Monica, CA",USA,,,Duke University,,,12.5
+494,Austin Rivers,27,"Santa Monica, CA",USA,,,Duke University,,,13.799999999999999
+495,Devin Robinson,25,"Christchurch, VA",USA,,,University of Florida,,,12.0
+496,Duncan Robinson,25,"York, MA",USA,,,,,,5.199999999999999
+497,Jerome Robinson,23,"Raleigh, NC",USA,,,,,,5.599999999999999
+498,Mitchell Robinson,22,"Pensacola, FL",USA,,,,,,17.5
+499,Glenn Robinson III,26,"Gary, IN",USA,,,University of Michigan,,,6.6000000000000005
+500,Rajon Rondo,34,"Louisville, KY",USA,,,University of Kentucky,,,23.9
+501,Derrick Rose,31,"Chicago, IL",USA,,,University of Memphis,,,25.8
+502,Terrence Ross,29,"Portland, OR",USA,,,University of Washington,,,21.599999999999998
+503,Terry Rozier,26,"Youngstown, OH",USA,,,University of Louisville,,,17.0
+504,Ricky Rubio,29,Barcelona,Spain,,,,,,23.9
+505,D'Angelo Russell,24,"Louisville, KY",USA,,,Ohio State University,,,33.400000000000006
+506,Domantas Sabonis,23,"Portland, OR",Lithuania,,,Gonzaga University,,,27.499999999999996
+507,Brandon Sampson,22,"Baton Rouge, LA",USA,,,,,,7.699999999999999
+508,JaKarr Sampson,27,"Cleveland, OH",USA,,,St. John's University,,,30.8
+509,Dario Saric,26,Sibenik,Croatia,,,,,,20.3
+510,Dario Saric,26,Sibenik,Croatia,,,,,,18.1
+511,Tomas Satoransky,28,Prague,Czech Republic,,,,,,18.599999999999998
+512,Dennis Schroder,26,Braunschweig,Germany,,,,,,24.200000000000003
+513,Mike Scott,31,"Chesapeake, VA",USA,,,Virginia,,,9.4
+514,Mike Scott,31,"Chesapeake, VA",USA,,,Virginia,,,12.9
+515,Thabo Sefolosha,35,Vevey,Switzerland,,,,,,7.8
+516,Wayne Selden,25,"Roxbury, MA",USA,,,University of Kansas,,,8.4
+517,Wayne Selden,25,"Roxbury, MA",USA,,,University of Kansas,,,13.599999999999998
+518,Collin Sexton,21,"Marietta, GA",USA,,,,,,23.2
+519,Landry Shamet,23,"Kansas City, MI",USA,,,,,,11.3
+520,Landry Shamet,23,"Kansas City, MI",USA,,,,,,16.000000000000004
+521,Iman Shumpert,29,"Oak Park, IL",USA,,,Georgia Institute of Technology,,,15.799999999999999
+522,Iman Shumpert,29,"Oak Park, IL",USA,,,Georgia Institute of Technology,,,9.1
+523,Pascal Siakam,26,Douala,Cameroon,,,New Mexico State University,,,28.4
+524,Jordan Sibert,27,"Cincinnati, OH",USA,,,,,,3.0
+525,Ben Simmons,23,Fitzroy,Australia,,,Louisiana State University,,,35.599999999999994
+526,Jonathon Simmons,30,"Houston, TX",USA,,,University of Houston,,,12.4
+527,Jonathon Simmons,30,"Houston, TX",USA,,,University of Houston,,,10.2
+528,Kobi Simmons,22,"Atlanta, GA",USA,,,University of Arizona,,,0.0
+529,Anfernee Simons,20,"Altamonte Springs, FL",USA,,,,,,4.999999999999999
+530,Marcus Smart,26,"Flower Mound, TX",USA,,,Oklahoma State University,,,17.9
+531,Ish Smith,31,"Charlotte, NC",USA,,,Wake Forest University,,,15.799999999999999
+532,Jason Smith,34,"Greeley, CO",USA,,,Colorado State University,,,8.3
+533,Jason Smith,34,"Greeley, CO",USA,,,Colorado State University,,,4.8
+534,Jason Smith,34,"Greeley, CO",USA,,,Colorado State University,,,6.5
+535,J.R. Smith,34,"Freehold, NJ",USA,,,,,,11.500000000000002
+536,Zhaire Smith,20,"Garland, TX",USA,,,,,,11.200000000000001
+537,Dennis Smith Jr.,22,"Fayetteville, NC",USA,,,North Carolina State University,,,21.7
+538,Dennis Smith Jr.,22,"Fayetteville, NC",USA,,,North Carolina State University,,,24.599999999999998
+539,Tony Snell,28,"Riverside, CA",USA,,,University of New Mexico,,,9.6
+540,Ray Spalding,23,"Louisville, KY",USA,,,,,,0.0
+541,Ray Spalding,23,"Louisville, KY",USA,,,,,,9.6
+542,Omari Spellman,22,"Cleveland, OH",USA,,,,,,12.200000000000001
+543,Nik Stauskas,26,Mississauga,Canada,,,University of Michigan,,,9.7
+544,Nik Stauskas,26,Mississauga,Canada,,,University of Michigan,,,8.700000000000001
+545,D.J. Stephens,29,Frankfurt,Germany,,,,,,3.0
+546,Lance Stephenson,29,"Brooklyn, NY",USA,,,University of Cincinnati,,,13.2
+547,Edmond Sumner,24,"Detroit, MI",USA,,,Xavier University,,,5.0
+548,Caleb Swanigan,22,"Indianapolis, IN",USA,,,Purdue University,,,5.4
+549,Caleb Swanigan,22,"Indianapolis, IN",USA,,,Purdue University,,,9.0
+550,Jayson Tatum,22,"St. Louis, MO",USA,,,Duke University,,,25.6
+551,Jeff Teague,31,"Indianapolis, IN",USA,,,Wake Forest University,,,24.199999999999996
+552,Garrett Temple,33,"Baton Rouge, LA",USA,,,Louisiana State University,,,15.4
+553,Garrett Temple,33,"Baton Rouge, LA",USA,,,Louisiana State University,,,9.799999999999999
+554,Milos Teodosic,33,Valjevo,Serbia,,,,,,6.6000000000000005
+555,Jared Terrell,25,"Weymouth, MA",USA,,,,,,3.8000000000000003
+556,Emanuel Terry,24,"Birmingham, IL",USA,,,,,,9.5
+557,Emanuel Terry,24,"Birmingham, IL",USA,,,,,,3.0
+558,Daniel Theis,28,Salzgitter,Germany,,,,,,11.0
+559,Isaiah Thomas,31,"Tacoma, WA",USA,,,University of Washington,,,11.7
+560,Khyri Thomas,23,"Cupertino, CA",USA,,,,,,3.8999999999999995
+561,Lance Thomas,31,"Brooklyn, NY",USA,,,Duke University,,,8.2
+562,Klay Thompson,30,"Los Angeles, CA",USA,,,Washington State University,,,29.5
+563,Tristan Thompson,29,Toronto,Canada,,,University of Texas at Austin,,,24.1
+564,Sindarius Thornwell,25,"Lancaster, SC",USA,,,University of South Carolina,,,2.3000000000000003
+565,Anthony Tolliver,34,"Springfield, MO",USA,,,Creighton University,,,9.000000000000002
+566,Karl-Anthony Towns,24,"Edison, NJ",USA,,,University of Kentucky,,,42.699999999999996
+567,Gary Trent Jr.,21,,,,,,,,3.9000000000000004
+568,Allonzo Trier,24,"Seatle, WS",USA,,,,,,16.5
+569,P.J. Tucker,34,"Raleigh, NC",USA,,,University of Texas at Austin,,,16.4
+570,Evan Turner,31,"Chicago, IL",USA,,,Ohio State University,,,15.9
+571,Myles Turner,24,"Bedford, TX",USA,,,University of Texas at Austin,,,25.6
+572,Ekpe Udoh,32,"Edmond, OK",USA,,,Baylor University,,,5.3999999999999995
+573,Tyler Ulis,24,"Detroit, MI",USA,,,University of Kentucky,,,0.0
+574,Jonas Valanciunas,27,Utena,Lithuania,,,,,,22.2
+575,Jonas Valanciunas,27,Utena,Lithuania,,,,,,34.699999999999996
+576,Jarred Vanderbilt,21,"Houston, TX",USA,,,,,,3.5
+577,Fred VanVleet,26,"Rockford, IL",USA,,,Wichita State University,,,19.599999999999998
+578,Noah Vonleh,24,"Haverhill, MA",USA,,,Indiana University,,,19.599999999999998
+579,Nikola Vucevic,29,Morges,Montenegro,,,University of Southern California,,,38.699999999999996
+580,Dwyane Wade,38,"Chicago, IL",USA,,,Marquette University,,,24.5
+581,Moritz Wagner,22,Berlin,Germany,,,,,,7.8999999999999995
+582,Dion Waiters,28,"Philadelphia, PA",USA,,,Syracuse University,,,18.4
+583,Kemba Walker,29,"Bronx, NY",USA,,,University of Connecticut,,,37.5
+584,Lonnie Walker IV,21,"Reading, PA",USA,,,,,,4.6
+585,John Wall,29,"Raleigh, NC",USA,,,University of Kentucky,,,35.4
+586,Tyrone Wallace,25,"Bakersfield, CA",USA,,,University of California,,,6.199999999999999
+587,Brad Wanamaker,30,"Philadelphia, PA",USA,,,,,,6.999999999999999
+588,T.J. Warren,26,"Durham, NC",USA,,,North Carolina State University,,,25.4
+589,Julian Washburn,28,,,,,,,,6.1
+590,Yuta Watanabe,25,Miki,Japan,,,,,,5.6
+591,Thomas Welsh,24,"Torrance, CA",USA,,,,,,2.5
+592,Russell Westbrook,31,"Long Beach, CA",USA,,,"University of California, Los Angeles",,,47.1
+593,Derrick White,25,"Parker, CO",USA,,,University of Colorado,,,19.2
+594,Okaro White,27,"Clearwater, FL",USA,,,Florida State University,,,0.7
+595,Hassan Whiteside,30,"Gastonia, NC",USA,,,Marshall University,,,27.000000000000004
+596,Andrew Wiggins,25,Toronto,Canada,,,University of Kansas,,,27.1
+597,Alan Williams,27,"Phoenix, AZ",USA,,,"University of California, Santa Barbara",,,8.2
+598,C.J. Williams,30,"Fayetteville, NC",USA,,,North Carolina State University,,,4.300000000000001
+599,Johnathan Williams,24,"Memphis, TN",USA,,,,,,11.700000000000001
+600,Kenrich Williams,25,,,,,,,,14.1
+601,Lou Williams,33,"Memphis, TN",USA,,,,,,29.1
+602,Marvin Williams,33,"Bremerton, WA",USA,,,University of North Carolina,,,18.4
+603,Troy Williams,25,"Hampton, VA",USA,,,Indiana University,,,9.5
+604,Robert Williams III,22,"Shreveport, LA",USA,,,,,,6.7
+605,D.J. Wilson,24,"Mt. Shasta, CA",USA,,,University of Michigan,,,12.299999999999999
+606,Justise Winslow,24,"Houston, TX",USA,,,Duke University,,,23.700000000000003
+607,Christian Wood,24,"Long Beach, CA",USA,,,"University of Nevada, Las Vegas",,,4.5
+608,Christian Wood,24,"Long Beach, CA",USA,,,"University of Nevada, Las Vegas",,,27.699999999999996
+609,Delon Wright,27,"Los Angeles, CA",USA,,,University of Utah,,,12.9
+610,Delon Wright,27,"Los Angeles, CA",USA,,,University of Utah,,,25.200000000000003
+611,Guerschon Yabusele,24,Dreux,France,,,,,,4.3999999999999995
+612,Nick Young,34,"Los Angeles, CA",USA,,,University of Southern California,,,3.1000000000000005
+613,Thaddeus Young,31,"New Orleans, LA",USA,,,Georgia Institute of Technology,,,23.5
+614,Trae Young,21,"Lubbock, TX",USA,,,,,,31.999999999999996
+615,Cody Zeller,27,"Washington, IN",USA,,,Indiana University,,,20.7
+616,Tyler Zeller,30,"Visalia, CA",USA,,,University of North Carolina,,,3.5
+617,Tyler Zeller,30,"Visalia, CA",USA,,,University of North Carolina,,,17.8
+618,Qi Zhou,24,,,,,,,,2.0
+619,Ante Zizic,23,Split,Croatia,,,,,,14.7
+620,Ivica Zubac,23,Mostar,Croatia,,,,,,15.200000000000001
+621,Ivica Zubac,23,Mostar,Croatia,,,,,,19.9
+622,Jalen Adams,24,"Melrose, MA",USA,,,,,,0
+623,Cliff Alexander,24,"Chicago, IL",USA,,,University of Kansas,,,0
+624,Kyle Alexander,23,"Milton, ON",Canada,,,,,,0
+625,Nickeil Alexander-Walker,21,"Toronto, ON",Canada,,,Virginia Tech,,,0
+626,Noah Allen,25,,USA,,,,,,0
+627,Thanasis Antetokounmpo,27,Athens,Greece,,,,,,0
+628,Kenny Atkinson,2,,,,,,,,0
+629,Cat Barber,25,,USA,,,North Carolina State,,,0
+630,RJ Barrett,19,"Toronto, ON",Canada,,,Duke,,,0
+631,Tyus Battle,22,,,,,Syracuse,,,0
+632,Darius Bazley,19,,,,,,,,0
+633,Javon Bess,24,"Pickerington, OH",USA,,,St. Louis,,,0
+634,Justin Bibbs,24,"Dayton, OH",USA,,,,,,0
+635,Goga Bitadze,20,Sagarejo,Georgia,,,,,,0
+636,Keljin Blevins,24,"Hot Springs, AR",USA,,,Montana State,,,0
+637,Trevon Bluiett,25,"Indianapolis, IN",USA,,,,,,0
+638,Bol Bol,20,Khartoum,Sudan,,,Oregon,,,0
+639,Marques Bolden,21,,,,,Duke,,,0
+640,Jordan Bone,22,"Nashville, TN",USA,,,Tennessee,,,0
+641,Phil Booth,24,"Bltimore, MD",USA,,,Villanova,,,0
+642,Brian Bowen II,21,"Saginaw, MI",USA,,,,,,0
+643,Ky Bowman,22,"Havelock, NC",USA,,,Boston College,,,0
+644,Jacobi Boykins,25,,USA,,,Louisiana Tech,,,0
+645,Jarrell Brantley,23,"Charleston, SC",USA,,,College of Charleston,,,0
+646,Ignas Brazdeikis,21,Kaunas,Lithuania,,,Michigan,,,0
+647,Oshae Brissett,21,"Toronto, ON",Canada,,,Syracuse,,,0
+648,Armoni Brooks,21,,USA,,,Houston,,,0
+649,Scott Brooks,2,"French Camp, CA",USA,,,"University of California, Irvine",,,0
+650,Barry Brown,23,"At. Petersburg, FL",USA,,,Kansas State,,,0
+651,Bobby Brown,35,"Versailles, OH",USA,,,Miami University,,,0
+652,Brett Brown,2,,,,,,,,0
+653,Jabari Brown,27,,USA,,,Missouri,,,0
+654,Markel Brown,28,"Pineville, LA",USA,,,Oklahoma State University,,,0
+655,Moses Brown,20,"New York, NY",USA,,,UCLA,,,0
+656,Charles Brown Jr.,23,Imhotep Institute Charter,USA,,,,,,0
+657,Nicolas Brussino,27,Santa Fe,Argentina,,,,,,0
+658,Kobe Bryant,41,"Philadelphia, PA",USA,,,,,,0
+659,Michael Budenholzer,2,,,,,,,,0
+660,Devontae Cacok,23,"Chicago, IL",USA,,,UNC Wilmington,,,0
+661,Vlatko Cancar,23,Koper,Slovenia,,,,,,0
+662,Rick Carlisle,2,"Ogdensburg, NY",USA,,,University of Virginia,,,0
+663,Jordan Caroline,24,"Champagne, IL",USA,,,Nevada-Reno,,,0
+664,Tony Carr,22,,USA,,,Penn State,,,0
+665,Zylan Cheatham,24,"Phoenix, AZ",USA,,,Arizona State,,,0
+666,Brandon Clarke,23,"Vancouver, BC",Canada,,,Gonzaga,,,0
+667,Gian Clavell,26,Caguas,Puerto Rico,,,Colorado State University,,,0
+668,Nicolas Claxton,20,"Greenville, SC",USA,,,Georgia,,,0
+669,Chris Clemons,22,"Raleigh, nC",USA,,,Campbell,,,0
+670,Antonius Cleveland,26,"Memphis, TN",USA,,,Southeast Missouri State University,,,0
+671,Steve Clifford,2,,,,,,,,0
+672,Philip Cofer,23,,USA,,,Florida State,,,0
+673,Amir Coffey,22,"Hopkins, MN",USA,,,Minnesota,,,0
+674,Kyle Collinsworth,28,"Provo, UT",USA,,,Brigham Young University,,,0
+675,Tyler Cook,22,"St. Louis, MO",USA,,,Iowa,,,0
+676,Markel Crawford,25,,,,,,,,0
+677,Jarrett Culver,21,"Lubbock, TX",USA,,,Texas Tech,,,0
+678,Cristiano Da Silva Felicio,27,,,,,,,,0
+679,Jon Davis,23,,USA,,,Charlotte,,,0
+680,Terence Davis,22,"Southaven, MI",USA,,,Ole Miss,,,0
+681,Branden Dawson,27,"Gary, IN",USA,,,Michigan State University,,,0
+682,Cody Demps,26,,,,,,,,0
+683,Daniel Dixon,26,,USA,,,William & Mary,,,0
+684,Billy Donovan,2,"Rockville Centre, NY",USA,,,Providence College,,,0
+685,Luguentz Dort,20,"Montreal, QC",Canada,,,Arizona State,,,0
+686,Sekou Doumbouya,19,Conakry,Guinea,,,,,,0
+687,Milton Doyle,26,"Chicago, IL",USA,,,Loyola University of Chicago,,,0
+688,Carsen Edwards,22,,,,,Purdue,,,0
+689,Tyler Ennis,25,Brampton,Canada,,,Syracuse University,,,0
+690,Tacko Fall,24,Dakar,Senegal,,,Central Florida,,,0
+691,Carrick Felix,29,"Las Vegas, AZ",USA,,,Arizona State University,,,0
+692,Bruno Fernando,21,Luanda,Angola,,,Maryland,,,0
+693,Robert Franks,23,"Seattle, WA",USA,,,Washington State,,,0
+694,Michael Frazier,26,,,,,,,,0
+695,Kenny Gabriel,30,,USA,,,Auburn,,,0
+696,Wenyen Gabriel,23,Khartoum,Sudan,,,,,,0
+697,Abdul Gaddy,28,"Tacoma, WA",USA,,,,,,0
+698,Daniel Gafford,21,,,,,Arkansas,,,0
+699,Darius Garland,20,"Gary, IN",USA,,,Vanderbilt,,,0
+700,Kevin Garnett,43,"Mauldin, SC",USA,,,,,,0
+701,Kaiser Gates,23,"Atlanta, GA",USA,,,Xavier,,,0
+702,Alvin Gentry,2,,,,,,,,0
+703,Jonathan Gibson,32,"West Covina, CA",USA,,,New Mexico State University,,,0
+704,Josh Gray,26,,,,,,,,0
+705,Erick Green,28,"Inglewood, CA",USA,,,Virginia Polytechnic Institute and State University,,,0
+706,Javonte Green,26,"Petersburg, VA",USA,,,Radford University,,,0
+707,Marko Guduric,25,Priboj,Serbia,,,,,,0
+708,Kyle Guy,22,"Indianapolis, IN",USA,,,Virginia,,,0
+709,Isaac Haas,24,"Birmingham, AL",USA,,,,,,0
+710,Rui Hachimura,22,Toyama,Japan,,,Gonzaga,,,0
+711,Devon Hall,24,"Virginia Beach, VA",USA,,,Virginia,,,0
+712,Donta Hall,22,,,,,,,,0
+713,Jaylen Hands,21,"San Diego, CA",USA,,,UCLA,,,0
+714,Jared Harper,22,,,,,Auburn,,,0
+715,Jaxson Hayes,19,"Norman, OK",USA,,,Texas,,,0
+716,Reggie Hearn,28,"Fort Wayne, IN",USA,,,Northwestern University,,,0
+717,Myke Henry,27,"Chicago, IL",USA,,,DePaul University,,,0
+718,Dewan Hernandez,23,"Miami, FL",USA,,,Miami,,,0
+719,Tyler Herro,20,"Milwaukee, WI",USA,,,Kentucky,,,0
+720,Kevin Hervey,23,"Dallas, TX",USA,,,Texas-Arlington,,,0
+721,Stephan Hicks,28,,,,,,,,0
+722,Ahmed Hill,25,"Fort Valley, GA",USA,,,Virginia Tech,,,0
+723,Amir Hinton,23,"Philadelphia, PA",USA,,,Shaw University,,,0
+724,Jaylen Hoard,21,Le Havre,France,,,Wake Forest,,,0
+725,Fred Hoiberg,2,"Lincoln, NE",USA,,,Iowa State University,,,0
+726,Aric Holman,22,"Owensboro, KY",USA,,,Mississippi State,,,0
+727,Daulton Hommes,23,"Bellingham, WA",USA,,,Western Washington,,,0
+728,Scotty Hopson,30,,,,,,,,0
+729,Talen Horton-Tucker,19,"Chicago, IL",USA,,,Iowa State,,,0
+730,William Howard,26,Montbrison,France,,,,,,0
+731,De'Andre Hunter,22,"Philadelphia, PA",USA,,,Virginia,,,0
+732,Vince Hunter,25,"Detroit, MI",USA,,,University of Texas at El Paso,,,0
+733,Jarrett Jack,36,"Fort Washington, MD",USA,,,Georgia Institute of Technology,,,0
+734,Justin Jackson,23,"Toronto, ON",Canada,,,Maryland,,,0
+735,Justin James,23,"Port St. Lucie, FL",USA,,,Wyoming,,,0
+736,Mike James,29,"Copaigue, NY",USA,,,Duquesne University,,,0
+737,DaQuan Jeffries,22,,,,,,,,0
+738,Ty Jerome,22,,,,,Virginia,,,0
+739,Cameron Johnson,24,"Moon Township, PA",USA,,,North Carolina,,,0
+740,Chris Johnson,29,"Orlando, FL",USA,,,University of Dayton,,,0
+741,Jaylen Johnson,23,,,,,,,,0
+742,Keldon Johnson,20,"Chesterfield, VA",USA,,,Kentucky,,,0
+743,Mfiondu Kabengele,22,"Burlington, ON",Canada,,,Florida State,,,0
+744,Steve Kerr,2,Beirut,Lebanon,,,University of Arizona,,,0
+745,Louis King,21,"Secaucus, NJ",USA,,,Oregon,,,0
+746,V.J. King,23,"Akron, OH",USA,,,,,,0
+747,Sagaba Konate,23,Bamako,Mali,,,West Virginia,,,0
+748,John Konchar,24,,,,,Purdue Fort Wayne,,,0
+749,Christ Koumadje,23,N'djamena,Chad,,,Florida State,,,0
+750,David Kramer,23,Myjava,Slovakia,,,,,,0
+751,Romeo Langford,20,"New Albany, IN",USA,,,Indiana,,,0
+752,Terry Larrier,24,"The Bronx, NY",USA,,,Connecticut,,,0
+753,Vic Law,24,,,,,,,,0
+754,Jalen Lecque,19,"Manhattan, NY",USA,,,Brewster Academy,,,0
+755,Nassir Little,20,"Pensacola, FL",USA,,,North Carolina,,,0
+756,Sanjay Lumpkin,25,,USA,,,Northwestern,,,0
+757,Sheldon Mac,27,,,,,,,,0
+758,Josh Magette,30,"Birmingham, AL",USA,,,Alabama Huntsville,,,0
+759,Matur Maker,22,,South Sudan,,,,,,0
+760,Terance Mann,23,"Tilton, NH",USA,,,Florida State,,,0
+761,Caleb Martin,24,"Reno, NV",USA,,,Nevada-Reno,,,0
+762,Cody Martin,24,"Reno, NV",USA,,,,,,0
+763,Jeremiah Martin,23,,,,,Memphis,,,0
+764,Kelan Martin,24,,,,,Butler,,,0
+765,Garrison Mathews,23,,,,,Lipscomb,,,0
+766,Dakota Mathias,24,"Lima, OH",USA,,,Purdue,,,0
+767,Jalen McDaniels,22,"Federal Way, WA",USA,,,San Diego State,,,0
+768,KJ McDaniels,27,"Mobile, AL",USA,,,Clemson University,,,0
+769,Jordan McLaughlin,24,"Pasadena, CA",USA,,,,,,0
+770,Nate McMillan,2,"Raleigh, NC",USA,,,North Carolina State University,,,0
+771,Nicolo Melli,29,Reggio Emilia,Italy,,,,,,0
+772,Eric Mika,25,"Salt Lake City, UT",USA,,,Brigham Young,,,0
+773,Elijah Millsap,32,"Grambling, LA",USA,,,University of Alabama at Birmingham,,,0
+774,Adam Mokoka,21,Paris,France,,,,,,0
+775,Matt Mooney,23,"Niles, IL",USA,,,,,,0
+776,Ben Moore,24,"Bolingbrook, IL",USA,,,Southern Methodist University,,,0
+777,Doral Moore,23,"Louisville, KY",USA,,,,,,0
+778,Ja Morant,20,"Dalzell, SC",USA,,,Murray State,,,0
+779,Juwan Morgan,22,,,,,Indiana,,,0
+780,Mychal Mulder,25,"Toronto, ON",Canada,,,,,,0
+781,Xavier Munford,27,"Hillside, NJ",USA,,,University of Rhode Island,,,0
+782,Dejounte Murray,23,"Seattle, WA",USA,,,University of Washington,,,0
+783,Le'Bryan Nash,27,,,,,,,,0
+784,Tyler Nelson,24,,USA,,,Fairfield University,,,0
+785,Malik Newman,23,,USA,,,Kansas,,,0
+786,Zach Norvell Jr.,22,"Chicago, IL",USA,,,Gonzaga,,,0
+787,Duane Notice,25,,Canada,,,South Carolina,,,0
+788,Jaylen Nowell,20,"Seattle, WA",USA,,,Washington,,,0
+789,Kendrick Nunn,24,"Chicago, IL",USA,,,,,,0
+790,Shawn Occeus,22,,USA,,,Northeastern,,,0
+791,Norense Odiase,24,"Crowley, TX",USA,,,,,,0
+792,Mark Ogden Jr.,25,,USA,,,Dixie,,,0
+793,Chuma Okeke,21,"Atlanta, GA",USA,,,Auburn,,,0
+794,KZ Okpala,20,"Orange County, CA",USA,,,Stanford,,,0
+795,Miye Oni,22,"Northridge, CA",USA,,,Yale,,,0
+796,Randy Onwuasor,24,,USA,,,Louisiana State,,,0
+797,Tariq Owens,24,"Baltimore, MD",USA,,,Texas Tech,,,0
+798,James Palmer Jr.,23,"Washington, DC",USA,,,University of Nebraska-Lincoln,,,0
+799,Jeremy Pargo,34,,USA,,,Gonzaga,,,0
+800,Eric Paschall,23,"North Tarrytown, NY",USA,,,Villanova,,,0
+801,Anzejs Pasecniks,24,Riga,Latvia,,,,,,0
+802,Norvel Pelle,27,St. John's,USA,,,,,,0
+803,Josh Perkins,24,,USA,,,Gonzaga,,,0
+804,London Perrantes,25,"Los Angeles, CA",USA,,,University of Virginia,,,0
+805,Lamar Peters,21,,,,,Mississippi State,,,0
+806,Isaiah Pineiro,25,,USA,,,San Diego,,,0
+807,Sir'Dominic Pointer,27,,USA,,,"St. John's, N.Y.",,,0
+808,Vincent Poirier,26,Clamart,France,,,,,,0
+809,Jordan Poole,20,"Milwaukee, WI",USA,,,Michigan,,,0
+810,Gregg Popovich,2,,,,,,,,0
+811,Jontay Porter,20,"Columbia, MO",USA,,,Missouri,,,0
+812,Kevin Porter Jr.,19,"Seattle, WA",USA,,,USC,,,0
+813,Michael Porter Jr.,21,"Columbia, MS",USA,,,,,,0
+814,Kristaps Porzingis,24,Liepaja,Latvia,,,,,,0
+815,Jacob Pullen,30,"Maywood, IL",USA,,,Kansas State University,,,0
+816,Tim Quarterman,25,"Savannah, GA",USA,,,Louisiana State University,,,0
+817,Levi Randolph,27,"Madison, AL",USA,,,,,,0
+818,Xavier Rathan-Mayes,25,,,,,,,,0
+819,Josh Reaves,22,"Fairfax, VA",USA,,,Penn State,,,0
+820,Cam Reddish,20,"Norristown, PA",USA,,,Duke,,,0
+821,Willie Reed,29,"Kansas City, MO",USA,,,Saint Louis University,,,0
+822,Naz Reid,20,"Asbury Park, NJ",USA,,,Louisiana State,,,0
+823,Doc Rivers,2,"Chicago, IL",USA,,,Marquette University,,,0
+824,Andre Roberson,28,"Las Cruces, NM",USA,,,University of Colorado,,,0
+825,Jeff Roberson,23,,,,,,,,0
+826,Tyler Roberson,25,,USA,,,Syracuse,,,0
+827,Alex Robinson,24,,USA,,,Texas Christian,,,0
+828,Justin Robinson,22,,,,,Virginia Tech,,,0
+829,Isaiah Roby,22,"Dixon, IL",USA,,,University of Nebraska-Lincoln,,,0
+830,Angel Rodriguez,27,,Puerto Rico,,,Miami,,,0
+831,Brandon Rush,34,"Kansas City, MO",USA,,,University of Kansas,,,0
+832,Luka Samanic,20,Zagreb,Croatia,,,,,,0
+833,Admiral Schofield,23,London,United Kingdom,,,Tennessee,,,0
+834,Mike Scott,26,"Los Angeles, CA",USA,,,,,,0
+835,Marial Shayok,24,"Ottawa, ON",Canada,,,Iowa State,,,0
+836,Simisola Shittu,20,London,Canada,,,Vanderbilt,,,0
+837,Chris Silva,23,,,,,South Carolina,,,0
+838,Justin Simon,23,"Los Angeles, CA",USA,,,,,,0
+839,Alen Smailagic,19,Belgrade,Serbia,,,,,,0
+840,Quin Snyder,2,,,,,,,,0
+841,Erik Spoelstra,2,,,,,,,,0
+842,David Stockton,28,,,,,,,,0
+843,Terry Stotts,2,,,,,,,,0
+844,Max Strus,24,"HIckory Hills, IL",USA,,,DePaul,,,0
+845,Isaiah Taylor,25,"Hayward, CA",USA,,,University of Texas at Austin,,,0
+846,Marquis Teague,27,,,,,,,,0
+847,Mirza Teletovic,34,Mostar,Bosnia and Herzegovina,,,,,,0
+848,Matt Thomas,25,"Decatur, IL",USA,,,Iowa State,,,0
+849,Stephen Thompson,23,,USA,,,,,,0
+850,Matisse Thybulle,23,,,,,Washington,,,0
+851,Juan Toscano-Anderson,27,,USA,,,Marquette,,,0
+852,Rayjon Tucker,22,"Charlotte, NC",USA,,,Arkansas-Little Rock,,,0
+853,Jarrod Uthoff,26,"Cedar Rapids, IA",USA,,,University of Iowa,,,0
+854,Denzel Valentine,26,"Lansing, MI",USA,,,Michigan State University,,,0
+855,Anderson Varejao,37,Santa Teresa,Brazil,,,,,,0
+856,Gabe Vincent,23,"Stockton, CA",USA,,,,,,0
+857,Dean Wade,23,"Wichita, KS",USA,,,Kansas State,,,0
+858,Luke Walton,2,"San Diego, CA",USA,,,University of Arizona,,,0
+859,P.J. Washington,21,"Louisville, KY",USA,,,Kentucky,,,0
+860,Tremont Waters,22,"New Haven, CT",USA,,,Louisiana State,,,0
+861,Paul Watson,25,"Phoenix, AZ",USA,,,Fresno State,,,0
+862,Quinndary Weatherspoon,23,"Canton, MS",USA,,,Mississippi State,,,0
+863,James Webb III,26,"Augusta, GA",USA,,,Boise State University,,,0
+864,Coby White,20,"Goldsboro, NC",USA,,,North Carolina,,,0
+865,Andrew White III,26,"Richmond, VA",USA,,,Syracuse University,,,0
+866,C.J. Wilcox,29,"Pleasant Grove, UT",USA,,,University of Washington,,,0
+867,Damien Wilkins,40,"Washington, NC",USA,,,University of Georgia,,,0
+868,Elliott Williams,30,"Memphis, TN",USA,,,University of Memphis,,,0
+869,Grant Williams,21,"Houston, TX",USA,,,Tennessee,,,0
+870,Nigel Williams-Goss,25,"Happy Valley, OR",USA,,,Gonzaga,,,0
+871,Zion Williamson,19,"Salisbury, NC",USA,,,Duke,,,0
+872,Kyle Wiltjer,27,"Portland, OR",USA,,,Gonzaga University,,,0
+873,Dylan Windler,23,,,,,Belmont,,,0
+874,Todd Withers,23,"Greensboro, NC",USA,,,Queens University,,,0
+875,Jeff Withey,30,"San Diego, CA",USA,,,University of Kansas,,,0
+876,Nate Wolters,28,"St. Cloud, MN",USA,,,South Dakota State University,,,0
+877,Kenny Wooten,21,"Manteca, CA",USA,,,Oregon,,,0
+878,Brandan Wright,32,"Nashville, TN",USA,,,University of North Carolina,,,0
+879,Justin Wright-Foreman,22,"Laurelton, NY",USA,,,Hofstra,,,0
+880,Tony Wroten,27,"Seattle, WA",USA,,,University of Washington,,,0
