@@ -1,0 +1,48 @@
+,Name,Age,Birth City,Birth Country,Birth Lat,Birth Lng,College,College Lat,College Lng,Position,Games Played,Goals Against Average,Save Percentage (x10),Ability Score
+0,Jake Allen,29,"Fredericton, NB",Canada,,,,,,G,46,3.406,9.06,12.466000000000001
+1,Frederik Andersen,30,Herning,Denmark,,,,,,G,60,3.321,9.17,12.491
+2,Craig Anderson,38,"Park Ridge, IL",USA,,,,,,G,50,7.2,9.03,16.23
+3,Jonathan Bernier,31,"Laval, QC",Canada,,,,,,G,35,3.1210000000000004,9.08,12.201
+4,Jordan Binnington,26,"Richmond Hill, ON",Canada,,,,,,G,32,2.3369999999999997,9.28,11.616999999999999
+5,Ben Bishop,33,"Denver, CO",USA,,,,,,G,46,2.5669999999999997,9.44,12.007
+6,Sergei Bobrovsky,31,Novokuznetsk,Russia,,,,,,G,62,3.156,9.13,12.286000000000001
+7,Jack Campbell,28,"Port Huron, MI",USA,,,,,,G,31,2.832,9.37,12.201999999999998
+8,Corey Crawford,35,"Montreal, QC",Canada,,,,,,G,39,3.1910000000000003,9.1,12.291
+9,Casey DeSmith,28,"Rochester, NH",USA,,,,,,G,36,4.2,9.17,13.370000000000001
+10,Devan Dubnyk,33,"Regina, SK",Canada,,,,,,G,67,3.076,9.13,12.206000000000001
+11,Marc-Andre Fleury,35,"Sorel, QC",Canada,,,,,,G,61,2.7089999999999996,9.12,11.828999999999999
+12,Alexandar Georgiev,24,Ruse,Russia,,,,,,G,33,3.5269999999999997,9.13,12.657
+13,John Gibson,26,"Pittsburgh, PA",USA,,,,,,G,58,3.428,9.18,12.608
+14,Thomas Greiss,34,Fussen,Germany,,,,,,G,43,2.908,9.26,12.168
+15,Philipp Grubauer,28,Rosenheim,Germany,,,,,,G,37,3.1210000000000004,9.19,12.311
+16,Jaroslav Halak,34,Bratislava,SVK,,,,,,G,40,3.09,9.24,12.33
+17,Carter Hart,21,"Sherwood Park, AB",Canada,,,,,,G,31,3.99,9.17,13.16
+18,Connor Hellebuyck,26,"Commerce, MI",USA,,,,,,G,63,3.537,9.14,12.677
+19,Braden Holtby,30,"Lloydminster, SK",Canada,,,,,,G,59,3.26,9.11,12.37
+20,Jimmy Howard,36,"Syracuse, NY",USA,,,,,,G,55,3.266,9.08,12.346
+21,Carter Hutton,34,"Thunder Bay, ON",Canada,,,,,,G,50,3.4610000000000003,9.08,12.541
+22,Martin Jones,30,"North Vancouver, BC",Canada,,,,,,G,62,3.83,8.95,12.78
+23,Anton Khudobin,33,Ust-Kamenogorsk,Kazakhstan,,,,,,G,41,2.99,9.2,12.19
+24,Keith Kinkaid,30,"Farmingville, NY",USA,,,,,,G,41,4.106,8.92,13.026
+25,Mikko Koskinen,31,Vantaa,Finland,,,,,,G,55,3.15,9.07,12.22
+26,Darcy Kuemper,29,"Saskatoon, SK",Canada,,,,,,G,55,2.773,9.25,12.023
+27,Robin Lehner,28,Gothenburg,Sweden,,,,,,G,46,2.9219999999999997,9.36,12.282
+28,Henrik Lundqvist,38,Are,Sweden,,,,,,G,52,4.002,9.07,13.072
+29,Roberto Luongo,41,"Montreal, QC",Canada,,,,,,G,43,3.9539999999999997,8.97,12.924
+30,Jacob Markstrom,30,Gävle,Sweden,,,,,,G,60,3.475,9.12,12.594999999999999
+31,Curtis McElhinney,36,"London, ON",Canada,,,,,,G,33,3.2460000000000004,9.13,12.376000000000001
+32,Petr Mrazek,28,Ostrava,Czech Republic,,,,,,G,40,2.86,9.16,12.02
+33,Matt Murray,25,"Thunder Bay, ON",Canada,,,,,,G,50,3.228,9.21,12.438
+34,Carey Price,32,"Anahim Lake, BC",Canada,,,,,,G,66,3.26,9.18,12.44
+35,Jonathan Quick,34,"Milford, CT",USA,,,,,,G,46,4.676,8.89,13.566
+36,Tuukka Rask,33,Savonlinna,Finland,,,,,,G,46,3.217,9.12,12.337
+37,James Reimer,32,"Morweena, MB",Canada,,,,,,G,36,4.025,9.03,13.055
+38,Pekka Rinne,37,Kempele,Finland,,,,,,G,56,2.8760000000000003,9.18,12.056000000000001
+39,David Rittich,27,Jihlava,Czech Republic,,,,,,G,45,3.3110000000000004,9.11,12.421
+40,Juuse Saros,24,Forssa,Finland,,,,,,G,31,3.2689999999999997,9.24,12.509
+41,Mike Smith,38,"Kingston, ON",Canada,,,,,,G,42,3.162,9.01,12.172
+42,Cam Talbot,32,"Caledonia, ON",Canada,,,,,,G,31,4.742,8.93,13.672
+43,Linus Ullmark,26,Lugnvik,Sweden,,,,,,G,37,4.341,9.14,13.481000000000002
+44,Semyon Varlamov,31,Samara,Russia,,,,,,G,49,4.34,9.09,13.43
+45,Andrei Vasilevskiy,25,Tyumen,Russia,,,,,,G,53,3.036,9.25,12.286
+46,Cam Ward,36,"Saskatoon, SK",Canada,,,,,,G,33,4.382,8.99,13.372
