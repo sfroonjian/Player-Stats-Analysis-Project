@@ -1,0 +1,1406 @@
+,Name,Age,Birth City,Birth Country,Birth Lat,Birth Lng,College,College Lat,College Lng,Position,Points
+0,Justin Abdelkader,33,"Muskegon, MI",USA,,,,,,LW,19
+1,Pontus Aberg,26,Stockholm,Sweden,,,,,,LW,19
+2,Pontus Aberg,26,Stockholm,Sweden,,,,,,LW,6
+3,Vitaly Abramov,21,Chelyabinsk,Russia,,,,,,RW,0
+4,Noel Acciari,28,"Johnston, RI",USA,,,,,,C,14
+5,Kenny Agostino,27,"Morristown, NJ",USA,,,,,,LW,11
+6,Kenny Agostino,27,"Morristown, NJ",USA,,,,,,LW,13
+7,Andrew Agozzino,29,"Kleinburg, ON",Canada,,,,,,LW,2
+8,Sebastian Aho,24,Umea,Sweden,,,,,,C,84
+9,Jake Allen,29,"Fredericton, NB",Canada,,,,,,D,0
+10,Mark Alt,28,"St. Paul, MN",USA,,,,,,D,0
+11,Karl Alzner,31,"Burnaby, BC",Canada,,,,,,C,1
+12,Michael Amadio,23,"Sault Ste. Marie, ON",Canada,,,,,,RW,14
+13,Frederik Andersen,30,Herning,Denmark,,,,,,RW,1
+14,Craig Anderson,38,"Park Ridge, IL",USA,,,,,,C,2
+15,Joey Anderson,21,"Roseville, MN",USA,,,,,,C,8
+16,Josh Anderson,21,"Nanaimo, BC",Canada,,,,,,D,47
+17,Jaret Anderson-Dolan,20,"Calgary, AB",Canada,,,,,,RW,1
+18,Lias Andersson,21,Smogen,Sweden,,,,,,C,6
+19,Rasmus Andersson,23,Malmö,Sweden,,,,,,C,20
+20,Sven Andrighetto,27,Zurich,Switzerland,,,,,,RW,17
+21,Artem Anisimov,31,Yaroslavl,Russia,,,,,,RW,37
+22,Mason Appleton,24,"Green Bay, WI",USA,,,,,,RW,11
+23,Darren Archibald,30,"Newmarket, ON",Canada,,,,,,RW,2
+24,Darren Archibald,30,"Newmarket, ON",Canada,,,,,,RW,0
+25,Josh Archibald,27,"Regina, SK",Canada,,,,,,C,22
+26,Joel Armia,26,Pori,Finland,,,,,,C,23
+27,Viktor Arvidsson,27,Skellefteå,Sweden,,,,,,RW,48
+28,Zach Aston-Reese,25,"Staten Island, NY",USA,,,,,,RW,17
+29,Andreas Athanasiou,25,"Woodbridge, ON",Canada,,,,,,RW,54
+30,Cam Atkinson,30,"Riverside, CT",USA,,,,,,C,69
+31,Nicolas Aube-Kubel,23,"Slave Lake, AB",Canada,,,,,,C,0
+32,Richard Bachman,32,"Salt Lake City, UT",USA,,,,,,LW,0
+33,David Backes,35,"Minneapolis, MN",USA,,,,,,RW,20
+34,Mikael Backlund,31,Vasteras,Sweden,,,,,,RW,47
+35,Nicklas Backstrom,32,Gävle,Sweden,,,,,,LW,74
+36,Sven Baertschi,27,Bern,Switzerland,,,,,,C,14
+37,Josh Bailey,30,"Bowmanville, ON",Canada,,,,,,D,56
+38,Justin Bailey,24,"Buffalo, NY",USA,,,,,,C,1
+39,Rudolfs Balcers,23,Liepaja,Latvia,,,,,,D,15
+40,Ivan Barbashev,24,Moscow,Russia,,,,,,D,28
+41,Mark Barberio,30,"Montreal, QC",Canada,,,,,,C,1
+42,Aleksander Barkov,24,Tampere,Finland,,,,,,RW,98
+43,Tyson Barrie,28,"Victoria, BC",Canada,,,,,,RW,59
+44,Matt Bartkowski,31,"Pittsburgh, PA",USA,,,,,,D,1
+45,Mathew Barzal,22,"Coquitlam, BC",Canada,,,,,,C,62
+46,Nathan Bastian,22,"Kitchener, ON",Canada,,,,,,D,5
+47,Drake Batherson,21,"Fort Wayne, IN",USA,,,,,,D,9
+48,Gavin Bayreuther,25,"Canaan, NH",USA,,,,,,D,5
+49,Jay Beagle,34,"Calgary, AB",Canada,,,,,,LW,13
+50,Jake Bean,21,"Calgary, AB",Canada,,,,,,LW,0
+51,Nathan Beaulieu,27,"Strathroy, ON",Canada,,,,,,C,7
+52,Nathan Beaulieu,27,"Strathroy, ON",Canada,,,,,,D,5
+53,Anthony Beauvillier,22,"Sorel-Tracy, QC",Canada,,,,,,LW,28
+54,Matt Beleskey,31,"Windsor, ON",Canada,,,,,,D,1
+55,Pierre-Edouard Bellemare,35,Le Blanc-Mesnil,France,,,,,,C,15
+56,Louie Belpedio,23,"Chicago, IL",USA,,,,,,D,0
+57,Jamie Benn,30,"Victoria, BC",Canada,,,,,,C,53
+58,Jordie Benn,32,"Victoria, BC",Canada,,,,,,C,22
+59,Sam Bennett,23,"Holland Landing, ON",Canada,,,,,,LW,27
+60,Matt Benning,25,"Edmonton, AB",Canada,,,,,,D,17
+61,Patrice Bergeron,34,"Ancienne-Lorette, QC",Canada,,,,,,C,79
+62,Patrik Berglund,31,Västerås,Sweden,,,,,,D,4
+63,Jonathan Bernier,31,"Laval, QC",Canada,,,,,,D,0
+64,Tyler Bertuzzi,25,"Sudbury, ON",Canada,,,,,,LW,47
+65,Alex Biega,32,"Montreal, QC",Canada,,,,,,RW,16
+66,Jordan Binnington,26,"Richmond Hill, ON",Canada,,,,,,C,0
+67,Ben Bishop,33,"Denver, CO",USA,,,,,,C,2
+68,Clark Bishop,24,"St. John's, NL",Canada,,,,,,C,3
+69,Anthony Bitetto,29,"Island Park, NY",USA,,,,,,LW,3
+70,Anthony Bitetto,29,"Island Park, NY",USA,,,,,,C,0
+71,Anders Bjork,23,"Mequon, WI",USA,,,,,,C,3
+72,Oliver Bjorkstrand,25,Herning,Denmark,,,,,,LW,36
+73,Nick Bjugstad,27,"Minneapolis, MN",USA,,,,,,C,12
+74,Nick Bjugstad,27,"Minneapolis, MN",USA,,,,,,LW,14
+75,Colin Blackwell,27,"Lawrence, MA",USA,,,,,,RW,0
+76,Mackenzie Blackwood,23,"Thunder Bay, ON",Canada,,,,,,D,0
+77,Sammy Blais,23,"Montmagny, QC",Canada,,,,,,C,4
+78,Joseph Blandisi,25,"Markham, ON",USA,,,,,,D,0
+79,Joseph Blandisi,25,"Markham, ON",USA,,,,,,C,0
+80,Anton Blidh,25,Molnlycke,Sweden,,,,,,D,0
+81,Teddy Blueger,25,Riga,Latvia,,,,,,D,10
+82,Sergei Bobrovsky,31,Novokuznetsk,Russia,,,,,,D,0
+83,Mikkel Boedker,30,Brondby,Denmark,,,,,,C,36
+84,Brock Boeser,23,"Burnsville, MN",USA,,,,,,LW,56
+85,Zach Bogosian,29,"Massena, NY",USA,,,,,,D,19
+86,Nick Bonino,31,"Hartford, CT",USA,,,,,,D,35
+87,William Borgen,23,"Moorhead, MN",USA,,,,,,D,0
+88,Henrik Borgstrom,22,Helsinki,Finland,,,,,,D,18
+89,Mark Borowiecki,30,"Ottawa, ON",Canada,,,,,,C,5
+90,Robert Bortuzzo,31,"Thunder Bay, ON",Canada,,,,,,C,10
+91,Evan Bouchard,20,"Oakville, ON",Canada,,,,,,C,1
+92,Reid Boucher,26,"Grand Ledge, MI",USA,,,,,,C,0
+93,Gabriel Bourque,29,"Rimouski, QC",Canada,,,,,,D,8
+94,Jay Bouwmeester,36,"Edmonton, AB",Canada,,,,,,C,17
+95,Landon Bow,24,"St. Albert, AB",Canada,,,,,,C,0
+96,Madison Bowey,24,"Winnipeg, MB",Canada,,,,,,C,6
+97,Madison Bowey,24,"Winnipeg, MB",Canada,,,,,,LW,4
+98,Johnny Boychuk,36,"Edmonton, AB",Canada,,,,,,D,19
+99,Travis Boyd,26,"Hopkins, MN",USA,,,,,,LW,20
+100,Brian Boyle,35,"Hingham, MA",USA,,,,,,D,19
+101,Brian Boyle,35,"Hingham, MA",USA,,,,,,D,5
+102,Kevin Boyle,27,"Manalapan, NJ",USA,,,,,,D,0
+103,Tyler Bozak,34,"Regina, SK",Canada,,,,,,D,39
+104,Erik Brannstrom,20,Almesakra,Sweden,,,,,,C,0
+105,Derick Brassard,32,"Hull, QC",Canada,,,,,,C,15
+106,Derick Brassard,32,"Hull, QC",Canada,,,,,,RW,4
+107,Derick Brassard,32,"Hull, QC",Canada,,,,,,RW,4
+108,Jesper Bratt,21,Stockholm,Sweden,,,,,,RW,33
+109,Justin Braun,33,"Minneapolis, MN",USA,,,,,,D,16
+110,Connor Brickley,28,"Everett, MA",USA,,,,,,RW,3
+111,Daniel Brickley,25,"Salt Lake City, UT",USA,,,,,,C,1
+112,Guillaume Brisebois,22,"St. Hilaire, QC",Canada,,,,,,LW,0
+113,TJ Brodie,29,"Chatham, ON",Canada,,,,,,LW,34
+114,Jonas Brodin,26,Karlstad,Sweden,,,,,,LW,18
+115,Kyle Brodziak,35,"St. Paul, AB",Canada,,,,,,D,9
+116,Jonny Brodzinski,26,"Ham Lake, MN",USA,,,,,,D,3
+117,Laurent Brossoit,27,"Port Alberni, BC",Canada,,,,,,D,0
+118,Troy Brouwer,34,"Vancouver, BC",Canada,,,,,,D,21
+119,Connor Brown,26,"Toronto, ON",Canada,,,,,,D,29
+120,Dustin Brown,35,"Ithaca, NY",USA,,,,,,LW,53
+121,Josh Brown,26,"London, ON",Canada,,,,,,C,2
+122,J.T. Brown,29,"Burnsville, MN",USA,,,,,,C,8
+123,Logan Brown,22,"Raleigh, NC",USA,,,,,,RW,0
+124,Pavel Buchnevich,24,Cherepovets,Russia,,,,,,LW,39
+125,Peter Budaj,37,Banská Bystrica,Slovakia,,,,,,D,0
+126,Michael Bunting,24,"Scarborough, ON",Canada,,,,,,C,1
+127,Andre Burakovsky,25,Klagenfurt,Austria,,,,,,C,25
+128,Erik Burgdoerfer,31,"Abington, PA",USA,,,,,,D,0
+129,Brent Burns,35,"Barrie, ON",Canada,,,,,,D,84
+130,Will Butcher,25,"Sun Prairie, WI",USA,,,,,,D,31
+131,Chris Butler,33,"St. Louis, MO",USA,,,,,,C,2
+132,Dustin Byfuglien,35,"Roseau, MN",USA,,,,,,LW,32
+133,Paul Byron,30,"Ottawa, ON",Canada,,,,,,D,31
+134,Drake Caggiula,25,"Pickering, ON",Canada,,,,,,D,11
+135,Drake Caggiula,25,"Pickering, ON",Canada,,,,,,C,14
+136,Ryan Callahan,35,"Rochester, NY",USA,,,,,,D,17
+137,Matt Calvert,30,"Brandon, MB",Canada,,,,,,LW,26
+138,Jack Campbell,28,"Port Huron, MI",USA,,,,,,C,1
+139,Kyle Capobianco,22,"Mississauga, ON",Canada,,,,,,C,0
+140,Paul Carey,31,"Weymouth, MA",USA,,,,,,C,0
+141,Paul Carey,31,"Weymouth, MA",USA,,,,,,D,0
+142,Brandon Carlo,23,"Colorado Springs, CO",USA,,,,,,LW,10
+143,John Carlson,30,"Natick, MA",USA,,,,,,D,70
+144,Gabriel Carlsson,23,Orebro,Sweden,,,,,,D,0
+145,Ryan Carpenter,29,"Oviedo, FL",USA,,,,,,C,18
+146,Daniel Carr,28,"Sherwood Park, AB",Canada,,,,,,D,1
+147,Connor Carrick,26,"Orland Park, IL",USA,,,,,,C,4
+148,Connor Carrick,26,"Orland Park, IL",USA,,,,,,D,7
+149,Sam Carrick,28,"Markham, ON",USA,,,,,,D,1
+150,Trevor Carrick,25,"Stouffville, ON",Canada,,,,,,RW,0
+151,William Carrier,25,"LaSalle, QC",Canada,,,,,,C,9
+152,Jeff Carter,35,"London, ON",Canada,,,,,,D,34
+153,Colby Cave,25,"North Battleford, SK",Canada,,,,,,D,5
+154,Colby Cave,25,"North Battleford, SK",Canada,,,,,,C,3
+155,Cody Ceci,26,"Ottawa, ON",Canada,,,,,,C,27
+156,Peter Cehlarik,24,Silina,Slovakia,,,,,,C,6
+157,Erik Cernak,22,Kosice,Slovakia,,,,,,D,16
+158,Thomas Chabot,23,"Sainte-Marie, QC",Canada,,,,,,D,55
+159,Michael Chaput,28,"Ile Bizard, QC",Canada,,,,,,LW,5
+160,Zdeno Chara,43,Trencin,Slovakia,,,,,,D,14
+161,Rourke Chartier,24,"Saskatoon, SK",Canada,,,,,,RW,1
+162,Jake Chelios,29,"Bloomfield Hills, MI",USA,,,,,,D,0
+163,Ben Chiarot,28,"Hamilton, ON",Canada,,,,,,C,21
+164,Alex Chiasson,29,"Montreal, QC",Canada,,,,,,C,40
+165,Filip Chlapik,22,Prague,Czech Republic,,,,,,D,1
+166,Dennis Cholowski,22,"Langley, BC",Canada,,,,,,C,16
+167,Jakob Chychrun,22,"Boca Raton, FL",USA,,,,,,LW,20
+168,Filip Chytil,20,Kromeriz,Czech Republic,,,,,,LW,23
+169,Anthony Cirelli,22,"Etobicoke, ON",Canada,,,,,,LW,39
+170,Casey Cizikas,29,"Toronto, ON",Canada,,,,,,C,33
+171,Fredrik Claesson,27,Stockholm,Sweden,,,,,,RW,6
+172,Adam Clendening,27,"Niagara Falls, NY",USA,,,,,,D,0
+173,Kyle Clifford,29,"Ayr, ON",Canada,,,,,,RW,22
+174,Connor Clifton,24,"Long Branch, NJ",USA,,,,,,LW,1
+175,Cal Clutterbuck,32,"Welland, ON",Canada,,,,,,C,23
+176,Braydon Coburn,35,"Shaunavon, SK",Canada,,,,,,C,23
+177,Andrew Cogliano,32,"Toronto, ON",Canada,,,,,,C,11
+178,Andrew Cogliano,32,"Toronto, ON",Canada,,,,,,C,6
+179,Ian Cole,31,"Ann Arbor, MI",USA,,,,,,C,15
+180,Blake Coleman,28,"Plano, TX",USA,,,,,,C,37
+181,Blake Comeau,34,"Meadow Lake, SK",Canada,,,,,,RW,18
+182,J.T. Compher,25,"Northbrook, IL",USA,,,,,,C,32
+183,Eric Comrie,24,"Edmonton, AB",Canada,,,,,,LW,0
+184,Max Comtois,21,"Longueuil, QC",Canada,,,,,,C,7
+185,Cory Conacher,30,"Burlington, ON",Canada,,,,,,RW,0
+186,Mike Condon,29,"Holliston, MA",USA,,,,,,C,0
+187,Erik Condra,33,"Trenton, MI",USA,,,,,,RW,1
+188,Kevin Connauton,30,"Edmonton, AB",Canada,,,,,,D,8
+189,Brett Connolly,27,"Campbell River, BC",Canada,,,,,,D,46
+190,Kyle Connor,23,"Shelby Township, MI",USA,,,,,,LW,66
+191,Phoenix Copley,28,"North Pole, AK",USA,,,,,,D,1
+192,Andrew Copp,25,"Ann Arbor, MI",USA,,,,,,C,25
+193,Nick Cousins,26,"Belleville, ON",Canada,,,,,,C,27
+194,Logan Couture,31,"Guelph, ON",Canada,,,,,,C,70
+195,Sean Couturier,27,"Phoenix, AZ",USA,,,,,,C,77
+196,Charlie Coyle,28,"E. Weymouth, MA",USA,,,,,,D,28
+197,Charlie Coyle,28,"E. Weymouth, MA",USA,,,,,,C,6
+198,Adam Cracknell,34,"Prince Albert, SK",Canada,,,,,,C,0
+199,Corey Crawford,35,"Montreal, QC",Canada,,,,,,D,4
+200,Sidney Crosby,32,"Cole Harbour, NS",Canada,,,,,,LW,103
+201,Lawson Crouse,22,"Mt. Brydges, ON",Canada,,,,,,LW,25
+202,Matt Cullen,43,"Virginia, MN",USA,,,,,,D,20
+203,Josh Currie,27,"Charlottetown, PEI",Canada,,,,,,D,5
+204,Austin Czarnik,27,"Washington Township, MI",USA,,,,,,C,18
+205,Joel Daccord,23,"Boston, MA",USA,,,,,,C,0
+206,Evgenii Dadonov,31,Chelyabinsk,Russia,,,,,,D,71
+207,Rasmus Dahlin,20,Lidkoping,Sweden,,,,,,D,45
+208,Carl Dahlstrom,25,Stockholm,Sweden,,,,,,D,6
+209,Michael Dal Colle,23,"Woodbridge, ON",Canada,,,,,,D,7
+210,Trevor Daley,36,"Toronto, ON",Canada,,,,,,D,8
+211,Zac Dalpe,30,"Paris, ON",Canada,,,,,,D,1
+212,Phillip Danault,27,"Victoriaville, QC",Canada,,,,,,LW,53
+213,Marko Dano,25,Eisenstadt,Austria,,,,,,C,0
+214,Scott Darling,31,"Newport News, VA",USA,,,,,,LW,0
+215,Laurent Dauphin,25,"Repentigny, QC",Canada,,,,,,LW,0
+216,Brandon Davidson,28,"Taber, AB",Canada,,,,,,D,1
+217,Jean-Sebastien Dea,26,"La Prairie, QC",Canada,,,,,,D,5
+218,Jean-Sebastien Dea,26,"La Prairie, QC",Canada,,,,,,C,1
+219,Tony DeAngelo,24,"Sewell, NJ",USA,,,,,,C,30
+220,Alex DeBrincat,22,"Farmington Hills, MI",USA,,,,,,C,77
+221,Jake DeBrusk,23,"Edmonton, AB",Canada,,,,,,D,42
+222,Calvin de Haan,28,"Carp, ON",Canada,,,,,,RW,14
+223,Danny DeKeyser,30,"Detroit, MI",USA,,,,,,D,20
+224,Jacob de la Rose,24,Arvika,Sweden,,,,,,D,9
+225,Chase De Leo,24,"La Mirada, CA",USA,,,,,,C,0
+226,Collin Delia,25,"Rancho Cucamonga, CA",USA,,,,,,C,0
+227,Aaron Dell,30,"Airdrie, AB",Canada,,,,,,C,0
+228,Michael Del Zotto,29,"Stouffville, ON",Canada,,,,,,C,4
+229,Michael Del Zotto,29,"Stouffville, ON",Canada,,,,,,LW,3
+230,Michael Del Zotto,29,"Stouffville, ON",Canada,,,,,,C,3
+231,Dylan DeMelo,26,"London, ON",Canada,,,,,,C,22
+232,Jason Demers,31,"Dorval, QC",Canada,,,,,,LW,8
+233,Thatcher Demko,24,"San Diego, CA",USA,,,,,,C,1
+234,Travis Dermott,23,"Newmarket, ON",Canada,,,,,,C,17
+235,Nicolas Deslauriers,29,"LaSalle, QC",Canada,,,,,,LW,5
+236,Casey DeSmith,28,"Rochester, NH",USA,,,,,,LW,0
+237,Jason Dickinson,24,"Georgetown, ON",Canada,,,,,,D,22
+238,Phillip Di Giuseppe,26,"Toronto, ON",Canada,,,,,,D,4
+239,Phillip Di Giuseppe,26,"Toronto, ON",Canada,,,,,,D,0
+240,Brenden Dillon,29,"New Westminster, BC",Canada,,,,,,C,23
+241,Michael DiPietro,20,"Windsor, ON",Canada,,,,,,C,0
+242,Christian Djoos,25,Gothenburg,Sweden,,,,,,C,10
+243,Max Domi,25,"Winnipeg, MB",Canada,,,,,,C,72
+244,Louis Domingue,28,"St-Hyacinthe, QC",Canada,,,,,,RW,1
+245,Ryan Donato,24,"Boston, MA",USA,,,,,,RW,9
+246,Ryan Donato,24,"Boston, MA",USA,,,,,,D,16
+247,Matt Donovan,29,"Edmond, OK",USA,,,,,,D,1
+248,Joonas Donskoi,28,Raahe,Finland,,,,,,LW,39
+249,Jake Dotchin,26,"Cambridge, ON",USA,,,,,,C,1
+250,Drew Doughty,30,"London, ON",Canada,,,,,,C,45
+251,Nic Dowd,29,"Huntsville, AL",USA,,,,,,D,22
+252,Justin Dowling,29,"Calgary, AB",Canada,,,,,,D,1
+253,Leon Draisaitl,24,Cologne,Germany,,,,,,D,106
+254,Sheldon Dries,25,"Macomb, MI",USA,,,,,,LW,6
+255,Jonathan Drouin,25,"Ste-Agathe, QC",Canada,,,,,,C,53
+256,Dillon Dube,21,"Golden, BC",Canada,,,,,,D,5
+257,Brandon Dubinsky,33,"Anchorage, AK",USA,,,,,,D,14
+258,Devan Dubnyk,33,"Regina, SK",Canada,,,,,,D,2
+259,Pierre-Luc Dubois,21,"Ste-Agathe-des-Monts, QC",Canada,,,,,,D,61
+260,Matt Duchene,29,"Haliburton, ON",Canada,,,,,,LW,58
+261,Matt Duchene,29,"Haliburton, ON",Canada,,,,,,D,12
+262,Anthony Duclair,24,"Pointe-Claire, QC",Canada,,,,,,LW,19
+263,Anthony Duclair,24,"Pointe-Claire, QC",Canada,,,,,,C,15
+264,Matt Dumba,25,"Regina, SK",Canada,,,,,,LW,22
+265,Brian Dumoulin,28,"Biddeford, ME",USA,,,,,,C,23
+266,Vince Dunn,23,"Mississauga, ON",Canada,,,,,,D,36
+267,Christian Dvorak,24,"Palos, IL",USA,,,,,,C,7
+268,Ryan Dzingel,28,"Wheaton, IL",USA,,,,,,D,44
+269,Ryan Dzingel,28,"Wheaton, IL",USA,,,,,,D,13
+270,Cody Eakin,28,"Winnipeg, MB",Canada,,,,,,D,42
+271,Patrick Eaves,35,"Calgary, AB",Canada,,,,,,RW,0
+272,Jordan Eberle,29,"Regina, SK",Canada,,,,,,D,37
+273,Alexander Edler,33,Ostersund,Sweden,,,,,,D,34
+274,Joel Edmundson,26,"Brandon, MB",Canada,,,,,,C,11
+275,Nikolaj Ehlers,24,Aalborg,Denmark,,,,,,LW,40
+276,Christoffer Ehn,24,Skara,Sweden,,,,,,LW,9
+277,Jack Eichel,23,"North Chelmsford, MA",USA,,,,,,LW,87
+278,Aaron Ekblad,24,"Windsor, ON",Canada,,,,,,C,37
+279,Mattias Ekholm,29,Borlange,Sweden,,,,,,RW,45
+280,Oliver Ekman-Larsson,28,Karlskrona,Sweden,,,,,,D,44
+281,Remi Elie,24,"Cornwall, ON",Canada,,,,,,LW,1
+282,Lars Eller,30,Rodovre,Denmark,,,,,,C,36
+283,Brian Elliott,35,"Newmarket, ON",Canada,,,,,,LW,1
+284,Stefan Elliott,29,"Vancouver, BC",Canada,,,,,,LW,1
+285,Ryan Ellis,29,"Hamilton, ON",Canada,,,,,,D,41
+286,Deryk Engelland,38,"Edmonton, AB",Canada,,,,,,D,13
+287,Andreas Englund,24,Stockholm,Sweden,,,,,,D,0
+288,Tyler Ennis,30,"Edmonton, AB",Canada,,,,,,LW,18
+289,Jonathan Ericsson,36,Karlskrona,Sweden,,,,,,C,5
+290,Loui Eriksson,34,Gothenburg,Sweden,,,,,,LW,29
+291,Joel Eriksson Ek,23,Karlstad,Sweden,,,,,,D,14
+292,Adam Erne,24,"New Haven, CT",USA,,,,,,LW,20
+293,Robby Fabbri,24,"Mississauga, ON",Canada,,,,,,D,7
+294,Dante Fabbro,21,"Coquitlam, BC",Canada,,,,,,C,1
+295,Radek Faksa,26,Vitkov,Czech Republic,,,,,,D,30
+296,Justin Falk,31,"Snowflake, MB",Canada,,,,,,C,0
+297,Oscar Fantenberg,28,Ljunby,Sweden,,,,,,RW,3
+298,Oscar Fantenberg,28,Ljunby,Sweden,,,,,,RW,1
+299,Jesper Fast,28,Nassjo,Sweden,,,,,,RW,20
+300,Justin Faulk,28,"South St. Paul, MN",USA,,,,,,C,36
+301,Taylor Fedun,31,"Edmonton, AB",Canada,,,,,,C,11
+302,Eric Fehr,34,"Winkler, MB",Canada,,,,,,C,15
+303,Micheal Ferland,27,"Swan River, MB",Canada,,,,,,RW,40
+304,Kevin Fiala,23,St. Gallen,Switzerland,,,,,,C,32
+305,Kevin Fiala,23,St. Gallen,Switzerland,,,,,,C,7
+306,Valtteri Filppula,36,Vantaa,Finland,,,,,,D,31
+307,Christian Fischer,22,"Chicago, IL",USA,,,,,,RW,18
+308,Haydn Fleury,23,"Carlyle, SK",Canada,,,,,,D,1
+309,Marc-Andre Fleury,35,"Sorel, QC",Canada,,,,,,C,2
+310,Warren Foegele,24,"Markham, ON",Canada,,,,,,C,16
+311,Steven Fogarty,26,"Chambersburg, PA",USA,,,,,,LW,0
+312,Marcus Foligno,28,"Buffalo, NY",USA,,,,,,C,19
+313,Nick Foligno,32,"Buffalo, NY",USA,,,,,,D,36
+314,Christian Folin,29,Gothenburg,Sweden,,,,,,C,2
+315,Christian Folin,29,Gothenburg,Sweden,,,,,,LW,4
+316,Derek Forbort,28,"Duluth, MN",USA,,,,,,C,14
+317,Alex Formenton,20,"Barrie, ON",Canada,,,,,,LW,1
+318,Jakob Forsbacka-Karlsson,23,Stockholm,Sweden,,,,,,LW,9
+319,Filip Forsberg,25,Ostervala,Sweden,,,,,,C,50
+320,Gustav Forsling,23,Linkoping,Sweden,,,,,,C,9
+321,Alexandre Fortin,23,"Blainville, QC",Canada,,,,,,D,6
+322,Cam Fowler,28,"Windsor, ON",Canada,,,,,,C,25
+323,Pavel Francouz,29,Plzen,Czech Republic,,,,,,D,0
+324,Trent Frederic,22,"St. Louis, MO",USA,,,,,,D,0
+325,Mark Friedman,24,"Toronto, ON",Canada,,,,,,D,0
+326,Tanner Fritz,28,"Grande Prairie, AB",Canada,,,,,,C,1
+327,Martin Frk,26,Pelhrimov,Czech Republic,,,,,,C,6
+328,Michael Frolik,32,Kladno,Czech Republic,,,,,,D,34
+329,Kaden Fulcher,21,"Brigden, ON",Canada,,,,,,C,0
+330,Kurtis Gabriel,26,"Newmarket, ON",Canada,,,,,,RW,4
+331,Sam Gagner,30,"London, ON",Canada,,,,,,D,3
+332,Sam Gagner,30,"London, ON",Canada,,,,,,D,10
+333,Alex Galchenyuk,26,"Milwaukee, WI",USA,,,,,,RW,41
+334,Brendan Gallagher,27,"Edmonton, AB",Canada,,,,,,D,52
+335,Joseph Gambardella,26,"Staten Island, NY",USA,,,,,,LW,3
+336,Dylan Gambrell,23,"Bonney Lake, WA",USA,,,,,,C,0
+337,Jake Gardiner,29,"Minnetonka, MN",USA,,,,,,RW,30
+338,Conor Garland,24,"Scituate, MA",USA,,,,,,C,18
+339,Jason Garrison,35,"White Rock, BC",Canada,,,,,,C,1
+340,Adam Gaudette,23,"Braintree, MA",USA,,,,,,C,12
+341,Frederick Gaudreau,26,"Bromont, QC",Canada,,,,,,C,4
+342,Johnny Gaudreau,26,"Salem, NJ",USA,,,,,,C,102
+343,Brendan Gaunce,27,"Sudbury, ON",Canada,,,,,,D,3
+344,Cameron Gaunce,30,"Sudbury, ON",Canada,,,,,,D,0
+345,Frederik Gauthier,24,"Laval, QC",Canada,,,,,,RW,14
+346,Alexandar Georgiev,24,Ruse,Russia,,,,,,D,1
+347,Timothy Gettinger,22,"Cleveland, OH",USA,,,,,,D,0
+348,Ryan Getzlaf,34,"Regina, SK",Canada,,,,,,LW,48
+349,Brian Gibbons,32,"Braintree, MA",USA,,,,,,LW,5
+350,Brian Gibbons,32,"Braintree, MA",USA,,,,,,C,14
+351,Christopher Gibson,27,Karkkila,Finland,,,,,,RW,0
+352,John Gibson,26,"Pittsburgh, PA",USA,,,,,,D,0
+353,Brandon Gignac,22,"Repentigny, QC",Canada,,,,,,D,0
+354,Dennis Gilbert,23,"Buffalo, NY",USA,,,,,,D,0
+355,John Gilmour,26,"Montreal, QC",Canada,,,,,,D,0
+356,Stephen Gionta,36,"Rochester, NY",USA,,,,,,D,0
+357,Mark Giordano,36,"Toronto, ON",Canada,,,,,,LW,74
+358,Samuel Girard,21,"Roberval, QC",Canada,,,,,,D,27
+359,Daniel Girardi,35,"Welland, ON",Canada,,,,,,D,16
+360,Zemgus Girgensons,26,Riga,Latvia,,,,,,D,18
+361,Claude Giroux,32,"Hearst, ON",Canada,,,,,,RW,90
+362,Ben Gleason,22,"Ortonville, MI",USA,,,,,,D,1
+363,Luke Glendening,30,"Grand Rapids, MI",USA,,,,,,LW,23
+364,Nikolay Goldobin,24,Moscow,Russia,,,,,,LW,27
+365,Alex Goligoski,34,"Grand Rapids, MN",USA,,,,,,LW,27
+366,Cody Goloubef,30,"Mississauga, ON",Canada,,,,,,D,0
+367,Barclay Goodrow,27,"Toronto, ON",Canada,,,,,,D,20
+368,Shayne Gostisbehere,26,"Pembroke Pines, FL",USA,,,,,,D,38
+369,Tyrell Goulbourne,26,"Edmonton, AB",Canada,,,,,,C,0
+370,Yanni Gourde,28,"Saint-Narcisse, QC",Canada,,,,,,C,48
+371,Michael Grabner,32,Villach,Austria,,,,,,LW,16
+372,Markus Granlund,26,Oulu,Finland,,,,,,D,22
+373,Mikael Granlund,28,Oulu,Finland,,,,,,D,49
+374,Mikael Granlund,28,Oulu,Finland,,,,,,D,5
+375,Derek Grant,29,"Abbotsford, BC",Canada,,,,,,D,5
+376,Derek Grant,29,"Abbotsford, BC",Canada,,,,,,D,10
+377,Kevin Gravel,28,"Kingsford, MI",USA,,,,,,LW,3
+378,Ryan Graves,24,"Yarmouth, NS",Canada,,,,,,C,5
+379,Anthony Greco,26,"Queens, NY",USA,,,,,,D,0
+380,Mike Green,34,"Calgary, AB",Canada,,,,,,D,26
+381,Andy Greene,37,"Trenton, MI",USA,,,,,,RW,26
+382,Jordan Greenway,23,"Canton, NY",USA,,,,,,RW,24
+383,Anthony-John Greer,23,"Joliette, QC",Canada,,,,,,RW,2
+384,Thomas Greiss,34,Fussen,Germany,,,,,,C,1
+385,Rocco Grimaldi,27,"Anaheim, CA",USA,,,,,,C,14
+386,Philipp Grubauer,28,Rosenheim,Germany,,,,,,RW,0
+387,Carl Grundstrom,22,Umea,Sweden,,,,,,RW,8
+388,Eric Gryba,32,"Saskatoon, SK",Canada,,,,,,RW,0
+389,Matt Grzelcyk,26,"Charlestown, MA",USA,,,,,,D,18
+390,Radko Gudas,29,Prague,Czech Republic,,,,,,D,20
+391,Erik Gudbranson,28,"Ottawa, ON",Canada,,,,,,D,8
+392,Erik Gudbranson,28,"Ottawa, ON",Canada,,,,,,C,2
+393,Jake Guentzel,25,"Omaha, NE",USA,,,,,,D,77
+394,Brendan Guhle,22,"Edmonton, AB",USA,,,,,,LW,0
+395,Brendan Guhle,22,"Edmonton, AB",USA,,,,,,RW,1
+396,Carl Gunnarsson,33,Orebro,Sweden,,,,,,RW,7
+397,Denis Gurianov,22,Togliatti,Russia,,,,,,C,4
+398,Erik Gustafsson,28,Nynashamn,Sweden,,,,,,C,61
+399,Carl Hagelin,31,Sodertalje,Sweden,,,,,,D,3
+400,Carl Hagelin,31,Sodertalje,Sweden,,,,,,D,5
+401,Carl Hagelin,31,Sodertalje,Sweden,,,,,,C,11
+402,Robert Hagg,25,Uppsala,Sweden,,,,,,LW,20
+403,Ron Hainsey,39,"Bolton, CT",USA,,,,,,LW,23
+404,Libor Hajek,22,Smrcek,Czech Republic,,,,,,C,1
+405,Jaroslav Halak,34,Bratislava,SVK,,,,,,D,4
+406,Micheal Haley,34,"Guelph, ON",Canada,,,,,,LW,3
+407,Micheal Haley,34,"Guelph, ON",Canada,,,,,,D,3
+408,Taylor Hall,28,"Calgary, AB",Canada,,,,,,D,37
+409,Dan Hamhuis,37,"Smithers, BC",Canada,,,,,,D,5
+410,Dougie Hamilton,26,"Toronto, ON",Canada,,,,,,D,40
+411,Travis Hamonic,29,"St. Malo, MB",Canada,,,,,,RW,21
+412,Noah Hanifin,23,"Boston, MA",USA,,,,,,C,34
+413,Joel Hanley,28,"Keswick, ON",Canada,,,,,,RW,0
+414,Markus Hannikainen,27,Helsinki,Finland,,,,,,C,7
+415,Martin Hanzal,33,Pisek,Czech Republic,,,,,,D,2
+416,Ben Harpur,25,"Hamilton, ON",Canada,,,,,,LW,5
+417,Scott Harrington,27,"Kingston, ON",Canada,,,,,,LW,17
+418,Carter Hart,21,"Sherwood Park, AB",Canada,,,,,,D,0
+419,Ryan Hartman,25,"Hilton Head Isl., SC",USA,,,,,,D,20
+420,Ryan Hartman,25,"Hilton Head Isl., SC",USA,,,,,,D,7
+421,Garnet Hathaway,28,"Kennebunkport, ME",USA,,,,,,LW,20
+422,Erik Haula,29,Pori,Finland,,,,,,D,7
+423,Jayce Hawryluk,24,"Yorkton, SK",Canada,,,,,,D,12
+424,John Hayden,25,"Chicago, IL",USA,,,,,,RW,5
+425,Kevin Hayes,27,"Dorchester, MA",USA,,,,,,LW,42
+426,Kevin Hayes,27,"Dorchester, MA",USA,,,,,,LW,12
+427,Dillon Heatherington,24,"Calgary, AB",Canada,,,,,,D,1
+428,Victor Hedman,29,Ornskoldsvik,Sweden,,,,,,D,54
+429,Tim Heed,29,Gothenburg,Sweden,,,,,,C,13
+430,Danton Heinen,24,"Langley, BC",Canada,,,,,,C,34
+431,Miro Heiskanen,20,Espoo,Finland,,,,,,C,33
+432,Connor Hellebuyck,26,"Commerce, MI",USA,,,,,,D,3
+433,Darren Helm,33,"St. Andrews, MB",Canada,,,,,,RW,17
+434,Matt Hendricks,38,"Blaine, MN",USA,,,,,,C,2
+435,Matt Hendricks,38,"Blaine, MN",USA,,,,,,D,1
+436,Adam Henrique,30,"Brantford, ON",Canada,,,,,,D,42
+437,Tomas Hertl,26,Praha,Czech Republic,,,,,,D,75
+438,Joe Hicketts,23,"Kamloops, BC",Canada,,,,,,C,0
+439,Thomas Hickey,31,"Calgary, AB",Canada,,,,,,LW,4
+440,Adin Hill,23,"Comox, BC",Canada,,,,,,LW,0
+441,Vinnie Hinostroza,26,"Chicago, IL",USA,,,,,,C,39
+442,Roope Hintz,23,Tampere,Finland,,,,,,D,22
+443,Taro Hirose,23,"Calgary, AB",Canada,,,,,,D,8
+444,Nico Hischier,21,Brig,Switzerland,,,,,,C,48
+445,Niklas Hjalmarsson,32,Eksjo,Sweden,,,,,,C,10
+446,Mike Hoffman,30,"Kitchener, ON",Canada,,,,,,LW,71
+447,Marcus Hogberg,25,Orebro,Sweden,,,,,,LW,0
+448,Nick Holden,32,"St. Albert, AB",Canada,,,,,,D,15
+449,Justin Holl,28,"Tonka Bay, MN",USA,,,,,,D,1
+450,Braden Holtby,30,"Lloydminster, SK",Canada,,,,,,LW,2
+451,Korbinian Holzer,32,Munich,Germany,,,,,,D,5
+452,Julius Honka,24,Jyväskylä,Finland,,,,,,RW,4
+453,Patric Hornqvist,33,Sollentuna,Sweden,,,,,,D,39
+454,Bo Horvat,25,"London, ON",Canada,,,,,,C,61
+455,Joshua Ho-Sang,24,"Toronto, ON",Canada,,,,,,D,2
+456,Jimmy Howard,36,"Syracuse, NY",USA,,,,,,C,1
+457,Brett Howden,22,"Calgary, AB",Canada,,,,,,C,23
+458,Filip Hronek,22,Hradec Králové,Czech Republic,,,,,,C,24
+459,Jonathan Huberdeau,26,"Saint-Jerome, QC",Canada,,,,,,C,94
+460,Charles Hudon,25,"Alma, QC",Canada,,,,,,D,5
+461,Quinn Hughes,20,"Orlando, FL",USA,,,,,,LW,3
+462,Brad Hunt,31,"Maple Ridge, BC",Canada,,,,,,RW,7
+463,Brad Hunt,31,"Maple Ridge, BC",Canada,,,,,,RW,5
+464,Dryden Hunt,24,"Cranbrook, BC",Canada,,,,,,D,10
+465,Matt Hunwick,34,"Warren, MI",USA,,,,,,C,2
+466,Michael Hutchinson,30,"Barrie, ON",Canada,,,,,,C,0
+467,Michael Hutchinson,30,"Barrie, ON",Canada,,,,,,RW,0
+468,Ben Hutton,26,"Brockville, ON",Canada,,,,,,RW,20
+469,Carter Hutton,34,"Thunder Bay, ON",Canada,,,,,,D,1
+470,Tomas Hyka,27,Mlada Boleslav,Czech Republic,,,,,,D,4
+471,Zach Hyman,27,"Toronto, ON",Canada,,,,,,C,41
+472,Alex Iafallo,26,"Eden, NY",USA,,,,,,C,34
+473,Matt Irwin,32,"Victoria, BC",Canada,,,,,,RW,7
+474,Josh Jacobs,24,"Shelby Township, MI",USA,,,,,,D,0
+475,Mark Jankowski,25,"Hamilton, ON",Canada,,,,,,C,33
+476,Mattias Janmark,27,Danderyd,Sweden,,,,,,C,25
+477,Calle Jarnkrok,28,Gävle,Sweden,,,,,,RW,26
+478,Christian Jaros,24,Kosice,Slovakia,,,,,,LW,10
+479,Tristan Jarry,24,"Surrey, BC",Canada,,,,,,LW,0
+480,Dmitrij Jaskin,27,Omsk,Russia,,,,,,D,8
+481,Boone Jenner,26,"Dorchester, ON",Canada,,,,,,D,38
+482,Nick Jensen,29,"Rogers, MN",USA,,,,,,D,15
+483,Nick Jensen,29,"Rogers, MN",USA,,,,,,C,5
+484,Jakub Jerabek,28,Pilsen,Czech Republic,,,,,,C,0
+485,Ryan Johansen,27,"Vancouver, BC",Canada,,,,,,D,64
+486,Marcus Johansson,29,Landskrona,Sweden,,,,,,D,27
+487,Marcus Johansson,29,Landskrona,Sweden,,,,,,C,3
+488,Adam Johnson,25,"Hibbing, MN",USA,,,,,,RW,2
+489,Chad Johnson,33,"Saskatoon, SK",Canada,,,,,,RW,0
+490,Chad Johnson,33,"Saskatoon, SK",Canada,,,,,,C,0
+491,Erik Johnson,32,"Bloomington, MN",USA,,,,,,C,25
+492,Jack Johnson,33,"Indianapolis, IN",USA,,,,,,C,13
+493,Luke Johnson,25,"Grand Forks, ND",USA,,,,,,LW,1
+494,Tyler Johnson,29,"Spokane, WA",USA,,,,,,C,47
+495,Andreas Johnsson,25,Gävle,Sweden,,,,,,C,43
+496,Ross Johnston,26,"Charlottetown, PE",Canada,,,,,,D,4
+497,Henri Jokiharju,20,Oulu,Finland,,,,,,D,12
+498,Caleb Jones,22,"Arlington, TX",USA,,,,,,C,6
+499,Martin Jones,30,"North Vancouver, BC",Canada,,,,,,RW,1
+500,Max Jones,22,"Rochester, MI",USA,,,,,,LW,7
+501,Seth Jones,25,"Arlington, TX",USA,,,,,,C,46
+502,Mathieu Joseph,23,"Chambly, QC",Canada,,,,,,RW,26
+503,Roman Josi,29,Bern,Switzerland,,,,,,D,57
+504,Tyson Jost,22,"St. Albert, AB",Canada,,,,,,D,26
+505,Noah Juulsen,23,"Abbotsford, BC",Canada,,,,,,D,5
+506,Nazem Kadri,29,"London, ON",Canada,,,,,,C,44
+507,Dominik Kahun,24,Plana,Czech Republic,,,,,,LW,38
+508,Vladislav Kamenev,23,Orsk,Russia,,,,,,LW,5
+509,David Kampf,25,Chomutov,Czech Republic,,,,,,C,20
+510,Steven Kampfer,31,"Ann Arbor, MI",USA,,,,,,C,6
+511,Evander Kane,28,"Vancouver, BC",Canada,,,,,,D,58
+512,Patrick Kane,31,"Buffalo, NY",USA,,,,,,C,112
+513,Kasperi Kapanen,23,Kuopio,Finland,,,,,,RW,44
+514,Erik Karlsson,29,Landsbro,Sweden,,,,,,LW,46
+515,Melker Karlsson,29,Lycksele,Sweden,,,,,,D,17
+516,William Karlsson,27,Marsta,Sweden,,,,,,RW,56
+517,Ondrej Kase,24,Kadan,Czech Republic,,,,,,D,20
+518,Zack Kassian,29,"Windsor, ON",Canada,,,,,,RW,26
+519,Brady Keeper,23,"Cross Lake, MB",Canada,,,,,,LW,0
+520,Duncan Keith,36,"Winnipeg, MB",Canada,,,,,,RW,41
+521,Clayton Keller,21,"Chesterfield, MO",USA,,,,,,C,47
+522,Adrian Kempe,23,Kramfors,Sweden,,,,,,D,28
+523,Mario Kempe,31,Kramfors,Sweden,,,,,,D,9
+524,Michal Kempny,29,Hodonin,Czech Republic,,,,,,C,25
+525,Alexander Kerfoot,25,"Vancouver, BC",Canada,,,,,,D,42
+526,Ryan Kesler,35,"Livonia, MI",USA,,,,,,C,8
+527,Phil Kessel,32,"Madison, WI",USA,,,,,,D,85
+528,Jujhar Khaira,25,"Surrey, BC",Canada,,,,,,C,18
+529,Anton Khudobin,33,Ust-Kamenogorsk,Kazakhstan,,,,,,D,0
+530,Alex Killorn,30,"Halifax, NS",Canada,,,,,,LW,40
+531,Keith Kinkaid,30,"Farmingville, NY",USA,,,,,,LW,0
+532,Bogdan Kiselevich,30,Cherepovets,Russia,,,,,,C,8
+533,Oscar Klefbom,26,Karlstad,Sweden,,,,,,LW,29
+534,John Klingberg,27,Gothenburg,Sweden,,,,,,LW,45
+535,Justin Kloos,26,"Lakeville, MN",USA,,,,,,LW,0
+536,Corban Knight,29,"Oliver, BC",Canada,,,,,,LW,4
+537,Slater Koekkoek,26,"Winchester, ON",Canada,,,,,,LW,1
+538,Slater Koekkoek,26,"Winchester, ON",Canada,,,,,,LW,6
+539,Mikko Koivu,37,Turku,Finland,,,,,,C,29
+540,Leo Komarov,33,Narva,Estonia,,,,,,D,26
+541,Travis Konecny,23,"London, ON",Canada,,,,,,C,50
+542,Anze Kopitar,32,Jesenice,Slovenia,,,,,,C,62
+543,Joonas Korpisalo,25,Pori,Finland,,,,,,D,0
+544,Mikko Koskinen,31,Vantaa,Finland,,,,,,C,2
+545,Kalle Kossila,27,Kauniainen,Finland,,,,,,LW,1
+546,Jesperi Kotkaniemi,19,Pori,Finland,,,,,,LW,34
+547,Ilya Kovalchuk,36,Tver,Russia,,,,,,LW,36
+548,Chris Kreider,28,"Boxford, MA",USA,,,,,,D,53
+549,David Krejci,33,Sternberk,Czech Republic,,,,,,D,73
+550,Niklas Kronwall,39,Stockholm,Sweden,,,,,,D,27
+551,Torey Krug,29,"Livonia, MI",USA,,,,,,C,53
+552,Marcus Kruger,29,Stockholm,Sweden,,,,,,D,12
+553,Nikita Kucherov,26,Maykop,Russia,,,,,,C,128
+554,Darcy Kuemper,29,"Saskatoon, SK",Canada,,,,,,C,2
+555,Ryan Kuffner,23,"Ottawa, ON",Canada,,,,,,C,0
+556,Karson Kuhlman,24,"Duluth, MN",USA,,,,,,C,5
+557,Tom Kuhnhackl,28,Landshut,Germany,,,,,,LW,9
+558,Dean Kukan,26,Volketswil,Switzerland,,,,,,D,5
+559,Brett Kulak,26,"Edmonton, AB",Canada,,,,,,D,17
+560,Dmitry Kulikov,29,Lipetsk,Russia,,,,,,LW,6
+561,Luke Kunin,22,"Chesterfield, MO",USA,,,,,,LW,17
+562,Chris Kunitz,40,"Regina, SK",Canada,,,,,,RW,11
+563,Janne Kuokkanen,21,Oulunsalo,Finland,,,,,,C,0
+564,Sean Kuraly,27,"Dublin, OH",USA,,,,,,D,21
+565,Evgeny Kuznetsov,27,Chelyabinsk,Russia,,,,,,D,72
+566,Oliver Kylington,22,Stockholm,Sweden,,,,,,D,10
+567,Jordan Kyrou,21,"Toronto, ON",Canada,,,,,,D,3
+568,Kevin Labanc,24,"Brooklyn, NY",USA,,,,,,D,57
+569,Andrew Ladd,34,"Maple Ridge, BC",Canada,,,,,,LW,11
+570,Paul LaDue,27,"Grand Forks, ND",USA,,,,,,C,5
+571,Maxime Lagace,27,"Saint-Augustin, QC",Canada,,,,,,C,0
+572,Patrik Laine,21,Tampere,Finland,,,,,,C,50
+573,Maxime Lajoie,22,"Quebec City, QC",Canada,,,,,,RW,15
+574,Juho Lammikko,24,Noormarkku,Finland,,,,,,D,6
+575,Gabriel Landeskog,27,Stockholm,Sweden,,,,,,C,75
+576,Nick Lappin,27,"Geneva, IL",USA,,,,,,C,0
+577,Dylan Larkin,23,"Waterford, MI",USA,,,,,,C,73
+578,Adam Larsson,27,Skellefteå,Sweden,,,,,,C,20
+579,Jacob Larsson,22,Ljungby,Sweden,,,,,,LW,5
+580,Johan Larsson,27,Lau,Sweden,,,,,,D,14
+581,Brian Lashoff,29,"Albany, NY",USA,,,,,,D,1
+582,Scott Laughton,25,"Oakville, ON",Canada,,,,,,D,34
+583,Jeremy Lauzon,22,"Val D'or, QC",Canada,,,,,,RW,1
+584,Curtis Lazar,25,"Salmon Arm, BC",Canada,,,,,,LW,0
+585,Nick Leddy,29,"Eden Prairie, MN",USA,,,,,,C,26
+586,Anders Lee,29,"Edina, MN",USA,,,,,,D,51
+587,Artturi Lehkonen,24,Piikkio,Finland,,,,,,C,31
+588,Robin Lehner,28,Gothenburg,Sweden,,,,,,RW,1
+589,Jori Lehtera,32,Helsinki,Finland,,,,,,C,3
+590,Brendan Leipsic,25,"Winnipeg, MB",Canada,,,,,,LW,5
+591,Brendan Leipsic,25,"Winnipeg, MB",Canada,,,,,,LW,18
+592,Josh Leivo,26,"Innisfil, ON",Canada,,,,,,LW,6
+593,Josh Leivo,26,"Innisfil, ON",Canada,,,,,,D,18
+594,Brendan Lemieux,24,"Denver, CO",USA,,,,,,LW,12
+595,Brendan Lemieux,24,"Denver, CO",USA,,,,,,LW,6
+596,Joel L'Esperance,24,"Brighton, MI",USA,,,,,,D,3
+597,Kris Letang,32,"Montreal, QC",Canada,,,,,,C,56
+598,Mark Letestu,35,"Elk Point, AB",Canada,,,,,,D,0
+599,Vinni Lettieri,25,"Excelsior, MN",USA,,,,,,D,3
+600,Tyler Lewington,25,"Edmonton, AB",Canada,,,,,,D,2
+601,Trevor Lewis,33,"Salt Lake City, UT",USA,,,,,,C,12
+602,Oscar Lindberg,28,Skellefteå,Sweden,,,,,,C,12
+603,Oscar Lindberg,28,Skellefteå,Sweden,,,,,,LW,8
+604,Oskar Lindblom,23,Gävle,Sweden,,,,,,D,34
+605,Esa Lindell,25,Vantaa,Finland,,,,,,C,32
+606,Charlie Lindgren,26,"Lakeville, MN",USA,,,,,,D,0
+607,Ryan Lindgren,22,"Burnsville, MN",USA,,,,,,LW,0
+608,Anton Lindholm,25,Skelleftea,Sweden,,,,,,LW,0
+609,Elias Lindholm,25,Boden,Sweden,,,,,,D,80
+610,Hampus Lindholm,26,Helsingborg,Sweden,,,,,,C,28
+611,Par Lindholm,28,Kusmark,Sweden,,,,,,LW,12
+612,Par Lindholm,28,Kusmark,Sweden,,,,,,LW,1
+613,Bryan Little,32,"Edmonton, AB",Canada,,,,,,C,41
+614,Blake Lizotte,22,"Lindstrom, MN",USA,,,,,,D,0
+615,Ryan Lomberg,25,"Richmond Hill, ON",Canada,,,,,,D,0
+616,Ben Lovejoy,36,"Concord, NH",USA,,,,,,D,7
+617,Ben Lovejoy,36,"Concord, NH",USA,,,,,,C,2
+618,Adam Lowry,27,"St. Louis, MO",USA,,,,,,D,23
+619,Milan Lucic,31,"Vancouver, BC",Canada,,,,,,RW,20
+620,Matt Luff,22,"Oakville, ON",Canada,,,,,,D,11
+621,Isac Lundestrom,20,Gallivare,Sweden,,,,,,D,2
+622,Henrik Lundqvist,38,Are,Sweden,,,,,,D,3
+623,Roberto Luongo,41,"Montreal, QC",Canada,,,,,,D,1
+624,Alex Lyon,27,"Baudette, MN",USA,,,,,,D,0
+625,Ilya Lyubushkin,26,Moscow,Russia,,,,,,LW,4
+626,Olli Maatta,25,Jyväskylä,Finland,,,,,,D,15
+627,Kurtis MacDermid,26,"Sauble Beach, ON",Canada,,,,,,C,1
+628,Andrew MacDonald,33,"Judique, NS",Canada,,,,,,D,9
+629,Jacob MacDonald,27,"Portland, OR",USA,,,,,,C,1
+630,Mackenzie MacEachern,26,"Bloomfield Hills, MI",USA,,,,,,C,5
+631,Zack MacEwen,23,"Charlottetown, PE",Canada,,,,,,D,1
+632,Derek MacKenzie,38,"Sudbury, ON",Canada,,,,,,D,0
+633,Nathan MacKinnon,24,"Halifax, NS",Canada,,,,,,D,99
+634,Saku Maenalanen,25,Kemi,Finland,,,,,,LW,8
+635,Josh Mahura,21,"St. Albert, AB",Canada,,,,,,D,6
+636,Denis Malgin,23,Olten,Switzerland,,,,,,D,16
+637,Evgeni Malkin,33,Magnitogorsk,Russia,,,,,,D,73
+638,Brad Malone,30,"Chatham, NB",Canada,,,,,,C,0
+639,Maxim Mamin,25,Moscow,Russia,,,,,,D,0
+640,Andrew Mangiapane,24,"Toronto, ON",Canada,,,,,,D,13
+641,Brandon Manning,29,"Prince George, BC",Canada,,,,,,D,3
+642,Brandon Manning,29,"Prince George, BC",Canada,,,,,,D,1
+643,Josh Manson,28,"Hinsdale, IL",USA,,,,,,D,17
+644,Anthony Mantha,25,"Longueuil, QC",Canada,,,,,,D,48
+645,Brad Marchand,31,"Halifax, NS",Canada,,,,,,D,100
+646,Jonathan Marchessault,29,"Cap-Rouge, QC",Canada,,,,,,D,60
+647,Martin Marincin,28,Kosice,Slovakia,,,,,,D,5
+648,Jacob Markstrom,30,Gävle,Sweden,,,,,,D,3
+649,Patrick Marleau,40,"Aneroid, SK",Canada,,,,,,C,37
+650,Mitchell Marner,22,"Markham, ON",Canada,,,,,,C,94
+651,Cooper Marody,23,"Brighton, MI",USA,,,,,,LW,0
+652,Pat Maroon,31,"St. Louis, MO",USA,,,,,,C,29
+653,Danick Martel,25,"Drummondville, QC",Canada,,,,,,C,2
+654,Matt Martin,30,"Windsor, ON",Canada,,,,,,D,14
+655,Alec Martinez,32,"Rochester Hills, MI",USA,,,,,,D,18
+656,Jordan Martinook,27,"Brandon, MB",Canada,,,,,,RW,25
+657,Andreas Martinsen,29,Bærum,Norway,,,,,,RW,4
+658,Mike Matheson,26,"Pointe-Claire, QC",Canada,,,,,,RW,27
+659,Auston Matthews,22,"San Ramon, CA",USA,,,,,,C,73
+660,Scott Mayfield,27,"St. Louis, MO",USA,,,,,,LW,19
+661,Charlie McAvoy,22,"Long Beach, NY",USA,,,,,,C,28
+662,Jake McCabe,26,"Eau Claire, WI",USA,,,,,,D,14
+663,Jared McCann,23,"Stratford, ON",Canada,,,,,,C,18
+664,Jared McCann,23,"Stratford, ON",Canada,,,,,,D,17
+665,Max McCormick,27,"De Pere, WI",USA,,,,,,RW,1
+666,Ian McCoshen,24,"Anaheim, CA",USA,,,,,,D,2
+667,Connor McDavid,23,"Richmond Hill, ON",Canada,,,,,,C,116
+668,Ryan McDonagh,30,"St. Paul, MN",USA,,,,,,C,46
+669,Curtis McElhinney,36,"London, ON",Canada,,,,,,LW,0
+670,Brock McGinn,26,"Fergus, ON",Canada,,,,,,C,26
+671,Jamie McGinn,31,"Fergus, ON",Canada,,,,,,D,7
+672,Dylan McIlrath,27,"Winnipeg, MB",Canada,,,,,,D,0
+673,Greg McKegg,27,"St. Thomas, ON",Canada,,,,,,RW,11
+674,Mike McKenna,37,"St. Louis, MO",USA,,,,,,RW,0
+675,Mike McKenna,37,"St. Louis, MO",USA,,,,,,C,0
+676,Cody McLeod,35,"Binscarth, MB",Canada,,,,,,C,1
+677,Cody McLeod,35,"Binscarth, MB",Canada,,,,,,RW,0
+678,Michael McLeod,22,"Mississauga, ON",Canada,,,,,,D,4
+679,Brayden McNabb,29,"Davidson, SK",Canada,,,,,,RW,16
+680,Adam McQuaid,33,"Charlottetown, PE",Canada,,,,,,D,5
+681,Adam McQuaid,33,"Charlottetown, PE",Canada,,,,,,D,2
+682,Wade Megan,29,"Canton, NY",USA,,,,,,LW,1
+683,Jaycob Megna,27,"Plantation, FL",USA,,,,,,C,4
+684,Timo Meier,23,Herisau,Switzerland,,,,,,C,66
+685,Dakota Mermis,26,"Alton, IL",USA,,,,,,D,0
+686,Jon Merrill,28,"Oklahoma City, OK",USA,,,,,,D,15
+687,Victor Mete,21,"Woodbridge, ON",Canada,,,,,,RW,13
+688,Marc Methot,34,"Ottawa, ON",Canada,,,,,,D,0
+689,Jacob Middleton,24,"Wainwright, AB",Canada,,,,,,LW,1
+690,Sonny Milano,23,"Massapequa, NY",USA,,,,,,D,1
+691,Colin Miller,27,"Sault Ste. Marie, ON",Canada,,,,,,LW,29
+692,J.T. Miller,27,"East Palestine, OH",USA,,,,,,LW,47
+693,Kevan Miller,32,"Los Angeles, CA",USA,,,,,,C,7
+694,Ryan Miller,39,"East Lansing, MI",USA,,,,,,LW,0
+695,Hunter Miska,24,"Stacy, MN",USA,,,,,,RW,0
+696,Casey Mittelstadt,21,"Edina, MN",USA,,,,,,C,25
+697,Sean Monahan,25,"Brampton, ON",Canada,,,,,,RW,84
+698,Sam Montembeault,23,"Becancour, QC",Canada,,,,,,C,1
+699,Brandon Montour,26,"Brantford, ON",Canada,,,,,,D,25
+700,Brandon Montour,26,"Brantford, ON",Canada,,,,,,LW,10
+701,John Moore,29,"Winnetka, IL",USA,,,,,,RW,13
+702,Trevor Moore,25,"Thousand Oaks, CA",USA,,,,,,D,8
+703,Samuel Morin,24,"Lac-Beauport, QC",Canada,,,,,,C,0
+704,Josh Morrissey,25,"Calgary, AB",Canada,,,,,,LW,31
+705,Joe Morrow,27,"Edmonton, AB",Canada,,,,,,C,7
+706,Tyler Motte,25,"St. Clair, MI",USA,,,,,,LW,16
+707,Petr Mrazek,28,Ostrava,Czech Republic,,,,,,LW,1
+708,Mirco Mueller,25,Winterthur,Switzerland,,,,,,LW,11
+709,Connor Murphy,27,"Dublin, OH",USA,,,,,,C,13
+710,Ryan Murphy,27,"Aurora, ON",Canada,,,,,,D,0
+711,Ryan Murphy,27,"Aurora, ON",Canada,,,,,,RW,1
+712,Matt Murray,25,"Thunder Bay, ON",Canada,,,,,,LW,0
+713,Ryan Murray,26,"Regina, SK",Canada,,,,,,LW,29
+714,Jake Muzzin,31,"Woodstock, ON",Canada,,,,,,C,21
+715,Jake Muzzin,31,"Woodstock, ON",Canada,,,,,,LW,16
+716,Philippe Myers,23,"Moncton, NB",Canada,,,,,,RW,2
+717,Tyler Myers,30,"Houston, TX",USA,,,,,,D,31
+718,Tyler Myers,30,"Houston, TX",USA,,,,,,LW,0
+719,Vladislav Namestnikov,27,Zhukovskiy,Russia,,,,,,LW,31
+720,Riley Nash,30,"Consort, AB",Canada,,,,,,D,12
+721,James Neal,32,"Whitby, ON",Canada,,,,,,D,19
+722,Martin Necas,21,Nove Mesto na Morave,Czech Republic,,,,,,D,2
+723,Alex Nedeljkovic,24,"Parma, OH",USA,,,,,,C,0
+724,Brock Nelson,28,"Warroad, MN",USA,,,,,,D,53
+725,Casey Nelson,27,"Stillwater, MN",USA,,,,,,D,6
+726,Patrik Nemeth,28,Stockholm,Sweden,,,,,,D,10
+727,Michal Neuvirth,32,Ústí nad Labem,Czech Republic,,,,,,LW,0
+728,Valeri Nichushkin,25,Chelyabinsk,Russia,,,,,,D,10
+729,Nino Niederreiter,27,Chur,Switzerland,,,,,,D,23
+730,Nino Niederreiter,27,Chur,Switzerland,,,,,,D,31
+731,Frans Nielsen,35,Herning,Denmark,,,,,,C,35
+732,Antti Niemi,36,Vantaa,Finland,,,,,,C,1
+733,Matt Nieto,27,"Long Beach, CA",USA,,,,,,C,23
+734,Cristoval Nieves,26,"Syracuse, NY",USA,,,,,,C,10
+735,Sami Niku,23,Haapavesi,Finland,,,,,,C,4
+736,Anders Nilsson,30,Lulea,Sweden,,,,,,C,0
+737,Anders Nilsson,30,Lulea,Sweden,,,,,,D,1
+738,Jacob Nilsson,26,Solvesborg,Sweden,,,,,,RW,0
+739,Matt Niskanen,33,"Virginia, MN",USA,,,,,,D,25
+740,Stefan Noesen,27,"Plano, TX",USA,,,,,,D,8
+741,Nelson Nogier,23,"Saskatoon, SK",Canada,,,,,,D,0
+742,Jordan Nolan,30,"Garden River, ON",Canada,,,,,,D,2
+743,Joakim Nordstrom,28,Stockholm,Sweden,,,,,,LW,12
+744,Tomas Nosek,27,Pardubice,Czech Republic,,,,,,RW,17
+745,Ryan Nugent-Hopkins,27,"Burnaby, BC",Canada,,,,,,D,71
+746,Darnell Nurse,25,"Hamilton, ON",Canada,,,,,,LW,42
+747,Markus Nutivaara,25,Oulu,Finland,,,,,,D,21
+748,Alex Nylander,22,"Calgary, AB",Canada,,,,,,C,4
+749,William Nylander,23,"Calgary, AB",Canada,,,,,,C,27
+750,Gustav Nyquist,30,Halmstad,Sweden,,,,,,C,49
+751,Gustav Nyquist,30,Halmstad,Sweden,,,,,,RW,11
+752,Logan O'Connor,23,"Missouri City, TX",USA,,,,,,D,0
+753,Jordan Oesterle,27,"Dearborn Heights, MI",USA,,,,,,LW,20
+754,Kyle Okposo,31,"St. Paul, MN",USA,,,,,,C,30
+755,Jamie Oleksiak,27,"Toronto, ON",Canada,,,,,,RW,11
+756,Jamie Oleksiak,27,"Toronto, ON",Canada,,,,,,C,1
+757,Victor Olofsson,24,Ornskoldsvik,Sweden,,,,,,C,6
+758,Daniel O'Regan,26,Berlin,Germany,,,,,,C,0
+759,Ryan O'Reilly,29,"Clinton, ON",Canada,,,,,,RW,78
+760,Dmitry Orlov,28,Novokuznetsk,Russia,,,,,,C,29
+761,Brooks Orpik,39,"San Francisco, CA",USA,,,,,,RW,9
+762,T.J. Oshie,33,"Everett, WA",USA,,,,,,RW,54
+763,Xavier Ouellet,26,Bayonne,France,,,,,,D,3
+764,Alex Ovechkin,34,Moscow,Russia,,,,,,C,89
+765,Igor Ozhiganov,27,Krasnogorsk,Russia,,,,,,RW,7
+766,Magnus Paajarvi,29,Norrkoping,Sweden,,,,,,C,19
+767,Max Pacioretty,31,"New Canaan, CT",USA,,,,,,RW,40
+768,Jean-Gabriel Pageau,27,"Ottawa, ON",Canada,,,,,,RW,13
+769,Ondrej Palat,29,Frydek-Mistek,Czech Republic,,,,,,D,34
+770,Kyle Palmieri,29,"Smithtown, NY",USA,,,,,,D,50
+771,Artemi Panarin,28,Korkino,Russia,,,,,,LW,88
+772,Richard Panik,29,Martin,Slovakia,,,,,,D,33
+773,Cedric Paquette,26,"Gaspe, QC",Canada,,,,,,RW,17
+774,Colton Parayko,26,"St. Albert, AB",Canada,,,,,,LW,28
+775,Zach Parise,35,"Minneapolis, MN",USA,,,,,,LW,61
+776,Edward Pasquale,29,"Tornoto, ON",Canada,,,,,,RW,0
+777,David Pastrnak,23,Havirov,Czech Republic,,,,,,LW,81
+778,Greg Pateryn,29,"Sterling Heights, MI",USA,,,,,,C,7
+779,Nolan Patrick,21,"Winnipeg, MB",Canada,,,,,,D,31
+780,Nick Paul,25,"Mississauga, ON",Canada,,,,,,C,2
+781,Joe Pavelski,35,"Plover, WI",USA,,,,,,LW,66
+782,Tanner Pearson,27,"Kitchener, ON",Canada,,,,,,RW,1
+783,Tanner Pearson,27,"Kitchener, ON",Canada,,,,,,LW,14
+784,Tanner Pearson,27,"Kitchener, ON",Canada,,,,,,LW,12
+785,Matthew Peca,26,"Petawawa, ON",Canada,,,,,,C,10
+786,Adam Pelech,25,"Toronto, ON",Canada,,,,,,D,21
+787,Anthony Peluso,30,"Barrie, ON",Canada,,,,,,D,0
+788,Brendan Perlini,23,Guildford,GBR,,,,,,RW,6
+789,Brendan Perlini,23,Guildford,GBR,,,,,,RW,15
+790,Mathieu Perreault,32,"Drummondville, QC",Canada,,,,,,D,31
+791,David Perron,31,"Sherbrooke, QC",Canada,,,,,,D,48
+792,Corey Perry,34,"Peterborough, ON",Canada,,,,,,RW,10
+793,Brett Pesce,25,"Tarrytown, NY",USA,,,,,,C,30
+794,Nicolas Petan,25,"Delta, BC",Canada,,,,,,D,3
+795,Nicolas Petan,25,"Delta, BC",Canada,,,,,,LW,1
+796,Calvin Petersen,25,"Waterloo, IA",USA,,,,,,LW,0
+797,Alex Petrovic,28,"Edmonton, AB",Canada,,,,,,RW,1
+798,Alex Petrovic,28,"Edmonton, AB",Canada,,,,,,LW,1
+799,Jeff Petry,32,"Ann Arbor, MI",USA,,,,,,D,46
+800,Elias Pettersson,21,Sundsvall,Sweden,,,,,,D,66
+801,Marcus Pettersson,23,Skellefteå,Sweden,,,,,,D,6
+802,Marcus Pettersson,23,Skellefteå,Sweden,,,,,,D,19
+803,Dion Phaneuf,35,"Edmonton, AB",Canada,,,,,,D,6
+804,Calvin Pickard,27,"Moncton, NB",Canada,,,,,,D,0
+805,Calvin Pickard,27,"Moncton, NB",Canada,,,,,,C,0
+806,Blake Pietila,27,"Milford, MI",USA,,,,,,C,1
+807,Alex Pietrangelo,30,"King City, ON",Canada,,,,,,C,44
+808,Lawrence Pilut,24,Tingsryd,Sweden,,,,,,C,7
+809,Neal Pionk,24,"Omaha, NE",USA,,,,,,D,26
+810,Brandon Pirri,29,"Toronto, ON",Canada,,,,,,D,19
+811,Rem Pitlick,23,"Plymouth, MN",USA,,,,,,RW,0
+812,Tyler Pitlick,28,"Minneapolis, MN",USA,,,,,,D,12
+813,Tomas Plekanec,37,Kladno,Czech Republic,,,,,,D,1
+814,Ryan Poehling,21,"Lakeville, MN",USA,,,,,,D,3
+815,Brayden Point,24,"Calgary, AB",Canada,,,,,,C,92
+816,Roman Polak,33,Ostrava,Czech Republic,,,,,,C,9
+817,Jason Pominville,37,"Repentigny, QC",Canada,,,,,,D,32
+818,Derrick Pouliot,26,"Estevan, SK",Canada,,,,,,D,12
+819,Carey Price,32,"Anahim Lake, BC",Canada,,,,,,D,1
+820,Nate Prosser,33,"Elk River, MN",USA,,,,,,LW,0
+821,Dalton Prout,30,"Kingsville, ON",Canada,,,,,,D,2
+822,Ivan Provorov,23,Yaroslavl,Russia,,,,,,C,27
+823,Matt Puempel,27,"Essex, ON",Canada,,,,,,D,2
+824,Jesse Puljujarvi,21,Alvkarleby,Sweden,,,,,,C,9
+825,Ryan Pulock,25,"Dauphin, MB",Canada,,,,,,D,37
+826,Tom Pyatt,33,"Thunder Bay, ON",Canada,,,,,,LW,2
+827,Mark Pysyk,28,"Sherwood Park, AB",Canada,,,,,,RW,11
+828,John Quenneville,23,"Edmonton, AB",Canada,,,,,,D,1
+829,Jonathan Quick,34,"Milford, CT",USA,,,,,,D,2
+830,Alan Quine,27,"Belleville, ON",Canada,,,,,,D,6
+831,Antti Raanta,30,Rauma,Finland,,,,,,RW,1
+832,Lukas Radil,29,Caslav,Czceh Republic,,,,,,C,11
+833,Alexander Radulov,33,Nizhny Tagil,Russia,,,,,,C,73
+834,Brogan Rafferty,24,"Dundee, IL",USA,,,,,,LW,0
+835,Michael Raffl,31,Villach,Austria,,,,,,RW,20
+836,Rickard Rakell,26,Sundbyberg,Sweden,,,,,,RW,44
+837,Mikko Rantanen,23,Nousiainen,Finland,,,,,,RW,87
+838,Tuukka Rask,33,Savonlinna,Finland,,,,,,C,2
+839,Victor Rask,27,Leksand,Sweden,,,,,,C,6
+840,Victor Rask,27,Leksand,Sweden,,,,,,D,3
+841,Michael Rasmussen,20,"Surrey, BC",Canada,,,,,,RW,18
+842,Ty Rattie,27,"Calgary, AB",Canada,,,,,,RW,11
+843,Kyle Rau,27,"Eden Prairie, MN",USA,,,,,,D,1
+844,Matt Read,33,"Ilderton, ON",Canada,,,,,,RW,1
+845,Ryan Reaves,33,"Winnipeg, MB",Canada,,,,,,RW,20
+846,Mike Reilly,26,"Chicago, IL",USA,,,,,,C,11
+847,James Reimer,32,"Morweena, MB",Canada,,,,,,C,0
+848,Sam Reinhart,24,"West Vancouver, BC",Canada,,,,,,LW,68
+849,Sheldon Rempal,24,"Calgary, AB",Canada,,,,,,D,0
+850,Anthony Richard,23,"Trois-Rivieres, QC",Canada,,,,,,D,0
+851,Brad Richardson,35,"Belleville, ON",Canada,,,,,,D,27
+852,Tobias Rieder,27,Landshut,Germany,,,,,,LW,11
+853,Morgan Rielly,26,"Vancouver, BC",Canada,,,,,,RW,72
+854,Juuso Riikola,26,Joensuu,Finland,,,,,,C,5
+855,Zac Rinaldo,29,"Mississauga, ON",Canada,,,,,,C,3
+856,Pekka Rinne,37,Kempele,Finland,,,,,,RW,0
+857,Rasmus Ristolainen,25,Turku,Finland,,,,,,LW,45
+858,Brett Ritchie,26,"Orangeville, ON",Canada,,,,,,RW,6
+859,Nick Ritchie,24,"Orangeville, ON",Canada,,,,,,C,32
+860,David Rittich,27,Jihlava,Czech Republic,,,,,,C,0
+861,Eric Robinson,24,"Bellmawr, NJ",USA,,,,,,LW,0
+862,Jack Rodewald,26,"Calgary, AB",Canada,,,,,,RW,0
+863,Evan Rodrigues,26,"Toronto, ON",Canada,,,,,,C,29
+864,Kevin Rooney,26,"Canton, MA",USA,,,,,,C,11
+865,Calle Rosen,26,Vaxjo,Sweden,,,,,,C,1
+866,Jack Roslovic,23,"Columbus, OH",USA,,,,,,C,24
+867,Antoine Roussel,30,Roubaix,France,,,,,,RW,31
+868,Carter Rowney,30,"Grande Prairie, AB",Canada,,,,,,RW,22
+869,Kevin Roy,26,"Greenfield Park, QC",Canada,,,,,,D,0
+870,Matt Roy,25,"Detroit, MI",USA,,,,,,C,8
+871,Nicolas Roy,23,"Amos, QC",Canada,,,,,,C,0
+872,Chad Ruhwedel,29,"San Diego, CA",USA,,,,,,D,2
+873,Kris Russell,32,"Caroline, AB",Canada,,,,,,RW,16
+874,Patrick Russell,27,Holte,Denmark,,,,,,C,0
+875,Bryan Rust,27,"Pontiac, MI",USA,,,,,,C,35
+876,Jan Rutta,29,Pisek,Czech Republic,,,,,,D,6
+877,Jan Rutta,29,Pisek,Czech Republic,,,,,,C,2
+878,Bobby Ryan,33,"Cherry Hill, NJ",USA,,,,,,LW,42
+879,Derek Ryan,33,"Spokane, WA",USA,,,,,,RW,38
+880,Joakim Ryan,26,"Rumson, NJ",USA,,,,,,C,8
+881,Kerby Rychel,25,"Torrance, CA",USA,,,,,,C,0
+882,Brandon Saad,27,"Pittsburgh, PA",USA,,,,,,C,48
+883,Miikka Salomaki,27,Raahe,Finland,,,,,,D,8
+884,Zach Sanford,25,"Salem, MA",USA,,,,,,RW,20
+885,Travis Sanheim,24,"Elkhorn, MB",Canada,,,,,,RW,35
+886,Steven Santini,25,"Bronxville, NY",USA,,,,,,D,4
+887,Juuse Saros,24,Forssa,Finland,,,,,,D,0
+888,Ashton Sautner,25,"Flaxcombe, SK",Canada,,,,,,C,1
+889,David Savard,29,"St. Hyacinthe, QC",Canada,,,,,,C,26
+890,Luca Sbisa,30,Ozieri,Italy,,,,,,C,1
+891,Marco Scandella,30,"Montreal, QC",Canada,,,,,,C,13
+892,Colton Sceviour,30,"Red Deer, AB",Canada,,,,,,C,15
+893,Tim Schaller,29,"Merrimack, NH",USA,,,,,,C,10
+894,Mark Scheifele,27,"Kitchener, ON",Canada,,,,,,D,86
+895,Brayden Schenn,28,"Saskatoon, SK",Canada,,,,,,D,56
+896,Luke Schenn,30,"Saskatoon, SK",Canada,,,,,,C,0
+897,Luke Schenn,30,"Saskatoon, SK",Canada,,,,,,C,2
+898,Nikita Scherbak,24,Moscow,Russia,,,,,,D,1
+899,Cameron Schilling,31,"Carmel, IN",USA,,,,,,D,1
+900,David Schlemko,32,"Edmonton, AB",Canada,,,,,,C,2
+901,Jordan Schmaltz,26,"Madison, WI",USA,,,,,,RW,2
+902,Nick Schmaltz,24,"Madison, WI",USA,,,,,,LW,11
+903,Nick Schmaltz,24,"Madison, WI",USA,,,,,,D,14
+904,Nate Schmidt,28,"St. Cloud, MN",USA,,,,,,LW,30
+905,Cory Schneider,34,"Marblehead, MA",USA,,,,,,RW,0
+906,Jimmy Schuldt,24,"Minnetonka, MN",USA,,,,,,LW,2
+907,Justin Schultz,29,"Kelowna, BC",Canada,,,,,,C,15
+908,Jaden Schwartz,27,"Wilcox, SK",Canada,,,,,,D,36
+909,Brent Seabrook,34,"Richmond, BC",Canada,,,,,,LW,30
+910,Lukas Sedlak,27,Ceské Budejovice,Czech Republic,,,,,,RW,6
+911,Nick Seeler,26,"Eden Prairie, MN",USA,,,,,,D,7
+912,Tyler Seguin,28,"Brampton, ON",Canada,,,,,,C,81
+913,Andrej Sekera,33,Bojnice,Slovakia,,,,,,D,5
+914,Brett Seney,24,"London, ON",Canada,,,,,,C,13
+915,Zach Senyshyn,23,"Ottawa, ON",Canada,,,,,,C,1
+916,Mikhail Sergachev,21,Nizhnekamsk,Russia,,,,,,C,32
+917,Damon Severson,25,"Melville, SK",Canada,,,,,,RW,40
+918,Kevin Shattenkirk,31,"New Rochelle, NY",USA,,,,,,RW,28
+919,Andrew Shaw,28,"Belleville, ON",Canada,,,,,,C,47
+920,Riley Sheahan,28,"St. Catharines, ON",Canada,,,,,,C,9
+921,Riley Sheahan,28,"St. Catharines, ON",Canada,,,,,,LW,10
+922,Conor Sheary,27,"Winchester, MA",USA,,,,,,LW,35
+923,Kiefer Sherwood,25,"Columbus, OH",USA,,,,,,D,13
+924,Kiefer Sherwood,25,"Columbus, OH",USA,,,,,,C,0
+925,Kole Sherwood,23,"New Albany, OH",USA,,,,,,RW,0
+926,Devin Shore,25,"Ajax, ON",Canada,,,,,,RW,17
+927,Devin Shore,25,"Ajax, ON",Canada,,,,,,C,13
+928,Jonas Siegenthaler,22,Zurich,Switzerland,,,,,,C,4
+929,Dylan Sikura,24,"Aurora, ON",Canada,,,,,,D,8
+930,Jakob Silfverberg,29,Gävle,Sweden,,,,,,D,46
+931,Radim Simek,27,Mlada Boleslav,Czech Republic,,,,,,RW,9
+932,Wayne Simmonds,31,"Scarborough, ON",Canada,,,,,,C,28
+933,Wayne Simmonds,31,"Scarborough, ON",Canada,,,,,,C,3
+934,Dominik Simon,25,Prague,Czech Republic,,,,,,D,28
+935,Colton Sissons,26,"North Vancouver, BC",Canada,,,,,,D,31
+936,Jeff Skinner,27,"Toronto, ON",Canada,,,,,,LW,64
+937,Brady Skjei,26,"Lakeville, MN",USA,,,,,,LW,25
+938,Jaccob Slavin,25,"Denver, CO",USA,,,,,,D,32
+939,Brendan Smith,31,"Mimico, ON",Canada,,,,,,C,13
+940,C.J. Smith,25,"Des Moines, IA",USA,,,,,,D,2
+941,Craig Smith,30,"Madison, WI",USA,,,,,,C,39
+942,Gemel Smith,25,"Toronto, ON",Canada,,,,,,RW,3
+943,Gemel Smith,25,"Toronto, ON",Canada,,,,,,LW,0
+944,Mike Smith,38,"Kingston, ON",Canada,,,,,,LW,3
+945,Reilly Smith,29,"Mimico, ON",Canada,,,,,,RW,53
+946,Zack Smith,32,"Maple Creek, SK",Canada,,,,,,D,28
+947,Devante Smith-Pelly,27,"Scarborough, ON",Canada,,,,,,RW,8
+948,Vladimir Sobotka,32,Trebic,Czech Republic,,,,,,C,13
+949,Carl Soderberg,34,Malmö,Sweden,,,,,,LW,49
+950,Marcus Sorensen,28,Sodertalje,Sweden,,,,,,LW,31
+951,Nikita Soshnikov,26,Nizhny Tagil,Russia,,,,,,RW,0
+952,Garret Sparks,26,"Elmhurst, IL",USA,,,,,,LW,0
+953,Jason Spezza,36,"Toronto, ON",Canada,,,,,,D,27
+954,Ryan Spooner,28,"Ottawa, ON",Canada,,,,,,C,2
+955,Ryan Spooner,28,"Ottawa, ON",Canada,,,,,,LW,3
+956,Ryan Spooner,28,"Ottawa, ON",Canada,,,,,,C,4
+957,Daniel Sprong,23,Amsterdam,Netherlands,,,,,,C,4
+958,Daniel Sprong,23,Amsterdam,Netherlands,,,,,,C,20
+959,Jared Spurgeon,30,"Edmonton, AB",Canada,,,,,,D,43
+960,Eric Staal,35,"Thunder Bay, ON",Canada,,,,,,D,52
+961,Jordan Staal,31,"Thunder Bay, ON",Canada,,,,,,D,28
+962,Marc Staal,33,"Thunder Bay, ON",Canada,,,,,,RW,13
+963,Drew Stafford,34,"Milwaukee, WI",USA,,,,,,RW,13
+964,Alex Stalock,32,"St. Paul, MN",USA,,,,,,D,2
+965,Steven Stamkos,30,"Markham, ON",Canada,,,,,,C,98
+966,Paul Stastny,34,"Quebec City, QC",Canada,,,,,,D,42
+967,Troy Stecher,26,"Richmond, BC",Canada,,,,,,RW,23
+968,Sam Steel,22,"Ardrossan, AB",Canada,,,,,,C,12
+969,Alexander Steen,36,"Winnipeg, MB",Canada,,,,,,D,30
+970,Lee Stempniak,37,"West Seneca, NY",USA,,,,,,D,0
+971,Kevin Stenlund,23,Stockholm,Sweden,,,,,,D,0
+972,Derek Stepan,29,"Hastings, MN",USA,,,,,,D,35
+973,Chandler Stephenson,25,"Saskatoon, SK",Canada,,,,,,RW,11
+974,Riley Stillman,22,"Peterborough, ON",Canada,,,,,,C,0
+975,Anthony Stolarz,26,"Edison, NJ",USA,,,,,,LW,0
+976,Anthony Stolarz,26,"Edison, NJ",USA,,,,,,LW,0
+977,Mark Stone,27,"Winnipeg, MB",Canada,,,,,,RW,62
+978,Mark Stone,27,"Winnipeg, MB",Canada,,,,,,RW,11
+979,Michael Stone,29,"Winnipeg, MB",Canada,,,,,,D,5
+980,Anton Stralman,33,Tibro,Sweden,,,,,,LW,17
+981,Ben Street,33,"Coquitlam, BC",Canada,,,,,,D,5
+982,Dylan Strome,23,"Mississauga, ON",Canada,,,,,,RW,6
+983,Dylan Strome,23,"Mississauga, ON",Canada,,,,,,D,52
+984,Ryan Strome,26,"Mississauga, ON",Canada,,,,,,C,2
+985,Ryan Strome,26,"Mississauga, ON",Canada,,,,,,RW,34
+986,Nico Sturm,24,Augsburg,Germany,,,,,,D,0
+987,Malcolm Subban,26,"Toronto, ON",Canada,,,,,,D,0
+988,P.K. Subban,30,"Toronto, ON",Canada,,,,,,C,31
+989,Libor Sulak,26,Pelhrimov,Czech Republic,,,,,,D,0
+990,Oskar Sundqvist,26,Boden,Sweden,,,,,,C,32
+991,Antti Suomela,26,Espoo,Finland,,,,,,LW,8
+992,Andrej Sustr,29,Plzen,Czech Republic,,,,,,LW,0
+993,Ryan Suter,35,"Madison, WI",USA,,,,,,LW,47
+994,Brandon Sutter,31,"Huntington, NY",USA,,,,,,LW,6
+995,Andrei Svechnikov,20,Barnaul,Russia,,,,,,LW,37
+996,Cam Talbot,32,"Caledonia, ON",Canada,,,,,,LW,1
+997,Cam Talbot,32,"Caledonia, ON",Canada,,,,,,C,0
+998,Brandon Tanev,28,"Toronto, ON",Canada,,,,,,D,29
+999,Christopher Tanev,30,"Toronto, ON",Canada,,,,,,C,12
+1000,Eric Tangradi,31,"Philadelphia, PA",USA,,,,,,D,1
+1001,Vladimir Tarasenko,28,Yaroslavl,Russia,,,,,,C,70
+1002,Tomas Tatar,29,Ilava,Slovakia,,,,,,D,58
+1003,John Tavares,29,"Mississauga, ON",Canada,,,,,,LW,88
+1004,Matt Tennyson,29,"Minneapolis, MN",USA,,,,,,C,0
+1005,Teuvo Teravainen,25,Helsinki,Finland,,,,,,D,77
+1006,Troy Terry,22,"Denver, CO",USA,,,,,,D,13
+1007,Josh Teves,25,"Calgary, AB",Canada,,,,,,C,0
+1008,Alexandre Texier,20,St. Martin D'heres,France,,,,,,RW,1
+1009,Shea Theodore,24,"Langley, BC",Canada,,,,,,C,37
+1010,Robert Thomas,20,"Aurora, ON",Canada,,,,,,C,34
+1011,Nate Thompson,35,"Anchorage, AK",USA,,,,,,C,6
+1012,Nate Thompson,35,"Anchorage, AK",USA,,,,,,D,7
+1013,Tage Thompson,22,"Phoenix, AZ",USA,,,,,,D,12
+1014,Chris Thorburn,36,"Sault Ste. Marie, ON",Canada,,,,,,C,0
+1015,Joe Thornton,40,"London, ON",Canada,,,,,,LW,52
+1016,Chris Tierney,25,"Keswick, ON",Canada,,,,,,C,48
+1017,Brady Tkachuk,20,"Scottsdale, AZ",USA,,,,,,D,45
+1018,Matthew Tkachuk,22,"Scottsdale, AZ",USA,,,,,,D,78
+1019,Devon Toews,26,"Abbotsford, BC",Canada,,,,,,LW,18
+1020,Jonathan Toews,31,"Winnipeg, MB",Canada,,,,,,C,83
+1021,Tyler Toffoli,27,"Scarborough, ON",Canada,,,,,,D,34
+1022,Eeli Tolvanen,20,Vihti,Finland,,,,,,RW,2
+1023,Dominic Toninato,26,"Duluth, MN",USA,,,,,,D,1
+1024,Vincent Trocheck,26,"Pittsburgh, PA",USA,,,,,,D,35
+1025,Zach Trotman,29,"Carmel, IN",USA,,,,,,LW,1
+1026,Jacob Trouba,26,"Rochester, MI",USA,,,,,,D,50
+1027,Alex Tuch,23,"Syracuse, NY",USA,,,,,,RW,52
+1028,Dominic Turgeon,24,"Pointe-Claire, QC",Canada,,,,,,RW,0
+1029,Kyle Turris,30,"New Westminster, BC",Canada,,,,,,D,23
+1030,Linus Ullmark,26,Lugnvik,Sweden,,,,,,C,1
+1031,Urho Vaakanainen,21,Joensuu,Finland,,,,,,D,0
+1032,Juuso Valimaki,21,Tampere,Finland,,,,,,LW,3
+1033,Thomas Vanek,36,Vienna,Austria,,,,,,LW,36
+1034,James van Riemsdyk,30,"Middletown, NJ",USA,,,,,,RW,52
+1035,Trevor van Riemsdyk,28,"Middletown, NJ",USA,,,,,,D,14
+1036,Semyon Varlamov,31,Samara,Russia,,,,,,C,0
+1037,Philip Varone,29,"Vaughan, ON",Canada,,,,,,LW,7
+1038,Andrei Vasilevskiy,25,Tyumen,Russia,,,,,,C,3
+1039,Sami Vatanen,28,Jyväskylä,Finland,,,,,,C,17
+1040,Frank Vatrano,26,"East Longmeadow, MA",USA,,,,,,C,39
+1041,Max Veronneau,24,"Ottawa, ON",Canada,,,,,,C,5
+1042,Kristian Vesalainen,20,Helsinki,Finland,,,,,,LW,1
+1043,Jimmy Vesey,26,"Boston, MA",USA,,,,,,C,35
+1044,Jake Virtanen,23,"Langley, BC",Canada,,,,,,RW,25
+1045,Marc-Edouard Vlasic,33,"Montreal, QC",Canada,,,,,,C,26
+1046,Jakub Voracek,30,Kladno,Czech Republic,,,,,,C,67
+1047,Mikhail Vorobyev,23,Ufa,Russia,,,,,,LW,2
+1048,Jakub Vrana,24,Prague,Czech Republic,,,,,,C,47
+1049,Austin Wagner,22,"Calgary, AB",Canada,,,,,,D,22
+1050,Chris Wagner,28,"Walpole, MA",USA,,,,,,D,19
+1051,Nathan Walker,26,Cardiff,England,,,,,,D,1
+1052,Sean Walker,25,"Keswick, ON",Canada,,,,,,RW,10
+1053,Lucas Wallmark,24,Umea,Sweden,,,,,,LW,28
+1054,Cam Ward,36,"Saskatoon, SK",Canada,,,,,,LW,1
+1055,Austin Watson,28,"Ann Arbor, MI",USA,,,,,,D,16
+1056,Jordan Weal,27,"North Vancouver, BC",Canada,,,,,,D,9
+1057,Jordan Weal,27,"North Vancouver, BC",Canada,,,,,,LW,2
+1058,Jordan Weal,27,"North Vancouver, BC",Canada,,,,,,RW,10
+1059,Shea Weber,34,"Sicamous, BC",Canada,,,,,,RW,33
+1060,Yannick Weber,31,Morges,Switzerland,,,,,,LW,8
+1061,MacKenzie Weegar,26,"Ottawa, ON",Canada,,,,,,D,15
+1062,Dale Weise,31,"Winnipeg, MB",Canada,,,,,,D,12
+1063,Dale Weise,31,"Winnipeg, MB",Canada,,,,,,RW,0
+1064,Andy Welinski,26,"Duluth, MN",USA,,,,,,D,4
+1065,Alexander Wennberg,25,Stockholm,Sweden,,,,,,C,25
+1066,Zach Werenski,22,"Grosse Pointe, MI",USA,,,,,,C,44
+1067,Blake Wheeler,33,"Plymouth, MN",USA,,,,,,D,94
+1068,Colin White,23,"Boston, MA",USA,,,,,,D,41
+1069,Colton White,22,"London, ON",Canada,,,,,,RW,0
+1070,Chris Wideman,30,"St. Louis, MO",USA,,,,,,D,5
+1071,Chris Wideman,30,"St. Louis, MO",USA,,,,,,C,2
+1072,Chris Wideman,30,"St. Louis, MO",USA,,,,,,RW,0
+1073,Justin Williams,38,"Cobourg, ON",Canada,,,,,,D,54
+1074,Colin Wilson,30,"Greenwich, CT",USA,,,,,,D,27
+1075,Garrett Wilson,29,"Barrie, ON",Canada,,,,,,C,8
+1076,Scott Wilson,27,"Oakville, ON",Canada,,,,,,D,3
+1077,Tom Wilson,26,"Toronto, ON",Canada,,,,,,C,40
+1078,Luke Witkowski,30,"Holland, MI",USA,,,,,,D,2
+1079,Christian Wolanin,25,"Quebec City, QC",Canada,,,,,,D,12
+1080,Miles Wood,24,"Buffalo, NY",USA,,,,,,D,24
+1081,Egor Yakovlev,28,Magnitogorsk,Russia,,,,,,RW,8
+1082,Kailer Yamamoto,21,"Spokane, WA",USA,,,,,,D,2
+1083,Keith Yandle,33,"Boston, MA",USA,,,,,,C,63
+1084,Pavel Zacha,23,Brno,Czech Republic,,,,,,C,28
+1085,Filip Zadina,20,Pardubice,Czech Republic,,,,,,D,3
+1086,Nikita Zadorov,24,Moscow,Russia,,,,,,D,14
+1087,Nikita Zaitsev,28,Moscow,Russia,,,,,,RW,14
+1088,Travis Zajac,34,"Winnipeg, MB",Canada,,,,,,D,47
+1089,Jakub Zboril,23,Brno,Czech Republic,,,,,,LW,0
+1090,Mika Zibanejad,26,Huddinge,Sweden,,,,,,C,76
+1091,Mats Zuccarello,32,Oslo,Norway,,,,,,D,37
+1092,Mats Zuccarello,32,Oslo,Norway,,,,,,LW,3
+1093,Jason Zucker,28,"Newport Beach, CA",USA,,,,,,C,42
+1094,Valentin Zykov,24,St. Petersburg,Russia,,,,,,LW,3
+1095,Valentin Zykov,24,St. Petersburg,Russia,,,,,,RW,0
+1096,Valentin Zykov,24,St. Petersburg,Russia,,,,,,D,3
+1097,Rodrigo Abols,24,Riga,Latvia,,,,,,D,0
+1098,Sebastian Aho,24,Umea,Sweden,,,,,,D,0
+1099,John Albert,31,"Cleveland, OH",USA,,,,,,LW,0
+1100,Frederic Allard,22,"St. Sauveur, QC",Canada,,,,,,C,0
+1101,Sam Anas,26,"Potomac, MD",USA,,,,,,D,0
+1102,Mikey Anderson,20,"Fridley, MN",USA,,,,,,C,0
+1103,Andy Andreoff,28,"Pickering, ON",Canada,,,,,,D,0
+1104,Anthony Angello,24,"Albany, NY",USA,,,,,,C,0
+1105,Victor Antipin,27,Ust-Kamenogorsk,Kazakhstan,,,,,,D,0
+1106,Jonathan Aspirot,20,"Mascouche, QC",Canada,,,,,,D,0
+1107,Rasmus Asplund,22,Filipstad,Finland,,,,,,LW,0
+1108,Riley Barber,26,"Pittsburgh, PA",USA,,,,,,C,0
+1109,Cole Bardreau,26,"Fairport, NY",USA,,,,,,C,0
+1110,Cody Bass,33,"Owen sound, ON",Canada,,,,,,LW,0
+1111,Kyle Bauman,27,"Apopka, FL",USA,,,,,,D,0
+1112,Ethan Bear,22,"Regina, SK",Canada,,,,,,C,0
+1113,Nicolas Beaudin,20,"Chateauguay, QC",Canada,,,,,,RW,0
+1114,Jack Becker,22,"Duluth, MN",USA,,,,,,D,0
+1115,Kieffer Bellows,21,"Edina, MN",USA,,,,,,C,0
+1116,Emil Bemstrom,20,Nykoping,Sweden,,,,,,LW,0
+1117,Andre Benoit,36,"St. Albert, ON",Canada,,,,,,C,0
+1118,Simon Benoit,21,"Laval, QC",USA,,,,,,C,0
+1119,Tyler Benson,22,"Edmonton, AB",Canada,,,,,,LW,0
+1120,Mikhail Berdin,22,Ufa,Russia,,,,,,C,0
+1121,Lean Bergmann,21,Hemer,Germany,,,,,,D,0
+1122,Jacob Bernard-Docker,19,"Banff, AB",Canada,,,,,,D,0
+1123,Steve Bernier,35,"Quebec, QC",Canada,,,,,,C,0
+1124,Jean-Francois Berube,28,"Repentigny, QC",Canada,,,,,,C,0
+1125,Chris Bigras,25,"Orillia, ON",Canada,,,,,,RW,0
+1126,Jake Bischoff,25,"Cambridge, MN",USA,,,,,,C,0
+1127,Paul Bittner,23,"Crookston, MN",USA,,,,,,C,0
+1128,Tobias Bjornfot,19,Upplands Vasby,Sweden,,,,,,D,0
+1129,Joachim Blichfeld,21,Frederikshavn,Denmark,,,,,,LW,0
+1130,Michael Blunden,33,"Toronto, ON",Canada,,,,,,RW,0
+1131,Adam Boqvist,19,Falun,Sweden,,,,,,C,0
+1132,Jesper Boqvist,21,Falun,Sweden,,,,,,C,0
+1133,Andreas Borgman,24,Stockholm,Sweden,,,,,,LW,0
+1134,Lance Bouma,30,"Provost, AB",Canada,,,,,,D,0
+1135,Rene Bourque,38,"Lac La Biche, AB",Canada,,,,,,LW,0
+1136,Jeremy Bracco,23,"Freeport, NY",USA,,,,,,RW,0
+1137,Chris Breen,30,"Uxbridge, ON",Canada,,,,,,C,0
+1138,Alex Broadhurst,27,"New Lenox, IL",USA,,,,,,LW,0
+1139,Terry Broadhurst,31,"Orland Park, IL",USA,,,,,,C,0
+1140,Adam Brooks,23,"Winnipeg, MB",Canada,,,,,,D,0
+1141,Patrick Brown,27,"Bloomfield Hills, MI",USA,,,,,,D,0
+1142,Sergei Brylin,46,Moscow,Russia,,,,,,D,0
+1143,Connor Bunnaman,21,"Guelph, ON",Canada,,,,,,D,0
+1144,Brayden Burke,23,,,,,,,,C,0
+1145,Alexander Burmistrov,28,Kazan,Russia,,,,,,D,0
+1146,Nicholas Caamano,21,"Ancaster, ON",Canada,,,,,,D,0
+1147,Mike Cammalleri,37,"Toronto, ON",Canada,,,,,,C,0
+1148,Patrick Cannone,33,"Bayport, NY",USA,,,,,,D,0
+1149,Michael Carcone,23,"Ajax, ON",Canada,,,,,,C,0
+1150,Greg Carey,30,"Hamilton, ON",Canada,,,,,,C,0
+1151,Matt Carkner,39,"Winchester, ON",Canada,,,,,,LW,0
+1152,Lucas Carlsson,22,Gävle,Sweden,,,,,,D,0
+1153,Alexandre Carrier,23,"Quebec, QC",Canada,,,,,,LW,0
+1154,Austin Carroll,26,"Phoenix, AZ",USA,,,,,,RW,0
+1155,Ivan Chekhovich,21,Yekaterinburg,Russia,,,,,,D,0
+1156,Andrei Chibisov,27,,,,,,,,D,0
+1157,Ivan Chukarov,25,"Des Plaines, IL",USA,,,,,,C,0
+1158,Kale Clague,21,"Lloydminster, AB",Canada,,,,,,C,0
+1159,Christopher Clapperton,26,"Chandler, QC",Canada,,,,,,C,0
+1160,Chris Clark,44,"South Windsor, CT",USA,,,,,,LW,0
+1161,Kody Clark,20,"Chicago, IL",USA,,,,,,LW,0
+1162,Ryane Clowe,37,"St. John's, NL",Canada,,,,,,D,0
+1163,Dylan Coghlan,22,"Nanaimo, BC",Canada,,,,,,RW,0
+1164,Ryan Collins,23,"Bloomington, MN",USA,,,,,,RW,0
+1165,Chris Conner,36,"Westland, MI",USA,,,,,,D,0
+1166,Jared Coreau,28,"Perth, ON",Canada,,,,,,LW,0
+1167,Frank Corrado,27,"Woodbridge, ON",Canada,,,,,,LW,0
+1168,David Cotton,22,"Parker, TX",USA,,,,,,RW,0
+1169,Kyle Criscuolo,27,"Southampton, NJ",USA,,,,,,D,0
+1170,Tommy Cross,30,"Simsbury, CT",USA,,,,,,C,0
+1171,Kyle Cumiskey,33,"Abbotsford, BC",Canada,,,,,,C,0
+1172,Craig Cunningham,29,"Trail, BC",Canada,,,,,,C,0
+1173,Kevin Czuczman,29,"Port Elgin, ON",Canada,,,,,,C,0
+1174,Kirby Dach,19,"Fort Saskatchewan, AB",Canada,,,,,,C,0
+1175,Oscar Dansk,26,Stockholm,Sweden,,,,,,RW,0
+1176,Jonathan Davidsson,22,Tyreso,Sweden,,,,,,D,0
+1177,Rob Davison,39,"St. Catharines, ON",Canada,,,,,,LW,0
+1178,Logan Day,25,"Seminole, FL",USA,,,,,,D,0
+1179,David Desharnais,33,"Laurier-Station, QC",Canada,,,,,,LW,0
+1180,Nick DeSimone,25,"East Amherst, NY",USA,,,,,,LW,0
+1181,Philippe Desrosiers,24,"Saint-Hyacinthe, QC",Canada,,,,,,D,0
+1182,Josh Dickinson,22,"Georgetown, ON",Canada,,,,,,D,0
+1183,Josiah Didier,27,"Littleton, CO",USA,,,,,,LW,0
+1184,Emil Djuse,26,Skelleftea,Sweden,,,,,,C,0
+1185,Noah Dobson,20,"Summerside, PE",Canada,,,,,,LW,0
+1186,Jacob Doty,26,"Billings, MT",USA,,,,,,RW,0
+1187,Jack Dougherty,23,"St. Paul, MN",USA,,,,,,D,0
+1188,Chris Driedger,25,"Winnipeg, MB",Canada,,,,,,RW,0
+1189,Chris Drury,43,"Trumbull, CT",USA,,,,,,LW,0
+1190,Gabriel Dumont,29,"Degelis, QC",Canada,,,,,,C,0
+1191,Sean Durzi,21,"Mississauga, ON",Canada,,,,,,LW,0
+1192,Joseph Duszak,22,"Franklin Square, NY",USA,,,,,,LW,0
+1193,Patrick Dwyer,36,"Spokane, WA",USA,,,,,,C,0
+1194,Nick Ebert,25,"Livingston, NJ",USA,,,,,,D,0
+1195,Turner Elson,27,"Edmonton, AB",Canada,,,,,,C,0
+1196,Hudson Elynuik,22,"Calgary, AB",Canada,,,,,,C,0
+1197,Alexei Emelin,33,Togliatti,Russia,,,,,,C,0
+1198,Pierre Engvall,23,Ljungby,Sweden,,,,,,C,0
+1199,Jake Evans,23,"Toronto, ON",Canada,,,,,,D,0
+1200,Joel Farabee,20,"Syracuse, NY",USA,,,,,,LW,0
+1201,Hudson Fasching,24,"Milwaukee, WI",USA,,,,,,D,0
+1202,Mark Fayne,32,"Nashua, NH",USA,,,,,,D,0
+1203,Martin Fehervary,20,Bratislava,Slovakia,,,,,,C,0
+1204,Dylan Ferguson,21,"Lantzville, BC",Canada,,,,,,LW,0
+1205,Mario Ferraro,21,"Toronto, ON",Canada,,,,,,LW,0
+1206,Giovanni Fiore,23,"Laval, QC",Canada,,,,,,D,0
+1207,Mike Fisher,39,"Peterborough, ON",Canada,,,,,,RW,0
+1208,Cavan Fitzgerald,23,"Boston, MA",USA,,,,,,D,0
+1209,Ryan Fitzgerald,25,"Fort Lauderdale, FL",USA,,,,,,D,0
+1210,Cale Fleury,21,"Calgary, AB",Canada,,,,,,D,0
+1211,Brian Flynn,31,"Lynnfield, MA",USA,,,,,,D,0
+1212,Cal Foote,21,"Englewood, CO",USA,,,,,,C,0
+1213,Anton Forsberg,27,Härnösand,Sweden,,,,,,D,0
+1214,Adam Fox,22,"Jericho, NY",USA,,,,,,LW,0
+1215,Mitch Fritz,39,"Osoyoos, BC",Canada,,,,,,C,0
+1216,Byron Froese,29,"Winkler, MB",Canada,,,,,,LW,0
+1217,Morgan Frost,20,"Aurora, ON",Canada,,,,,,C,0
+1218,Jesse Gabrielle,22,"Edmonton, AB",Canada,,,,,,LW,0
+1219,Parker Gahagen,26,"Buffalo, NY",USA,,,,,,LW,0
+1220,Tyler Ganly,25,"Mississauga, ON",Canada,,,,,,C,0
+1221,Rhett Gardner,24,"Moose Jaw, SK",Canada,,,,,,C,0
+1222,Julien Gauthier,22,"Pointe-aux-Trembles, QC",Canada,,,,,,D,0
+1223,Vladislav Gavrikov,24,Yaroslavl,Russia,,,,,,LW,0
+1224,Glenn Gawdin,23,"Richmond, BC",Canada,,,,,,C,0
+1225,Luke Gazdic,30,"Toronto, ON",USA,,,,,,LW,0
+1226,Morgan Geekie,21,"Strathclair, MB",Canada,,,,,,D,0
+1227,Nathan Gerbe,32,"Oxford, MI",USA,,,,,,LW,0
+1228,Shane Gersich,23,"Chaska, MN",USA,,,,,,LW,0
+1229,Jon Gillies,26,"Concord, NH",USA,,,,,,C,0
+1230,Cody Glass,21,"Winnipeg, MB",Canada,,,,,,RW,0
+1231,Josh Gorges,35,"Kelowna, BC",Canada,,,,,,D,0
+1232,Petter Granberg,27,Gallivare,Sweden,,,,,,RW,0
+1233,Tyler Graovac,26,"Brampton, ON",Canada,,,,,,LW,0
+1234,Noah Gregor,21,"Beaumont, AB",Canada,,,,,,RW,0
+1235,Alexandre Grenier,28,"Laval, QC",Canada,,,,,,D,0
+1236,Seth Griffith,27,"Wallaceburg, ON",Canada,,,,,,C,0
+1237,Mikhail Grigorenko,25,Khabarovsk,Russia,,,,,,LW,0
+1238,Troy Grosenick,30,"Brookfield, WI",USA,,,,,,D,0
+1239,Jordan Gross,24,"Maple Grove, MN",USA,,,,,,C,0
+1240,Kristers Gudlevskis,27,Aizkraukle,Latvia,,,,,,C,0
+1241,Nikita Gusev,27,Moscow,Russia,,,,,,C,0
+1242,David Gust,26,"Orland Park, IL",USA,,,,,,C,0
+1243,David Gustafsson,20,Tingsryd,Sweden,,,,,,C,0
+1244,Filip Gustavsson,21,"Skelleftea, Sweden",Sweden,,,,,,D,0
+1245,Jonas Gustavsson,35,Danderyd,Sweden,,,,,,D,0
+1246,Gaetan Haas,28,Bonfol,Switzerland,,,,,,D,0
+1247,Brandon Hagel,21,"Saskatoon, SK",Canada,,,,,,C,0
+1248,Jani Hakanpaa,28,Kirkkonummi,Finland,,,,,,D,0
+1249,Jayden Halbgewachs,23,"Emerald Park, SK",Canada,,,,,,RW,0
+1250,Wacey Hamilton,29,"Cochrane, AB",Canada,,,,,,D,0
+1251,Andrew Hammond,32,"Surrey, BC",Canada,,,,,,C,0
+1252,Jansen Harkins,22,"Cleveland, OH",USA,,,,,,LW,0
+1253,Scott Hartnell,37,"Regina, SK",Canada,,,,,,C,0
+1254,Barrett Hayton,19,"Peterborough, ON",Canada,,,,,,LW,0
+1255,Josh Healey,25,"Edmonton, AB",Canada,,,,,,D,0
+1256,Ville Heinola,19,Honkajoki,Finland,,,,,,C,0
+1257,Seth Helgeson,29,"Faribault, MN",USA,,,,,,D,0
+1258,Magnus Hellberg,29,Uppsala,Sweden,,,,,,D,0
+1259,Brandon Hickey,24,"Leduc, AB",Canada,,,,,,C,0
+1260,Matthew Highmore,24,"Halifax, NS",Canada,,,,,,C,0
+1261,Blake Hillman,24,"Elk River, MN",USA,,,,,,LW,0
+1262,Connor Hobbs,23,"Regina, SK",Canada,,,,,,C,0
+1263,Patrick Holland,28,"Lethbridge, AB",Canada,,,,,,D,0
+1264,Mac Hollowell,21,"Niagara Falls, ON",Canada,,,,,,D,0
+1265,Cameron Hughes,23,"Edmonton, AB",Canada,,,,,,RW,0
+1266,Jack Hughes,18,"Orlando, FL",USA,,,,,,D,0
+1267,Bokondji Imama,23,"Montreal, QC",Canada,,,,,,C,0
+1268,Connor Ingram,23,"Imperial, SK",Canada,,,,,,C,0
+1269,Doug Janik,40,"Agawam, MA",USA,,,,,,D,0
+1270,Tanner Jeannot,22,"Oxbow, SK",Canada,,,,,,D,0
+1271,Nicklas Jensen,27,Herning,Denmark,,,,,,C,0
+1272,Lucas Johansen,22,"Vancouver, BC",Canada,,,,,,D,0
+1273,Jonas Johansson,24,,,,,,,,LW,0
+1274,Stephen Johns,27,"Ellwood City, PA",USA,,,,,,C,0
+1275,Ryan Johnson,43,"Thunder Bay, ON",Canada,,,,,,RW,0
+1276,Ben Jones,21,"Waterloo, ON",Canada,,,,,,C,0
+1277,Connor Jones,29,"Montrose, BC",Canada,,,,,,C,0
+1278,Max Jones,22,"Rochester, MI",USA,,,,,,C,0
+1279,Axel Jonsson-Fjallby,22,Stockholm,Sweden,,,,,,RW,0
+1280,Pierre-Olivier Joseph,20,"Laval, QC",USA,,,,,,LW,0
+1281,Tomas Jurco,27,Kosice,Slovakia,,,,,,D,0
+1282,Kaapo Kahkonen,23,Helsinki,Finland,,,,,,LW,0
+1283,Kaapo Kakko,19,Turku,Finland,,,,,,C,0
+1284,Erik Kallgren,23,Stockholm,Sweden,,,,,,C,0
+1285,Keegan Kanzig,25,"Athabasca, AB",USA,,,,,,LW,0
+1286,Erik Karlsson,25,Lerum,Sweden,,,,,,C,0
+1287,Pavel Karnaukhov,23,Minsk,Belarus,,,,,,D,0
+1288,Jason Kasdorf,27,"Winnipeg, MB",Canada,,,,,,LW,0
+1289,David Kase,23,Kadan,Czech Republic,,,,,,D,0
+1290,Kasimir Kaskisuo,26,Vantaa,Finland,,,,,,RW,0
+1291,Joey Keane,20,"Chicago, IL",USA,,,,,,LW,0
+1292,Bracken Kearns,38,"North Vancouver, BC",Canada,,,,,,D,0
+1293,Joel Kellman,25,Karlskrona,Sweden,,,,,,C,0
+1294,Parker Kelly,20,"Camrose, AB",Canada,,,,,,RW,0
+1295,Tanner Kero,27,"Hancock, MI",USA,,,,,,D,0
+1296,Alex Khokhlachev,26,Moscow,Russia,,,,,,RW,0
+1297,Jake Kielly,23,"Eden Prairie, MN",USA,,,,,,D,0
+1298,Jason King,38,"Corner Brook, NL",Canada,,,,,,D,0
+1299,Teemu Kivihalme,24,"Cloquet, MN",USA,,,,,,C,0
+1300,Joel Kiviranta,24,Vantaa,Finland,,,,,,D,0
+1301,Matiss Kivlenieks,23,Riga,Latvia,,,,,,D,0
+1302,Kevin Klein,35,"Kitchener, ON",Canada,,,,,,LW,0
+1303,Morgan Klimchuk,25,"Regina, SK",Canada,,,,,,RW,0
+1304,Carl Klingberg,29,Gothenburg,Sweden,,,,,,D,0
+1305,Eric Knodel,29,"West Chester, PA",USA,,,,,,D,0
+1306,Nikolai Knyzhov,22,Kemerovo,Russia,,,,,,C,0
+1307,Otto Koivula,21,Nokia,Finland,,,,,,D,0
+1308,Joona Koppanen,22,Tampere,Finland,,,,,,D,0
+1309,Josef Korenar,22,Pelhrimov,Czech Republic,,,,,,C,0
+1310,Egor Korshkov,23,Novosibirsk,Russia,,,,,,RW,0
+1311,Klim Kostin,20,Penza,Russia,,,,,,D,0
+1312,Johnathan Kovacevic,22,"Grimsby, ON",Canada,,,,,,D,0
+1313,Vitali Kravtsov,20,Vladivostok,Russia,,,,,,LW,0
+1314,Dominik Kubalik,24,Plzen,Czech Republic,,,,,,C,0
+1315,Rasmus Kupari,20,Kotka,Finland,,,,,,LW,0
+1316,Pierre-Cedric Labrie,33,"Baie-Comeau, QC",Canada,,,,,,C,0
+1317,Cedric Lacroix,25,"Shefford, QC",Canada,,,,,,RW,0
+1318,Sam Lafferty,25,"Hollidaysburg, PA",USA,,,,,,LW,0
+1319,William Lagesson,24,Gothenberg,Sweden,,,,,,D,0
+1320,Brooks Laich,36,"Wawota, SK",Canada,,,,,,C,0
+1321,Tristin Langan,21,"Swan River, MB",Canada,,,,,,C,0
+1322,Marek Langhamer,25,Moravska Trebova,Czech Republic,,,,,,C,0
+1323,Kevin Lankinen,24,Helsinki,Finland,,,,,,D,0
+1324,Michael Latta,28,"Kitchener, ON",Canada,,,,,,C,0
+1325,Jakub Lauko,20,Praha,Czech Republic,,,,,,C,0
+1326,Jay Leach,40,"Syracuse, NY",USA,,,,,,D,0
+1327,Taylor Leier,26,"Saskatoon, SK",Canada,,,,,,RW,0
+1328,Brett Lernout,24,"Winnipeg, MB",Canada,,,,,,LW,0
+1329,Otto Leskinen,23,Pieksamaki,Finland,,,,,,RW,0
+1330,Maxim Letunov,24,Moscow,Russia,,,,,,C,0
+1331,Mike Liambas,31,"Toronto, ON",Canada,,,,,,LW,0
+1332,Jakob Lilja,26,Malmo,Sweden,,,,,,D,0
+1333,Timothy Liljegren,20,Kristianstad,Sweden,,,,,,C,0
+1334,Tobias Lindberg,24,Stockholm,Sweden,,,,,,D,0
+1335,Petteri Lindbohm,26,Helsinki,Finland,,,,,,D,0
+1336,Jesper Lindgren,22,Umea,Sweden,,,,,,C,0
+1337,Gustav Lindstrom,21,,,,,,,,D,0
+1338,Viktor Loov,27,Sodertalje,Sweden,,,,,,C,0
+1339,Steven Lorentz,24,"Waterloo, ON",Canada,,,,,,C,0
+1340,Keegan Lowe,27,"Edmonton, AB",USA,,,,,,LW,0
+1341,Jake Lucchini,24,"Trail, BC",Canada,,,,,,C,0
+1342,Aaron Luchuk,23,"Kingston, ON",Canada,,,,,,RW,0
+1343,Mario Lucia,26,"Fairbanks, AK",USA,,,,,,D,0
+1344,Eetu Luostarinen,21,Siilinjarvi,Finland,,,,,,D,0
+1345,Joona Luoto,22,Tampere,Finland,,,,,,RW,0
+1346,Roman Lyubimov,28,Tver,Russia,,,,,,C,0
+1347,Ryan MacInnis,24,"St. Louis, MO",USA,,,,,,LW,0
+1348,Gregor MacLeod,21,"Dartmouth, NS",Canada,,,,,,C,0
+1349,Cale Makar,21,"Calgary, AB",Canada,,,,,,C,0
+1350,Beck Malenstyn,22,"Delta, BC",Canada,,,,,,LW,0
+1351,Sean Malone,24,"West Seneca, NY",USA,,,,,,D,0
+1352,Mason Marchment,24,"Uxbridge, ON",Canada,,,,,,RW,0
+1353,John Marino,22,"North Easton, MA",USA,,,,,,LW,0
+1354,Andrey Markov,26,Kazan,Russia,,,,,,D,0
+1355,Spencer Martin,24,"Oakville, ON",Canada,,,,,,RW,0
+1356,Adam Mascherin,21,"Maple, ON",Canada,,,,,,LW,0
+1357,Stefan Matteau,26,"Chicago, IL",USA,,,,,,D,0
+1358,Gerald Mayhew,27,"Wyandotte, MI",USA,,,,,,LW,0
+1359,Gerry Mayhew,27,"Wyandotte, MI",USA,,,,,,LW,0
+1360,Josh McArdle,25,"Roscoe, IL",USA,,,,,,LW,0
+1361,Michael McCarron,25,"Grosse Pointe, MI",USA,,,,,,D,0
+1362,John McCarthy,33,"Boston, MA",USA,,,,,,D,0
+1363,Colin McDonald,35,"Wethersfield, CT",USA,,,,,,RW,0
+1364,Evan McEneny,25,"Hamilton, ON",Canada,,,,,,C,0
+1365,Tim McGauley,24,"Wilcox, SK",Canada,,,,,,LW,0
+1366,Curtis McKenzie,29,"Golden, BC",Canada,,,,,,C,0
+1367,Roland McKeown,24,"Listowel, ON",Canada,,,,,,C,0
+1368,Mitch McLain,26,"Baxter, MN",USA,,,,,,C,0
+1369,Dylan McLaughlin,24,"Lancaster, NY",USA,,,,,,D,0
+1370,Ryan McLeod,20,"Mississauga, ON",Canada,,,,,,LW,0
+1371,Mark McNeill,27,"Langley, BC",Canada,,,,,,C,0
+1372,Michael McNiven,22,"Georgetown, ON",Canada,,,,,,C,0
+1373,Jayson Megna,30,"Fort Lauderdale, FL",USA,,,,,,D,0
+1374,Julian Melchiori,28,"Richmond Hill, ON",Canada,,,,,,C,0
+1375,Nicolas Meloche,22,"LaSalle, QC",Canada,,,,,,C,0
+1376,Brennan Menell,22,"Woodbury, MN",USA,,,,,,C,0
+1377,Michael Mersch,27,"Park Ridge, IL",USA,,,,,,C,0
+1378,Elvis Merzlikins,26,Riga,Latvia,,,,,,LW,0
+1379,Garrett Metcalf,24,"Salt Lake City, UT",USA,,,,,,RW,0
+1380,Keaton Middleton,22,"Stratford, ON",Canada,,,,,,C,0
+1381,Ilya Mikheyev,25,Omsk,Russia,,,,,,LW,0
+1382,Niko Mikkola,23,Kiiminki,Finland,,,,,,D,0
+1383,Andrew Miller,31,"Bloomfield Hills, MI",USA,,,,,,C,0
+1384,Drew Miller,36,"Dover, NJ",USA,,,,,,RW,0
+1385,Griffen Molino,26,"Trenton, MI",USA,,,,,,D,0
+1386,Matt Moulson,36,"North York, ON",Canada,,,,,,D,0
+1387,Vojtech Mozik,27,Prague,Czech Republic,,,,,,LW,0
+1388,Chris Mueller,34,"West Seneca, NY",USA,,,,,,C,0
+1389,Trevor Murphy,24,"Windsor, ON",Canada,,,,,,D,0
+1390,Aaron Ness,29,"Roseau, MN",USA,,,,,,RW,0
+1391,Scott Nichol,45,"Edmonton, AB",Canada,,,,,,RW,0
+1392,Cristopher Nihlstorp,36,Malmö,Sweden,,,,,,C,0
+1393,Josh Norris,20,"Oxford, MI",USA,,,,,,D,0
+1394,Joakim Nygard,27,Stockholm,Sweden,,,,,,D,0
+1395,Liam O'Brien,25,"Halifax, NS",Canada,,,,,,D,0
+1396,Matt O'Connor,28,"Sault Ste. Marie, ON",Canada,,,,,,C,0
+1397,Jake Oettinger,21,"Lakeville, MN",USA,,,,,,D,0
+1398,Rob O'Gara,26,"Massapequa, NY",USA,,,,,,C,0
+1399,Steve Oleksy,34,"Chesterfield, MI",USA,,,,,,RW,0
+1400,Mathieu Olivier,23,"Levis, QC",USA,,,,,,D,0
+1401,Gustav Olofsson,25,Boras,Sweden,,,,,,RW,0
+1402,Ryan Olsen,26,"Delta, BC",Canada,,,,,,LW,0
+1403,Cal O'Reilly,33,"Toronto, ON",Canada,,,,,,D,0
+1404,Nathan Paetsch,37,"Leroy, SK",Canada,,,,,,LW,0
