@@ -1,0 +1,791 @@
+,Unnamed: 0,Name,Age,Birth City,Birth Country,Birth Lat,Birth Lng,College,College Lat,College Lng,Ability Score
+0,0,Alex Abrines,26,Palma de Mallorca,Spain,39.5696005,2.6501603,,,,8.1
+1,1,Quincy Acy,29,"Tyler, TX",USA,32.3512601,-95.30106239999999,Baylor University,,,5.5
+2,2,Jaylen Adams,23,"Elkridge, MD",USA,39.1978788,-76.7625073,,,,7.4
+3,3,Steven Adams,26,Rotorua,New Zealand,-38.1368478,176.2497461,University of Pittsburgh,,,27.4
+4,4,Bam Adebayo,22,"Newark, NJ",USA,40.735657,-74.1723667,University of Kentucky,,,20.1
+5,5,Deng Adel,23,Juba,South Sudan,4.859363,31.57125,,,,3.3000000000000003
+6,6,DeVaughn Akoon-Purcell,26,"Orlando, FL",Trinidad and Tobago,28.5383355,-81.3792365,,,,2.8
+7,7,LaMarcus Aldridge,34,"Dallas, TX",USA,32.7766642,-96.79698789999999,University of Texas at Austin,,,34.7
+8,8,Rawle Alkins,22,"Brooklyn, NY",USA,40.6781784,-73.9441579,,,,7.7
+9,9,Grayson Allen,24,"Jacksonville, FL",USA,30.3321838,-81.65565099999999,,,,7.199999999999998
+10,10,Jarrett Allen,21,"Austin, TX",USA,30.267153,-97.7430608,University of Texas at Austin,,,22.7
+11,11,Kadeem Allen,27,"Wilmington, NC",USA,34.2103894,-77.8868117,University of Arizona,,,17.6
+12,12,Al-Farouq Aminu,29,"Atlanta, GA",USA,33.7489954,-84.3879824,Wake Forest University,,,19.4
+13,13,Justin Anderson,26,"Montross, VA",USA,38.0951317,-76.8274644,University of Virginia,,,6.8
+14,14,Kyle Anderson,26,"New York, NY",USA,40.7127753,-74.0059728,"University of California, Los Angeles",,,19.1
+15,15,Ryan Anderson,31,"Sacramento, CA",USA,38.5815719,-121.4943996,University of California,,,8.1
+16,16,Ryan Anderson,31,"Sacramento, CA",USA,38.5815719,-121.4943996,University of California,,,1.9
+17,17,Ike Anigbogu,21,"San Diego, CA",USA,32.715738,-117.1610838,"University of California, Los Angeles",,,1.6
+18,18,Giannis Antetokounmpo,25,Athens,Greece,37.9838096,23.7275388,,,,48.9
+19,19,Kostas Antetokounmpo,22,Athens,Greece,37.9838096,23.7275388,,,,2.5
+20,20,Carmelo Anthony,35,"New York, NY",USA,40.7127753,-74.0059728,Syracuse University,,,20.4
+21,21,OG Anunoby,22,London,United Kingdom,51.5073509,-0.1277583,Indiana University,,,11.6
+22,22,Ryan Arcidiacono,26,"Langhorne, PA",USA,40.1745538,-74.92266649999999,Villanova University,,,13.5
+23,23,Trevor Ariza,34,"Miami, FL",USA,25.7616798,-80.1917902,"University of California, Los Angeles",,,20.6
+24,24,Trevor Ariza,34,"Miami, FL",USA,25.7616798,-80.1917902,"University of California, Los Angeles",,,24.6
+25,25,D.J. Augustin,32,"New Orleans, LA",USA,29.95106579999999,-90.0715323,University of Texas at Austin,,,20.1
+26,26,Deandre Ayton,21,Nassau,Bahamas,25.0443312,-77.3503609,,,,30.2
+27,27,Dwayne Bacon,24,"Lakeland, FL",USA,28.0394654,-81.9498042,Florida State University,,,10.9
+28,28,Marvin Bagley III,21,"Tempe, AZ",USA,33.4255104,-111.9400054,,,,25.0
+29,29,Ron Baker,27,"Hays, KS",USA,38.8791783,-99.3267702,Wichita State University,,,3.6
+30,30,Ron Baker,27,"Hays, KS",USA,38.8791783,-99.3267702,Wichita State University,,,1.9
+31,31,Wade Baldwin IV,24,"Belle Mead, NJ",USA,40.4675835,-74.6628114,Vanderbilt University,,,3.8
+32,32,Lonzo Ball,22,"Anaheim, CA",USA,33.8365932,-117.9143012,"University of California, Los Angeles",,,22.5
+33,33,Mo Bamba,21,"Harlem, NY",USA,40.8115504,-73.9464769,,,,13.600000000000005
+34,34,J.J. Barea,35,Mayaguez,Puerto Rico,18.2013452,-67.1451549,Northeastern University,,,19.6
+35,35,Harrison Barnes,27,"Ames, IA",USA,42.0307812,-93.63191309999999,University of North Carolina,,,24.1
+36,36,Harrison Barnes,27,"Ames, IA",USA,42.0307812,-93.63191309999999,University of North Carolina,,,22.3
+37,37,Will Barton,29,"Baltimore, MD",USA,39.2903848,-76.6121893,University of Memphis,,,19.9
+38,38,Keita Bates-Diop,24,"Sacramento, CA",USA,38.5815719,-121.4943996,,,,9.5
+39,39,Nicolas Batum,31,Lisieux,France,49.145922,0.227849,,,,19.3
+40,40,Jerryd Bayless,31,"Phoenix, AZ",USA,33.4483771,-112.0740373,University of Arizona,,,12.1
+41,41,Aron Baynes,33,Gisborne,Australia,-37.48999999999999,144.588889,Washington State University,,,12.3
+42,42,Kent Bazemore,30,"Kelford, NC",USA,36.1796007,-77.2235757,Old Dominion University,,,19.700000000000006
+43,43,Bradley Beal,26,"St. Louis, MO",USA,38.6270025,-90.19940419999999,University of Florida,,,38.3
+44,44,Malik Beasley,23,"Atlanta, GA",USA,33.7489954,-84.3879824,Florida State University,,,15.8
+45,45,Michael Beasley,31,"Frederick, MD",USA,39.41426879999999,-77.4105409,Kansas State University,,,11.000000000000002
+46,46,Marco Belinelli,34,Bologna,Italy,44.494887,11.3426162,,,,15.2
+47,47,Jordan Bell,25,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Oregon,,,8.2
+48,48,DeAndre' Bembry,25,"Charlotte, NC",USA,35.2270869,-80.8431267,Saint Joseph's University,,,17.1
+49,49,Dragan Bender,22,Capljina,Croatia,43.1111637,17.6996716,,,,11.1
+51,51,Davis Bertans,27,Valmiera,Latvia,57.5384659,25.4263618,,,,13.7
+52,52,Patrick Beverley,31,"Chicago, IL",USA,41.8781136,-87.6297982,University of Arkansas,,,18.0
+53,53,Khem Birch,27,Montreal,Canada,45.5016889,-73.567256,"University of Nevada, Las Vegas",,,10.4
+54,54,Bismack Biyombo,27,Lubumbashi,Democratic Republic of the Congo,-11.6876026,27.5026174,,,,10.6
+55,55,Nemanja Bjelica,31,Belgrade,Serbia,44.786568,20.4489216,,,,18.7
+56,56,Antonio Blakeney,23,"Watertown, NY",USA,43.9747838,-75.91075649999999,Louisiana State University,,,10.299999999999997
+57,57,Eric Bledsoe,30,"Birmingham, AL",USA,33.5185892,-86.8103567,University of Kentucky,,,28.0
+58,58,Jaron Blossomgame,26,"Alpharetta, GA",USA,34.0753762,-84.2940899,,,,8.900000000000002
+59,59,Bogdan Bogdanovic,27,Belgrade,Serbia,44.786568,20.4489216,,,,22.6
+60,60,Bojan Bogdanovic,30,Mostar,Croatia,43.3372849,17.8150151,,,,25.0
+61,61,Andrew Bogut,35,Melbourne,Australia,-37.8136276,144.9630576,University of Utah,,,10.5
+62,62,Jonah Bolden,24,Melbourne,Australia,-37.8136276,144.9630576,,,,10.7
+63,63,Isaac Bonga,20,Neuwied,Germany,50.4361866,7.4664546,,,,3.3000000000000003
+64,64,Devin Booker,23,"Grand Rapids, MI",USA,42.9633599,-85.6680863,University of Kentucky,,,38.6
+65,65,Chris Boucher,27,Castries,Canada,14.0092652,-60.98982549999999,University of Oregon,,,6.5
+66,66,Avery Bradley,29,"Tacoma, WA",USA,47.2528768,-122.4442906,University of Texas at Austin,,,13.8
+67,67,Avery Bradley,29,"Tacoma, WA",USA,47.2528768,-122.4442906,University of Texas at Austin,,,24.3
+68,68,Tony Bradley,22,"Bartow, FL",USA,27.8964147,-81.8431374,University of North Carolina,,,12.4
+69,69,Corey Brewer,34,"Portland, TN",USA,36.5817089,-86.5163833,University of Florida,,,13.4
+70,70,Corey Brewer,34,"Portland, TN",USA,36.5817089,-86.5163833,University of Florida,,,8.799999999999997
+71,71,Mikal Bridges,23,"Philadelphia, PA",USA,39.9525839,-75.1652215,,,,15.6
+72,72,Miles Bridges,22,"Flint, MI",USA,43.0125274,-83.6874562,,,,14.099999999999998
+73,73,Isaiah Briscoe,24,"Newark, NJ",USA,40.735657,-74.1723667,,,,8.0
+74,74,Ryan Broekhoff,29,Melbourne,Australia,-37.8136276,144.9630576,,,,6.199999999999998
+75,75,Malcolm Brogdon,27,"Atlanta, GA",USA,33.7489954,-84.3879824,University of Virginia,,,24.2
+76,76,Dillon Brooks,24,Mississauga,Canada,43.5890452,-79.6441198,University of Oregon,,,10.9
+77,77,MarShon Brooks,31,"Long Branch, NJ",USA,40.30427780000001,-73.9923596,,,,9.5
+78,78,Bruce Brown,23,"Boston, MA",USA,42.3600825,-71.0588801,,,,9.0
+79,79,Jaylen Brown,23,"Marietta, GA",USA,33.95260200000001,-84.5499327,University of California,,,19.899999999999995
+80,80,Lorenzo Brown,29,"Roswell, GA",USA,34.0232431,-84.3615555,North Carolina State University,,,5.1000000000000005
+81,81,Sterling Brown,25,"Maywood, IL",USA,41.8791979,-87.8431155,Southern Methodist University,,,11.500000000000002
+82,82,Troy Brown Jr.,20,"Las Vegas, NV",USA,36.1699412,-115.1398296,,,,9.6
+83,83,Jalen Brunson,23,"Lincolnshire, IL",USA,42.1900249,-87.9084039,,,,15.4
+84,84,Thomas Bryant,22,"Rochester, NY",USA,43.15657789999999,-77.6088465,Indiana University,,,19.3
+85,85,Reggie Bullock,29,"Baltimore, MD",USA,39.2903848,-76.6121893,University of North Carolina,,,18.0
+86,86,Reggie Bullock,29,"Baltimore, MD",USA,39.2903848,-76.6121893,University of North Carolina,,,14.2
+87,87,Trey Burke,27,"Columbus, OH",USA,39.9611755,-82.99879419999999,University of Michigan,,,17.200000000000006
+88,88,Trey Burke,27,"Columbus, OH",USA,39.9611755,-82.99879419999999,University of Michigan,,,14.4
+89,89,Alec Burks,28,"Grandview, MO",USA,38.8858407,-94.5330096,University of Colorado,,,11.8
+90,90,Alec Burks,28,"Grandview, MO",USA,38.8858407,-94.5330096,University of Colorado,,,21.2
+91,91,Alec Burks,28,"Grandview, MO",USA,38.8858407,-94.5330096,University of Colorado,,,4.9
+92,92,Deonte Burton,28,"Milwaukee, WI",USA,43.0389025,-87.9064736,,,,4.2
+93,93,Jimmy Butler,30,"Houston, TX",USA,29.7604267,-95.3698028,Marquette University,,,34.1
+94,94,Jimmy Butler,30,"Houston, TX",USA,29.7604267,-95.3698028,Marquette University,,,29.8
+95,95,Bruno Caboclo,24,Osasco,Brazil,-23.5372048,-46.7962319,,,,15.8
+96,96,Jose Calderon,38,Villanueva de la Serena,Spain,38.97357520000001,-5.7997323,,,,6.199999999999998
+97,97,Kentavious Caldwell-Pope,27,"Thomaston, GA",USA,32.8881879,-84.3265854,University of Georgia,,,16.7
+98,98,Isaiah Canaan,28,"Biloxi, MS",USA,30.3960318,-88.88530779999999,Murray State University,,,13.999999999999998
+99,99,Isaiah Canaan,28,"Biloxi, MS",USA,30.3960318,-88.88530779999999,Murray State University,,,8.500000000000002
+100,100,Isaiah Canaan,28,"Biloxi, MS",USA,30.3960318,-88.88530779999999,Murray State University,,,3.5
+101,101,Clint Capela,25,Geneva,Switzerland,46.2043907,6.1431577,,,,32.8
+102,102,DeMarre Carroll,33,"Birmingham, AL",USA,33.5185892,-86.8103567,University of Missouri,,,18.1
+103,103,Jevon Carter,24,"Oak Park, IL",USA,41.8850317,-87.7845025,,,,8.9
+104,104,Vince Carter,43,"Daytona Beach, FL",USA,29.2108147,-81.0228331,University of North Carolina,,,11.9
+105,105,Wendell Carter Jr.,20,"Atlanta, GA",USA,33.7489954,-84.3879824,,,,21.000000000000004
+106,106,Michael Carter-Williams,28,"Hamilton, MA",USA,42.63620520000001,-70.8431049,Syracuse University,,,7.399999999999999
+107,107,Michael Carter-Williams,28,"Hamilton, MA",USA,42.63620520000001,-70.8431049,Syracuse University,,,16.0
+108,108,Alex Caruso,26,"College Station, TX",USA,30.627977,-96.3344068,Texas A&M University,,,16.4
+109,109,Omri Casspi,31,Holon,Israel,32.015833,34.787384,,,,10.999999999999998
+110,110,Willie Cauley-Stein,26,"Spearville, KS",USA,37.8500191,-99.75679319999999,University of Kentucky,,,24.5
+111,111,Troy Caupain,24,"New York, NY",USA,40.7127753,-74.0059728,,,,4.5
+112,112,Tyler Cavanaugh,26,"Syracuse, NY",USA,43.0481221,-76.14742439999999,George Washington University,,,1.6
+113,113,Tyson Chandler,37,"Hanford, CA",USA,36.3274502,-119.6456844,,,,10.6
+114,114,Tyson Chandler,37,"Hanford, CA",USA,36.3274502,-119.6456844,,,,10.2
+115,115,Wilson Chandler,32,"Benton Harbor, MI",USA,42.1167065,-86.45418939999999,DePaul University,,,14.4
+116,116,Wilson Chandler,32,"Benton Harbor, MI",USA,42.1167065,-86.45418939999999,DePaul University,,,8.499999999999998
+117,117,Joe Chealey,24,"Orlando, FL",USA,28.5383355,-81.3792365,,,,3.0
+118,118,Chris Chiozza,24,"Memphis, TN",USA,35.1495343,-90.0489801,,,,2.3000000000000003
+119,119,Marquese Chriss,22,"Sacramento, CA",USA,38.5815719,-121.4943996,University of Washington,,,4.3
+120,120,Marquese Chriss,22,"Sacramento, CA",USA,38.5815719,-121.4943996,University of Washington,,,11.4
+121,121,Gary Clark,25,"Smithfield, NC",USA,35.5084935,-78.3394455,,,,6.5
+122,122,Ian Clark,29,"Memphis, TN",USA,35.1495343,-90.0489801,Belmont University,,,10.3
+123,123,Jordan Clarkson,27,"Tampa, FL",USA,27.950575,-82.4571776,University of Missouri,,,23.4
+124,124,John Collins,22,"Layton, UT",USA,41.0602216,-111.9710529,Wake Forest University,,,32.3
+125,125,Zach Collins,22,"Las Vegas, NV",USA,36.1699412,-115.1398296,Gonzaga University,,,12.900000000000002
+126,126,Darren Collison,32,"Rancho Cucamonga, CA",USA,34.10639889999999,-117.5931084,"University of California, Los Angeles",,,21.8
+127,127,Bonzie Colson,24,"Washington, DC",USA,38.9071923,-77.0368707,,,,9.8
+128,128,Mike Conley,32,"Fayetteville, AR",USA,36.082156,-94.17185420000001,Ohio State University,,,32.49999999999999
+129,129,Pat Connaughton,27,"Arlington, MA",USA,42.4153925,-71.1564729,University of Notre Dame,,,14.000000000000002
+130,130,Quinn Cook,27,"Washington, DC",USA,38.9071923,-77.0368707,Duke University,,,10.8
+131,131,DeMarcus Cousins,29,"Mobile, AL",USA,30.6953657,-88.0398912,University of Kentucky,,,29.9
+132,132,Robert Covington,29,"Bellwood, IL",USA,41.8814197,-87.883117,Tennessee State University,,,21.200000000000006
+133,133,Robert Covington,29,"Bellwood, IL",USA,41.8814197,-87.883117,Tennessee State University,,,25.0
+134,134,Allen Crabbe,28,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of California,,,14.9
+135,135,Torrey Craig,29,"Columbia, SC",USA,34.0007104,-81.0348144,University of South Carolina Upstate,,,11.3
+136,136,Jamal Crawford,40,"Seattle, WA",USA,47.6062095,-122.3320708,University of Michigan,,,13.5
+137,137,Mitch Creek,27,Horsham,Australia,-36.7188618,142.1962316,,,,7.7
+138,138,Mitch Creek,27,Horsham,Australia,-36.7188618,142.1962316,,,,10.0
+139,139,Jae Crowder,29,"Villa Rica, GA",USA,33.732052,-84.9191081,Marquette University,,,19.6
+140,140,Dante Cunningham,32,"Clinton, MD",USA,38.7651145,-76.8983059,Villanova University,,,7.300000000000002
+141,141,Seth Curry,29,"Charlotte, NC",USA,35.2270869,-80.8431267,Duke University,,,11.1
+142,142,Stephen Curry,32,"Akron, OH",USA,41.0814447,-81.51900529999999,Davidson College,,,39.5
+143,143,Troy Daniels,28,"Roanoke, VA",USA,37.2709704,-79.9414266,Virginia Commonwealth University,,,8.7
+144,144,Anthony Davis,27,"Chicago, IL",USA,41.8781136,-87.6297982,University of Kentucky,,,45.8
+145,145,Deyonta Davis,23,"Muskegon, MI",USA,43.2341813,-86.24839209999999,Michigan State University,,,9.5
+146,146,Ed Davis,30,"Washington, DC",USA,38.9071923,-77.0368707,University of North Carolina,,,16.0
+147,147,Tyler Davis,22,"San Jose, CA",USA,37.3382082,-121.8863286,,,,1.0
+148,148,Dewayne Dedmon,30,"Lancaster, CA",USA,34.6867846,-118.1541632,University of Southern California,,,21.9
+149,149,Sam Dekker,25,"Sheboygan, WI",USA,43.7508284,-87.71453,University of Wisconsin,,,12.2
+150,150,Sam Dekker,25,"Sheboygan, WI",USA,43.7508284,-87.71453,University of Wisconsin,,,10.999999999999998
+151,151,Ángel Delgado,25,Santo Domingo,Dominican Republic,18.4860575,-69.93121169999999,,,,4.0
+152,152,Matthew Dellavedova,29,Maryborough,Australia,-25.5232627,152.6970636,Saint Mary's College of California,,,5.1000000000000005
+153,153,Matthew Dellavedova,29,Maryborough,Australia,-25.5232627,152.6970636,Saint Mary's College of California,,,13.8
+154,154,Luol Deng,34,Wow,South Sudan,7.7091884,27.9834738,Duke University,,,12.3
+155,155,DeMar DeRozan,30,"Compton, CA",USA,33.8958492,-118.2200712,University of Southern California,,,35.0
+156,156,Marcus Derrickson,24,"Washington, DC",USA,38.9071923,-77.0368707,,,,5.6
+157,157,Cheick Diallo,23,Kayes,Mali,14.4367876,-11.4452717,University of Kansas,,,12.7
+158,158,Hamidou Diallo,21,"Queens, NY",USA,40.7282239,-73.7948516,,,,6.5
+159,159,Gorgui Dieng,30,Kebemer,Senegal,15.3763381,-16.4464766,University of Louisville,,,12.5
+160,160,Spencer Dinwiddie,27,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Colorado,,,24.6
+161,161,Donte DiVincenzo,23,"Newark, DE",USA,39.6837226,-75.74965720000002,,,,9.1
+162,162,Luka Doncic,21,Ljubjana,Slovenia,46.0569465,14.5057515,,,,36.4
+163,163,Tyler Dorsey,24,"Pasadena, CA",USA,34.1477849,-118.1445155,University of Oregon,,,5.8
+164,164,Tyler Dorsey,24,"Pasadena, CA",USA,34.1477849,-118.1445155,University of Oregon,,,15.400000000000002
+165,165,Damyean Dotson,25,"Houston, TX",USA,29.7604267,-95.3698028,University of Houston,,,17.0
+166,166,PJ Dozier,23,"Columbia, SC",USA,34.0007104,-81.0348144,,,,7.1
+167,167,Goran Dragic,33,Ljubljana,Slovenia,46.0569465,14.5057515,,,,22.500000000000004
+168,168,Andre Drummond,26,"Mount Vernon, NY",USA,40.9125992,-73.8370786,University of Connecticut,,,37.8
+169,169,Jared Dudley,34,"San Diego, CA",USA,32.715738,-117.1610838,Boston College,,,9.8
+170,170,Kris Dunn,26,"New London, CT",USA,41.3556539,-72.0995209,Providence College,,,23.4
+171,171,Kevin Durant,31,"Washington, DC",USA,38.9071923,-77.0368707,University of Texas at Austin,,,40.2
+172,172,Trevon Duval,21,"New Castle, DE",USA,39.6620397,-75.5668166,,,,2.7
+173,173,Vincent Edwards,24,"Middletown, OH",USA,39.5150576,-84.39827629999999,,,,2.5
+174,174,Henry Ellenson,23,"Rice Lake, WI",USA,45.5060682,-91.738225,Marquette University,,,11.0
+175,175,Henry Ellenson,23,"Rice Lake, WI",USA,45.5060682,-91.738225,Marquette University,,,10.8
+176,176,Wayne Ellington,32,"Wynnewood, PA",USA,39.9995913,-75.273018,University of North Carolina,,,12.6
+177,177,Wayne Ellington,32,"Wynnewood, PA",USA,39.9995913,-75.273018,University of North Carolina,,,16.8
+178,178,Joel Embiid,26,Yaounde,Cameroon,3.8480325,11.5020752,University of Kansas,,,47.40000000000001
+179,179,James Ennis III,29,"Ventura, CA",USA,34.2804923,-119.2945199,"California State University, Long Beach",,,12.4
+180,180,James Ennis III,29,"Ventura, CA",USA,34.2804923,-119.2945199,"California State University, Long Beach",,,10.3
+181,181,Drew Eubanks,23,"Starkville, MS",USA,33.4503998,-88.81838719999999,,,,3.9
+182,182,Jacob Evans,22,"Jacksonville, NC",USA,34.7540524,-77.4302414,,,,3.2000000000000006
+183,183,Jawun Evans,23,"Greenville, SC",USA,34.85261759999999,-82.3940104,Oklahoma State University,,,4.4
+184,184,Jawun Evans,23,"Greenville, SC",USA,34.85261759999999,-82.3940104,Oklahoma State University,,,0.0
+185,185,Tyreke Evans,30,"Chester, PA",USA,39.849557,-75.3557457,University of Memphis,,,16.6
+186,186,Dante Exum,24,Melbourne,Australia,-37.8136276,144.9630576,,,,11.5
+187,187,Kenneth Faried,30,"Newark, NJ",USA,40.735657,-74.1723667,Morehead State University,,,9.5
+188,188,Kenneth Faried,30,"Newark, NJ",USA,40.735657,-74.1723667,Morehead State University,,,23.300000000000004
+189,189,Derrick Favors,28,"Atlanta, GA",USA,33.7489954,-84.3879824,Georgia Institute of Technology,,,22.5
+190,190,Cristiano Felicio,27,Pouso Alegre,Brazil,-22.2480373,-45.9420118,,,,8.499999999999998
+191,191,Raymond Felton,35,"Marion, SC",USA,34.178216,-79.4006069,University of North Carolina,,,7.2
+192,192,Terrance Ferguson,21,"Tulsa, OK",USA,36.1539816,-95.99277500000001,,,,10.5
+193,193,Yogi Ferrell,26,"Indianapolis, IN",USA,39.768403,-86.158068,Indiana University,,,9.9
+194,194,Dorian Finney-Smith,26,"Portsmouth, VA",USA,36.8354258,-76.2982742,University of Florida,,,14.9
+195,195,Bryn Forbes,26,"Lansing, MI",USA,42.732535,-84.5555347,Michigan State University,,,17.3
+196,196,Evan Fournier,27,Saint-Maurice,France,48.8205669,2.423655,,,,22.9
+197,197,De'Aaron Fox,22,"New Orleans, LA",USA,29.95106579999999,-90.0715323,University of Kentucky,,,30.600000000000005
+198,198,Tim Frazier,29,"Houston, TX",USA,29.7604267,-95.3698028,Pennsylvania State University,,,12.9
+199,199,Tim Frazier,29,"Houston, TX",USA,29.7604267,-95.3698028,Pennsylvania State University,,,12.8
+200,200,Melvin Frazier Jr.,23,"New Orleans, LA",USA,29.95106579999999,-90.0715323,,,,2.2
+201,201,Jimmer Fredette,31,"Glens Falls, NY",USA,43.3095164,-73.6440058,Brigham Young University,,,6.7
+202,202,Channing Frye,36,"White Plains, NY",USA,41.03398620000001,-73.7629097,University of Arizona,,,5.9
+203,203,Markelle Fultz,21,"Upper Marlboro, MD",USA,38.8159473,-76.74969089999999,University of Washington,,,16.099999999999998
+204,204,Danilo Gallinari,31,Sant'Angelo Lodigiano,Italy,45.2323253,9.412306899999999,,,,29.5
+205,205,Langston Galloway,28,"Baton Rouge, LA",USA,30.4514677,-91.18714659999999,Saint Joseph's University,,,12.2
+206,206,Billy Garrett,25,"Chicago, IL",USA,41.8781136,-87.6297982,,,,9.499999999999998
+207,207,Marc Gasol,35,Barcelona,Spain,41.3850639,2.1734035,,,,31.3
+208,208,Marc Gasol,35,Barcelona,Spain,41.3850639,2.1734035,,,,21.5
+209,209,Pau Gasol,39,Barcelona,Spain,41.3850639,2.1734035,,,,11.5
+210,210,Pau Gasol,39,Barcelona,Spain,41.3850639,2.1734035,,,,5.6
+211,211,Rudy Gay,33,"Brooklyn, NY",USA,40.6781784,-73.9441579,University of Connecticut,,,24.4
+212,212,Paul George,29,"Palmdale, CA",USA,34.5794343,-118.1164613,"California State University, Fresno",,,42.8
+213,213,Taj Gibson,34,"Brooklyn, NY",USA,40.6781784,-73.9441579,University of Southern California,,,19.8
+214,214,Harry Giles III,21,"Winston-Salem, NC",USA,36.09985959999999,-80.244216,Duke University,,,13.2
+215,215,Shai Gilgeous-Alexander,21,"Toronto, ON",Canada,43.653226,-79.3831843,,,,18.6
+216,216,Rudy Gobert,27,Saint-Quentin,France,49.847066,3.2874,,,,33.800000000000004
+218,218,Aaron Gordon,24,"San Jose, CA",USA,37.3382082,-121.8863286,University of Arizona,,,28.4
+219,219,Eric Gordon,31,"Indianapolis, IN",USA,39.768403,-86.158068,Indiana University,,,21.3
+220,220,Marcin Gortat,36,Lodz,Poland,51.7592485,19.4559833,,,,12.6
+221,221,Devonte' Graham,25,"Raleigh, NC",USA,35.7795897,-78.6381787,,,,9.2
+222,222,Treveon Graham,26,"Washington, DC",USA,38.9071923,-77.0368707,Virginia Commonwealth University,,,9.9
+223,223,Jerami Grant,26,"Portland, OR",USA,45.5051064,-122.6750261,Syracuse University,,,21.8
+224,224,Jerian Grant,27,"Silver Spring, MD",USA,38.99066570000001,-77.026088,University of Notre Dame,,,9.2
+226,226,Danny Green,32,"North Babylon, NY",USA,40.7164881,-73.3217861,University of North Carolina,,,17.5
+227,227,Draymond Green,30,"Saginaw, MI",USA,43.4194699,-83.9508068,Michigan State University,,,24.1
+228,228,Gerald Green,34,"Houston, TX",USA,29.7604267,-95.3698028,,,,13.1
+229,229,JaMychal Green,29,"Montgomery, AL",USA,32.3792233,-86.3077368,University of Alabama,,,18.200000000000006
+230,230,JaMychal Green,29,"Montgomery, AL",USA,32.3792233,-86.3077368,University of Alabama,,,16.7
+231,231,Jeff Green,33,"Cheverly, MD",USA,38.92816699999999,-76.915807,Georgetown University,,,19.200000000000006
+232,232,Blake Griffin,31,"Oklahoma City, OK",USA,35.4675602,-97.5164276,University of Oklahoma,,,38.5
+233,233,Daniel Hamilton,24,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Connecticut,,,7.1
+235,235,Tim Hardaway Jr.,28,"Orinda, CA",USA,37.8771476,-122.1796888,University of Michigan,,,26.3
+236,236,Tim Hardaway Jr.,28,"Orinda, CA",USA,37.8771476,-122.1796888,University of Michigan,,,21.3
+237,237,James Harden,30,"Los Angeles, CA",USA,34.0522342,-118.2436849,Arizona State University,,,52.90000000000001
+238,238,Maurice Harkless,26,"Queens, NY",USA,40.7282239,-73.7948516,St. John's University,,,15.4
+239,239,Montrezl Harrell,26,"Tarboro, NC",USA,35.8968236,-77.5358049,University of Louisville,,,27.3
+240,240,Devin Harris,37,"Milwaukee, WI",USA,43.0389025,-87.9064736,University of Wisconsin,,,10.4
+241,241,Gary Harris,25,"Fishers, IN",USA,39.9567548,-86.01335,Michigan State University,,,19.2
+242,242,Joe Harris,28,"Chelan, WA",USA,47.8408323,-120.0168079,University of Virginia,,,20.7
+243,243,Tobias Harris,27,"Islip, NY",USA,40.7298207,-73.2103934,University of Tennessee,,,32.5
+244,244,Tobias Harris,27,"Islip, NY",USA,40.7298207,-73.2103934,University of Tennessee,,,29.9
+245,245,Andrew Harrison,25,"San Antonio, TX",USA,29.4241219,-98.49362819999999,University of Kentucky,,,2.0
+246,246,Andrew Harrison,25,"San Antonio, TX",USA,29.4241219,-98.49362819999999,University of Kentucky,,,8.1
+247,247,Andrew Harrison,25,"San Antonio, TX",USA,29.4241219,-98.49362819999999,University of Kentucky,,,3.5
+248,248,Shaquille Harrison,26,"Kansas City, MO",USA,39.0997265,-94.5785667,,,,13.0
+249,249,Josh Hart,25,"Silver Spring, MD",USA,38.99066570000001,-77.026088,Villanova University,,,14.5
+250,250,Isaiah Hartenstein,21,"Eugene, OR",Germany,44.0520691,-123.0867536,,,,4.7
+251,251,Udonis Haslem,39,"Miami, FL",USA,25.7616798,-80.1917902,University of Florida,,,5.4
+252,252,Gordon Hayward,30,"Indianapolis, IN",USA,39.768403,-86.158068,Butler University,,,20.5
+253,253,John Henson,29,"Greensboro, NC",USA,36.0726354,-79.7919754,University of North Carolina,,,13.0
+254,254,Juancho Hernangomez,24,Madrid,Spain,40.4167754,-3.7037902,,,,11.2
+256,256,Mario Hezonja,25,Dubrovnik,Croatia,42.65066059999999,18.0944238,,,,15.5
+257,257,Isaiah Hicks,25,"Oxford, NC",USA,36.3107004,-78.5908345,University of North Carolina,,,8.3
+258,258,Buddy Hield,27,Freeport,Bahamas,26.5333159,-78.6429019,University of Oklahoma,,,29.3
+260,260,Nene Hilario,37,Sao Carlos,Brazil,-22.0087082,-47.8909263,,,,7.9
+261,261,George Hill,33,"Indianapolis, IN",USA,39.768403,-86.158068,Indiana University-Purdue University Indianapolis,,,16.8
+262,262,George Hill,33,"Indianapolis, IN",USA,39.768403,-86.158068,Indiana University-Purdue University Indianapolis,,,12.5
+263,263,Solomon Hill,29,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Arizona,,,9.2
+264,264,Aaron Holiday,23,"Ruston, LA",USA,32.5232053,-92.63792699999999,,,,9.6
+265,265,Jrue Holiday,29,"Chatsworth, CA",USA,34.2506356,-118.61481,"University of California, Los Angeles",,,36.3
+266,266,Justin Holiday,31,"Mission Hills, CA",USA,34.2722582,-118.4688776,University of Washington,,,20.6
+267,267,Justin Holiday,31,"Mission Hills, CA",USA,34.2722582,-118.4688776,University of Washington,,,15.9
+268,268,John Holland,31,"Bronx, NY",USA,40.8447819,-73.8648268,Boston University,,,0.0
+269,269,Rondae Hollis-Jefferson,25,"Chester, PA",USA,39.849557,-75.3557457,University of Arizona,,,17.0
+270,270,Richaun Holmes,26,"Lockport, IL",USA,41.5894752,-88.05783699999999,Bowling Green State University,,,15.499999999999998
+271,271,Rodney Hood,27,"Meridian, MS",USA,32.3643098,-88.703656,Duke University,,,17.6
+272,272,Rodney Hood,27,"Meridian, MS",USA,32.3643098,-88.703656,Duke University,,,13.5
+273,273,Al Horford,33,Puerto Plata,Dominican Republic,19.7807686,-70.6871091,University of Florida,,,26.6
+274,274,Danuel House Jr.,26,"Houston, TX",USA,29.7604267,-95.3698028,Texas A&M University,,,14.8
+275,275,Dwight Howard,34,"Atlanta, GA",USA,33.7489954,-84.3879824,,,,23.6
+276,276,Kevin Huerter,21,"Albany, NY",USA,42.6525793,-73.7562317,,,,17.1
+277,277,Isaac Humphries,22,Sydney,Australia,-33.8688197,151.2092955,,,,5.4
+278,278,RJ Hunter,26,"Oxford, OH",USA,39.5069974,-84.74523099999999,Georgia State University,,,24.0
+280,280,Serge Ibaka,30,Brazzaville,Democratic Republic of the Congo,-4.2633597,15.2428853,,,,26.2
+281,281,Andre Iguodala,36,"Springfield, IL",USA,39.78172130000001,-89.6501481,University of Arizona,,,14.300000000000002
+282,282,Ersan Ilyasova,32,Eskisehir,Turkey,39.7667061,30.52563109999999,,,,12.900000000000002
+283,283,Joe Ingles,32,Happy Valley,Australia,-35.083,138.567,,,,23.2
+284,284,Andre Ingram,34,"Richmond, VA",USA,37.5407246,-77.4360481,,,,0.7
+285,285,Brandon Ingram,22,"Kinston, NC",USA,35.2626635,-77.5816353,Duke University,,,27.6
+286,286,Kyrie Irving,28,Melbourne,Australia,-37.8136276,144.9630576,Duke University,,,37.8
+287,287,Jonathan Isaac,22,"New York, NY",USA,40.7127753,-74.0059728,Florida State University,,,18.3
+288,288,Wes Iwundu,25,"Houston, TX",USA,29.7604267,-95.3698028,Kansas State University,,,9.500000000000002
+289,289,Demetrius Jackson,25,"South Bend, IN",USA,41.6763545,-86.25198979999999,University of Notre Dame,,,5.3
+290,290,Frank Jackson,21,"Washington, DC",USA,38.9071923,-77.0368707,Duke University,,,11.8
+291,291,Josh Jackson,23,"San Diego, CA",USA,32.715738,-117.1610838,University of Kansas,,,19.8
+292,292,Justin Jackson,23,"Houston, TX",Canada,29.7495221,-95.48195919999999,Maryland,,,11.4
+293,293,Justin Jackson,23,"Houston, TX",Canada,29.7495221,-95.48195919999999,Maryland,,,11.8
+294,294,Reggie Jackson,30,Pordenone,USA,45.8997807,12.6109612,Boston College,,,23.0
+295,295,Jaren Jackson Jr.,20,"Plainfield, NJ",USA,40.6337136,-74.4073736,,,,21.9
+296,296,LeBron James,35,"Akron, OH",USA,41.0814447,-81.51900529999999,,,,46.1
+297,297,Amile Jefferson,26,"Philadelphia, PA",USA,39.9525839,-75.1652215,Duke University,,,4.6000000000000005
+298,298,John Jenkins,29,"Nashville, TN",USA,36.1626638,-86.7816016,Vanderbilt University,,,1.9
+299,299,John Jenkins,29,"Nashville, TN",USA,36.1626638,-86.7816016,Vanderbilt University,,,7.9
+300,300,Jonas Jerebko,33,Kinna,Sweden,57.50984,12.6941321,,,,12.1
+301,301,Alize Johnson,23,"Williamsport, PA",USA,41.2411897,-77.00107860000001,,,,2.7
+302,302,Amir Johnson,32,"Los Angeles, CA",USA,34.0522342,-118.2436849,,,,8.600000000000001
+305,305,James Johnson,33,"Cheyenne, WY",USA,41.1399814,-104.8202462,Wake Forest,,,14.6
+306,306,Stanley Johnson,23,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Arizona,,,13.6
+307,307,Stanley Johnson,23,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Arizona,,,9.999999999999998
+308,308,Tyler Johnson,27,"Grand Forks, ND",USA,47.9252568,-97.0328547,"California State University, Fresno",,,17.4
+309,309,Tyler Johnson,27,"Grand Forks, ND",USA,47.9252568,-97.0328547,"California State University, Fresno",,,20.9
+310,310,Wesley Johnson,32,"Corsicana, TX",USA,32.0954304,-96.46887269999999,Syracuse University,,,7.2
+311,311,Wesley Johnson,32,"Corsicana, TX",USA,32.0954304,-96.46887269999999,Syracuse University,,,5.5
+312,312,Nikola Jokic,25,Sombor,Serbia,45.773295,19.1151469,,,,40.2
+313,313,Damian Jones,24,"Baton Rouge, LA",USA,30.4514677,-91.18714659999999,Vanderbilt University,,,11.2
+314,314,Jalen Jones,26,"Dallas, TX",USA,32.7766642,-96.79698789999999,Texas A&M University,,,8.299999999999999
+316,316,Terrence Jones,28,"Portland, OR",USA,45.5051064,-122.6750261,University of Kentucky,,,3.0
+317,317,Tyus Jones,23,"Burnsville, MN",USA,44.7677424,-93.27772259999999,Duke University,,,14.999999999999998
+318,318,Derrick Jones Jr.,23,"Chester, PA",USA,39.849557,-75.3557457,"University of Nevada, Las Vegas",,,13.1
+319,319,DeAndre Jordan,31,"Houston, TX",USA,29.7604267,-95.3698028,Texas A&M University,,,28.4
+320,320,DeAndre Jordan,31,"Houston, TX",USA,29.7604267,-95.3698028,Texas A&M University,,,26.800000000000004
+321,321,Cory Joseph,28,Toronto,Canada,43.653226,-79.3831843,University of Texas at Austin,,,15.2
+322,322,Frank Kaminsky,27,"Winfield, IL",USA,41.8616956,-88.1609031,University of Wisconsin,,,14.000000000000002
+323,323,Enes Kanter,27,Zurich,Turkey,47.3825549,8.543315,,,,27.2
+324,324,Enes Kanter,27,Zurich,Turkey,47.3825549,8.543315,,,,24.1
+325,325,Luke Kennard,23,"Middletown, OH",USA,39.5150576,-84.39827629999999,Duke University,,,14.9
+326,326,Michael Kidd-Gilchrist,26,"Philadelphia, PA",USA,39.9525839,-75.1652215,University of Kentucky,,,12.6
+327,327,George King,25,"Fayetteville, NC",USA,35.0526641,-78.87835849999999,,,,1.0
+328,328,Maxi Kleber,28,Wurzburg,Germany,49.79130439999999,9.9533548,,,,13.999999999999998
+329,329,Brandon Knight,28,"Miami, FL",USA,25.7616798,-80.1917902,University of Kentucky,,,4.8
+330,330,Brandon Knight,28,"Miami, FL",USA,25.7616798,-80.1917902,University of Kentucky,,,13.499999999999998
+331,331,Kevin Knox II,20,"Phoenix, AZ",USA,33.4483771,-112.0740373,,,,19.300000000000004
+332,332,Furkan Korkmaz,22,Istanbul,Turkey,41.0082376,28.9783589,,,,9.7
+333,333,Luke Kornet,24,"Lantana, TX",USA,33.08371,-97.11978669999999,Vanderbilt University,,,12.6
+334,334,Kyle Korver,39,"Lakewood, CA",USA,33.8536269,-118.1339563,Creighton University,,,9.999999999999998
+335,335,Kyle Korver,39,"Lakewood, CA",USA,33.8536269,-118.1339563,Creighton University,,,13.4
+336,336,Kosta Koufos,31,"Canton, OH",USA,40.79894729999999,-81.378447,Ohio State University,,,9.6
+337,337,Rodions Kurucs,22,Cēsis,Latvia,57.308611,25.2668719,,,,14.3
+338,338,Kyle Kuzma,24,"Flint, MI",USA,43.0125274,-83.6874562,University of Utah,,,27.7
+339,339,Skal Labissiere,24,Port-Au-Prince,Haiti,18.594395,-72.3074326,University of Kentucky,,,5.5
+340,340,Skal Labissiere,24,Port-Au-Prince,Haiti,18.594395,-72.3074326,University of Kentucky,,,6.699999999999998
+341,341,Jeremy Lamb,27,"Henrico Valley, VA",USA,37.5059332,-77.3324425,University of Connecticut,,,24.5
+342,342,Zach LaVine,25,"Renton, WA",USA,47.4796927,-122.2079218,"University of California, Los Angeles",,,34.3
+343,343,Jake Layman,26,"Norwood, MA",USA,42.19439089999999,-71.19896949999999,University of Maryland,,,12.2
+344,344,TJ Leaf,22,Tel Aviv,USA,32.0767352,34.7667006,"University of California, Los Angeles",,,7.0
+345,345,Courtney Lee,34,"Indianapolis, IN",USA,39.768403,-86.158068,Western Kentucky University,,,9.1
+346,346,Courtney Lee,34,"Indianapolis, IN",USA,39.768403,-86.158068,Western Kentucky University,,,6.4
+347,347,Damion Lee,27,Baltimore. MD,USA,39.2903848,-76.6121893,Louisville,,,7.700000000000001
+349,349,Alex Len,26,Antratsit,Ukraine,48.11995049999999,39.0897865,University of Maryland,,,19.0
+350,350,Kawhi Leonard,28,"Los Angeles, CA",USA,34.0522342,-118.2436849,San Diego State University,,,39.39999999999999
+351,351,Meyers Leonard,28,"Woodbridge, VA",USA,38.6581722,-77.2497049,University of Illinois at Urbana-Champaign,,,11.3
+352,352,Jon Leuer,30,"Long Lake, MN",USA,44.9866298,-93.5716243,University of Wisconsin,,,6.899999999999999
+353,353,Caris LeVert,25,"Columbus, OH",USA,39.9611755,-82.99879419999999,University of Michigan,,,22.8
+354,354,Damian Lillard,29,"Oakland, CA",USA,37.8043514,-122.2711639,Weber State University,,,38.8
+355,355,Jeremy Lin,31,"Palo Alto, CA",USA,37.4418834,-122.1430195,Harvard University,,,17.3
+356,356,Jeremy Lin,31,"Palo Alto, CA",USA,37.4418834,-122.1430195,Harvard University,,,12.500000000000002
+357,357,Shaun Livingston,34,"Peoria, IL",USA,40.6936488,-89.5889864,,,,8.5
+359,359,Kevon Looney,24,"Milwaukee, WI",USA,43.0389025,-87.9064736,"University of California, Los Angeles",,,14.2
+360,360,Brook Lopez,32,"North Hollywood, CA",USA,34.187044,-118.3812562,Stanford University,,,21.4
+361,361,Robin Lopez,32,"North Hollywood, CA",USA,34.187044,-118.3812562,Stanford University,,,15.8
+362,362,Kevin Love,31,"Santa Monica, CA",USA,34.0194543,-118.4911912,"University of California, Los Angeles",,,30.7
+363,363,Kyle Lowry,34,"Philadelphia, PA",USA,39.9525839,-75.1652215,Villanova University,,,29.6
+364,364,Jordan Loyd,26,"Atlanta, GA",USA,33.7489954,-84.3879824,,,,3.7
+365,365,Kalin Lucas,30,"Sterling Heights, MI",USA,42.5803122,-83.0302033,,,,6.0
+366,366,Timothe Luwawu-Cabarrot,24,Cannes,France,43.552847,7.017369,,,,3.0000000000000004
+367,367,Timothe Luwawu-Cabarrot,24,Cannes,France,43.552847,7.017369,,,,11.0
+368,368,Tyler Lydon,24,"Hudson, NY",USA,42.2528649,-73.790959,Syracuse University,,,1.9
+369,369,Trey Lyles,24,Saskatoon,USA,52.1144678,-106.6425538,University of Kentucky,,,14.6
+370,370,Scott Machado,29,"Queens, NY",USA,40.7282239,-73.7948516,,,,3.5
+371,371,Shelvin Mack,29,"Lexington, KY",USA,38.0405837,-84.5037164,Butler University,,,14.1
+372,372,Shelvin Mack,29,"Lexington, KY",USA,38.0405837,-84.5037164,Butler University,,,3.4000000000000004
+374,374,J.P. Macura,24,"Lakeville, MN",USA,44.6496868,-93.24271999999999,,,,5.5
+375,375,Ian Mahinmi,33,Rouen,France,49.44323199999999,1.099971,,,,9.8
+378,378,Boban Marjanovic,31,Zajecar,Serbia,43.9015048,22.2738011,,,,12.3
+379,379,Boban Marjanovic,31,Zajecar,Serbia,43.9015048,22.2738011,,,,15.499999999999998
+380,380,Lauri Markkanen,22,Vantaa,Finland,60.29335239999999,25.0377686,University of Arizona,,,30.5
+381,381,Jarell Martin,25,"Baton Rouge, LA",USA,30.4514677,-91.18714659999999,Louisiana State University,,,5.1000000000000005
+382,382,Frank Mason,26,"Petersburg, VA",USA,37.2279279,-77.40192669999999,University of Kansas,,,8.899999999999997
+383,383,Yante Maten,23,"Pontiac, MI",USA,42.6389216,-83.29104679999999,,,,3.0
+384,384,Wesley Matthews,33,"San Antonio, TX",USA,29.4241219,-98.49362819999999,Marquette University,,,18.8
+385,385,Wesley Matthews,33,"San Antonio, TX",USA,29.4241219,-98.49362819999999,Marquette University,,,12.0
+386,386,Wesley Matthews,33,"San Antonio, TX",USA,29.4241219,-98.49362819999999,Marquette University,,,17.199999999999996
+387,387,Luc Mbah a Moute,33,Yaounde,Cameroon,3.8480325,11.5020752,"University of California, Los Angeles",,,7.7
+389,389,Patrick McCaw,24,"St. Louis, MO",USA,38.6270025,-90.19940419999999,"University of Nevada, Las Vegas",,,4.1000000000000005
+390,390,Patrick McCaw,24,"St. Louis, MO",USA,38.6270025,-90.19940419999999,"University of Nevada, Las Vegas",,,6.3
+391,391,CJ McCollum,28,"Canton, OH",USA,40.79894729999999,-81.378447,Lehigh University,,,29.2
+392,392,T.J. McConnell,28,"Pittsburgh, PA",USA,40.44062479999999,-79.9958864,University of Arizona,,,13.3
+393,393,Doug McDermott,28,"Grand Forks, ND",USA,47.9252568,-97.0328547,Creighton University,,,9.9
+394,394,JaVale McGee,32,"Flint, MI",USA,43.0125274,-83.6874562,"University of Nevada, Reno",,,22.9
+395,395,Rodney McGruder,28,"Landover, MD",USA,38.9340002,-76.8966397,Kansas State University,,,13.599999999999998
+396,396,Alfonzo McKinnie,27,"Chicago, IL",USA,41.8781136,-87.6297982,University of Wisconsin-Green Bay,,,9.0
+397,397,Ben McLemore,27,"St. Louis, MO",USA,38.6270025,-90.19940419999999,University of Kansas,,,5.5
+398,398,Jordan McRae,29,"Savannah, GA",USA,32.0808989,-81.091203,University of Tennessee,,,9.2
+399,399,Jodie Meeks,32,"Norcross, GA",USA,33.9412127,-84.2135309,University of Kentucky,,,9.1
+400,400,Salah Mejri,33,Jendouba,Tunisia,36.5072263,8.7756556,,,,9.6
+401,401,De'Anthony Melton,21,"North Hollywood, CA",USA,34.187044,-118.3812562,,,,12.8
+402,402,Chimezie Metu,23,"Los Angeles, CA",USA,34.0522342,-118.2436849,,,,3.7
+403,403,Khris Middleton,28,"Charleston, SC",USA,32.7764749,-79.93105120000001,Texas A&M University,,,29.700000000000006
+404,404,CJ Miles,33,"Dallas, TX",USA,32.7766642,-96.79698789999999,,,,8.399999999999999
+405,405,CJ Miles,33,"Dallas, TX",USA,32.7766642,-96.79698789999999,,,,13.5
+406,406,Darius Miller,30,"Maysville, KY",USA,38.6411854,-83.744365,University of Kentucky,,,13.0
+407,407,Malcolm Miller,27,"Gaithersburg, MD",USA,39.1439689,-77.2016062,College of the Holy Cross,,,4.299999999999999
+408,408,Patty Mills,31,Canberra,Australia,-35.2809368,149.1300092,Saint Mary's College of California,,,15.8
+409,409,Paul Millsap,35,"Monroe, LA",USA,32.5093109,-92.1193012,Louisiana Tech University,,,23.8
+410,410,Shake Milton,23,"Savannah, GA",USA,32.0808989,-81.091203,,,,7.8000000000000025
+411,411,Nikola Mirotic,29,Podgorica,Montenegro,42.4304196,19.2593642,,,,27.5
+412,412,Nikola Mirotic,29,Podgorica,Montenegro,42.4304196,19.2593642,,,,19.7
+413,413,Donovan Mitchell,23,"Elmsford, NY",USA,41.0550969,-73.8201337,University of Louisville,,,33.9
+414,414,Naz Mitrou-Long,26,Mississauga,Canada,43.5890452,-79.6441198,Iowa State University,,,2.8000000000000003
+415,415,Malik Monk,22,"Jonesboro, AR",USA,35.84229670000001,-90.704279,University of Kentucky,,,13.2
+416,416,Greg Monroe,29,"New Orleans, LA",USA,29.95106579999999,-90.0715323,Georgetown University,,,9.8
+417,417,Greg Monroe,29,"New Orleans, LA",USA,29.95106579999999,-90.0715323,Georgetown University,,,5.0
+418,418,Greg Monroe,29,"New Orleans, LA",USA,29.95106579999999,-90.0715323,Georgetown University,,,20.6
+419,419,E'Twaun Moore,31,"East Chicago, IN",USA,41.63920239999999,-87.4547635,Purdue University,,,17.2
+420,420,Eric Moreland,28,"Houston, TX",USA,29.7604267,-95.3698028,Oregon State University,,,3.0
+421,421,Eric Moreland,28,"Houston, TX",USA,29.7604267,-95.3698028,Oregon State University,,,7.4
+422,422,Jaylen Morris,24,"Amherst, NY",USA,42.97900670000001,-78.792272,,,,5.2
+423,423,Markieff Morris,30,"Philadelphia, PA",USA,39.9525839,-75.1652215,University of Kansas,,,19.700000000000006
+424,424,Markieff Morris,30,"Philadelphia, PA",USA,39.9525839,-75.1652215,University of Kansas,,,11.7
+425,425,Monte Morris,24,"Grand Rapids, MI",USA,42.9633599,-85.6680863,Iowa State University,,,17.3
+426,426,Marcus Morris Sr.,30,"Philadelphia, PA",USA,39.9525839,-75.1652215,University of Kansas,,,22.4
+427,427,Donatas Motiejunas,29,Kaunas,Lithuania,54.8985207,23.9035965,,,,3.6
+428,428,Johnathan Motley,24,"Houston, TX",USA,29.7604267,-95.3698028,Baylor University,,,7.699999999999998
+429,429,Emmanuel Mudiay,24,Kinshasa,Democratic Republic of the Congo,-4.4419311,15.2662931,,,,23.0
+430,430,Jamal Murray,23,Kitchener,Canada,43.4516395,-80.4925337,University of Kentucky,,,28.5
+431,431,Dzanan Musa,20,Bihać,Bosnia,44.8119628,15.8685645,,,,3.1000000000000005
+432,432,Mike Muscala,28,"St. Louis Park, MN",USA,44.9597376,-93.3702186,Bucknell University,,,14.0
+433,433,Mike Muscala,28,"St. Louis Park, MN",USA,44.9597376,-93.3702186,Bucknell University,,,10.2
+434,434,Svi Mykhailiuk,22,Cherkasy,Ukraine,49.444433,32.059767,,,,5.199999999999998
+435,435,Svi Mykhailiuk,22,Cherkasy,Ukraine,49.444433,32.059767,,,,4.3
+436,436,Abdel Nader,26,Alexandria,Egypt,31.2000924,29.9187387,Iowa State University,,,6.7
+437,437,Larry Nance Jr.,27,"Akron, OH",USA,41.0814447,-81.51900529999999,University of Wyoming,,,22.9
+438,438,Shabazz Napier,28,"Roxbury, MA",USA,42.3151978,-71.0913748,University of Connecticut,,,14.900000000000002
+439,439,Raul Neto,27,Belo Horizonte,Brazil,-19.9166813,-43.9344931,,,,10.0
+440,440,Georges Niang,26,"Lawrence, MA",USA,42.7070354,-71.1631137,Iowa State University,,,6.4
+441,441,Joakim Noah,35,"New York, NY",USA,40.7127753,-74.0059728,University of Florida,,,16.1
+442,442,Nerlens Noel,26,"Malden, MA",USA,42.4250964,-71.066163,University of Kentucky,,,11.8
+443,443,Dirk Nowitzki,41,Wurzburg,Germany,49.79130439999999,9.9533548,,,,11.7
+444,444,Frank Ntilikina,21,Ixelles,France,50.8160872,4.3825297,,,,11.5
+445,445,James Nunnally,29,"San Jose, CA",USA,37.3382082,-121.8863286,,,,2.9
+446,446,James Nunnally,29,"San Jose, CA",USA,37.3382082,-121.8863286,,,,6.0
+447,447,Jusuf Nurkic,25,Tuzla,Bosnia and Herzegovina,44.53746109999999,18.6734687,,,,31.6
+448,448,David Nwaba,27,"Los Angeles, CA",USA,34.0522342,-118.2436849,"California Polytechnic State University, San Luis Obispo",,,11.8
+449,449,Semi Ojeleye,25,"Overland Park, KS",USA,38.9822282,-94.6707917,Southern Methodist University,,,5.5
+450,450,Jahlil Okafor,24,"Chicago, IL",USA,41.8781136,-87.6297982,Duke University,,,14.599999999999998
+451,451,Elie Okobo,22,Bordeaux,France,44.837789,-0.57918,,,,10.7
+452,452,Josh Okogie,21,Lagos,Nigeria,6.5243793,3.3792057,,,,13.4
+453,453,Victor Oladipo,27,"Silver Spring, MD",USA,38.99066570000001,-77.026088,Indiana University,,,31.6
+454,454,Kelly Olynyk,28,Toronto,Canada,43.653226,-79.3831843,Gonzaga University,,,17.7
+455,455,Royce O'Neale,26,"Killeen, TX",USA,31.1171194,-97.72779589999999,Baylor University,,,11.2
+456,456,Kyle O'Quinn,30,"Flushing, NY",USA,40.7674987,-73.833079,Norfolk State University,,,8.1
+457,457,Cedi Osman,25,Ohrid,Turkey,41.1119232,20.7975335,,,,21.200000000000006
+458,458,Kelly Oubre Jr.,24,"New Orleans, LA",USA,29.95106579999999,-90.0715323,University of Kansas,,,19.6
+459,459,Kelly Oubre Jr.,24,"New Orleans, LA",USA,29.95106579999999,-90.0715323,University of Kansas,,,25.700000000000006
+460,460,Zaza Pachulia,36,Tbilisi,Georgia,41.7151377,44.827096,,,,9.8
+461,461,Jabari Parker,25,"Chicago, IL",USA,41.8781136,-87.6297982,Duke University,,,23.7
+462,462,Jabari Parker,25,"Chicago, IL",USA,41.8781136,-87.6297982,Duke University,,,26.4
+463,463,Tony Parker,37,Bruges,Belgium,51.209348,3.2246995,,,,15.2
+464,464,Chandler Parsons,31,"Casselberry, FL",USA,28.677775,-81.3278455,University of Florida,,,13.0
+465,465,Patrick Patterson,31,"Washington, DC",USA,38.9071923,-77.0368707,University of Kentucky,,,6.9
+466,466,Justin Patton,22,"Riverdale, GA",USA,33.5726113,-84.4132594,Creighton University,,,5.4
+467,467,Chris Paul,34,"Winston-Salem, NC",USA,36.09985959999999,-80.244216,Wake Forest University,,,30.1
+468,468,Cameron Payne,25,"Memphis, TN",USA,35.1495343,-90.0489801,Murray State University,,,10.9
+469,469,Cameron Payne,25,"Memphis, TN",USA,35.1495343,-90.0489801,Murray State University,,,14.1
+470,470,Elfrid Payton,26,"Gretna, LA",USA,29.9146493,-90.0539603,University of Louisiana at Lafayette,,,24.8
+471,471,Gary Payton II,27,"Seattle, WA",USA,47.6062095,-122.3320708,Oregon State University,,,7.0
+472,472,Theo Pinson,24,"Greensboro, NC",USA,36.0726354,-79.7919754,,,,8.0
+473,473,Mason Plumlee,30,"Fort Wayne, IN",USA,41.079273,-85.1393513,Duke University,,,18.9
+474,474,Miles Plumlee,31,"Fort Wayne, IN",USA,41.079273,-85.1393513,Duke University,,,8.0
+475,475,Jakob Poeltl,24,Vienna,Austria,48.2081743,16.3738189,University of Utah,,,13.3
+476,476,Quincy Pondexter,32,"Fresno, CA",USA,36.7377981,-119.7871247,University of Washington,,,3.4000000000000004
+477,477,Otto Porter Jr.,26,"St. Louis, MO",USA,38.6270025,-90.19940419999999,Georgetown University,,,22.4
+478,478,Otto Porter Jr.,26,"St. Louis, MO",USA,38.6270025,-90.19940419999999,Georgetown University,,,27.5
+479,479,Bobby Portis,25,"Little Rock, AR",USA,34.7464809,-92.28959479999999,University of Arkansas,,,23.6
+480,480,Bobby Portis,25,"Little Rock, AR",USA,34.7464809,-92.28959479999999,University of Arkansas,,,25.8
+481,481,Dwight Powell,28,Toronto,Canada,43.653226,-79.3831843,Stanford University,,,18.7
+482,482,Norman Powell,26,"San Diego, CA",USA,32.715738,-117.1610838,"University of California, Los Angeles",,,13.199999999999998
+483,483,Alex Poythress,26,"Savannah, GA",USA,32.0808989,-81.091203,University of Kentucky,,,10.2
+484,484,Taurean Prince,26,"San Marcos, TX",USA,29.8832749,-97.9413941,Baylor University,,,20.500000000000004
+485,485,Ivan Rabb,23,"Sacramento, CA",USA,38.5815719,-121.4943996,University of California,,,11.7
+486,486,Chasson Randle,27,"Rock Island, IL",USA,41.5094771,-90.5787476,Stanford University,,,9.2
+487,487,Julius Randle,25,"Dallas, TX",USA,32.7766642,-96.79698789999999,University of Kentucky,,,34.5
+488,488,JJ Redick,35,"Cookeville, TN",USA,36.162839,-85.5016423,Duke University,,,23.8
+489,489,Davon Reed,24,"Princeton, NJ",USA,40.3572976,-74.6672226,University of Miami,,,2.2
+491,491,Josh Richardson,26,"Edmond, OK",USA,35.6528323,-97.47809540000002,University of Tennessee,,,25.90000000000001
+492,492,Malachi Richardson,24,"Trenton, NJ",USA,40.2205824,-74.759717,Syracuse University,,,2.0
+493,493,Austin Rivers,27,"Santa Monica, CA",USA,34.0194543,-118.4911912,Duke University,,,12.5
+494,494,Austin Rivers,27,"Santa Monica, CA",USA,34.0194543,-118.4911912,Duke University,,,13.8
+495,495,Devin Robinson,25,"Christchurch, VA",USA,37.6048617,-76.5343958,University of Florida,,,12.0
+496,496,Duncan Robinson,25,"York, MA",USA,43.16174830000001,-70.6482581,,,,5.199999999999998
+497,497,Jerome Robinson,23,"Raleigh, NC",USA,35.7795897,-78.6381787,,,,5.599999999999999
+498,498,Mitchell Robinson,22,"Pensacola, FL",USA,30.42130899999999,-87.2169149,,,,17.5
+499,499,Glenn Robinson III,26,"Gary, IN",USA,41.6020403,-87.3371523,University of Michigan,,,6.6000000000000005
+500,500,Rajon Rondo,34,"Louisville, KY",USA,38.2526647,-85.7584557,University of Kentucky,,,23.9
+501,501,Derrick Rose,31,"Chicago, IL",USA,41.8781136,-87.6297982,University of Memphis,,,25.8
+502,502,Terrence Ross,29,"Portland, OR",USA,45.5051064,-122.6750261,University of Washington,,,21.6
+503,503,Terry Rozier,26,"Youngstown, OH",USA,41.0997803,-80.6495194,University of Louisville,,,17.0
+504,504,Ricky Rubio,29,Barcelona,Spain,41.3850639,2.1734035,,,,23.9
+505,505,D'Angelo Russell,24,"Louisville, KY",USA,38.2526647,-85.7584557,Ohio State University,,,33.40000000000001
+506,506,Domantas Sabonis,23,"Portland, OR",Lithuania,45.58976939999999,-122.5950942,Gonzaga University,,,27.5
+507,507,Brandon Sampson,22,"Baton Rouge, LA",USA,30.4514677,-91.18714659999999,,,,7.699999999999998
+508,508,JaKarr Sampson,27,"Cleveland, OH",USA,41.49932,-81.6943605,St. John's University,,,30.8
+509,509,Dario Saric,26,Sibenik,Croatia,43.7350196,15.8952045,,,,20.3
+510,510,Dario Saric,26,Sibenik,Croatia,43.7350196,15.8952045,,,,18.1
+511,511,Tomas Satoransky,28,Prague,Czech Republic,50.0755381,14.4378005,,,,18.6
+512,512,Dennis Schroder,26,Braunschweig,Germany,52.2688736,10.5267696,,,,24.200000000000006
+513,513,Mike Scott,31,"Chesapeake, VA",USA,36.7682088,-76.2874927,Virginia,,,9.4
+514,514,Mike Scott,31,"Chesapeake, VA",USA,36.7682088,-76.2874927,Virginia,,,12.9
+515,515,Thabo Sefolosha,35,Vevey,Switzerland,46.4628333,6.8419192,,,,7.8
+516,516,Wayne Selden,25,"Roxbury, MA",USA,42.3151978,-71.0913748,University of Kansas,,,8.4
+517,517,Wayne Selden,25,"Roxbury, MA",USA,42.3151978,-71.0913748,University of Kansas,,,13.599999999999998
+518,518,Collin Sexton,21,"Marietta, GA",USA,33.95260200000001,-84.5499327,,,,23.2
+519,519,Landry Shamet,23,"Kansas City, MI",USA,39.0997265,-94.5785667,,,,11.3
+520,520,Landry Shamet,23,"Kansas City, MI",USA,39.0997265,-94.5785667,,,,16.000000000000004
+521,521,Iman Shumpert,29,"Oak Park, IL",USA,41.8850317,-87.7845025,Georgia Institute of Technology,,,15.8
+522,522,Iman Shumpert,29,"Oak Park, IL",USA,41.8850317,-87.7845025,Georgia Institute of Technology,,,9.1
+523,523,Pascal Siakam,26,Douala,Cameroon,4.0510564,9.7678687,New Mexico State University,,,28.4
+524,524,Jordan Sibert,27,"Cincinnati, OH",USA,39.1031182,-84.5120196,,,,3.0
+525,525,Ben Simmons,23,Fitzroy,Australia,-37.801111,144.978889,Louisiana State University,,,35.59999999999999
+526,526,Jonathon Simmons,30,"Houston, TX",USA,29.7604267,-95.3698028,University of Houston,,,12.4
+527,527,Jonathon Simmons,30,"Houston, TX",USA,29.7604267,-95.3698028,University of Houston,,,10.2
+528,528,Kobi Simmons,22,"Atlanta, GA",USA,33.7489954,-84.3879824,University of Arizona,,,0.0
+529,529,Anfernee Simons,20,"Altamonte Springs, FL",USA,28.6611089,-81.3656242,,,,4.999999999999999
+530,530,Marcus Smart,26,"Flower Mound, TX",USA,33.0145673,-97.0969552,Oklahoma State University,,,17.9
+531,531,Ish Smith,31,"Charlotte, NC",USA,35.2270869,-80.8431267,Wake Forest University,,,15.8
+532,532,Jason Smith,34,"Greeley, CO",USA,40.4233142,-104.7091322,Colorado State University,,,8.3
+533,533,Jason Smith,34,"Greeley, CO",USA,40.4233142,-104.7091322,Colorado State University,,,4.8
+534,534,Jason Smith,34,"Greeley, CO",USA,40.4233142,-104.7091322,Colorado State University,,,6.5
+535,535,J.R. Smith,34,"Freehold, NJ",USA,40.2136754,-74.3000878,,,,11.500000000000002
+536,536,Zhaire Smith,20,"Garland, TX",USA,32.912624,-96.63888329999999,,,,11.2
+537,537,Dennis Smith Jr.,22,"Fayetteville, NC",USA,35.0526641,-78.87835849999999,North Carolina State University,,,21.7
+538,538,Dennis Smith Jr.,22,"Fayetteville, NC",USA,35.0526641,-78.87835849999999,North Carolina State University,,,24.6
+539,539,Tony Snell,28,"Riverside, CA",USA,33.9806005,-117.3754942,University of New Mexico,,,9.6
+540,540,Ray Spalding,23,"Louisville, KY",USA,38.2526647,-85.7584557,,,,0.0
+541,541,Ray Spalding,23,"Louisville, KY",USA,38.2526647,-85.7584557,,,,9.6
+542,542,Omari Spellman,22,"Cleveland, OH",USA,41.49932,-81.6943605,,,,12.2
+543,543,Nik Stauskas,26,Mississauga,Canada,43.5890452,-79.6441198,University of Michigan,,,9.7
+544,544,Nik Stauskas,26,Mississauga,Canada,43.5890452,-79.6441198,University of Michigan,,,8.700000000000001
+545,545,D.J. Stephens,29,Frankfurt,Germany,50.1109221,8.6821267,,,,3.0
+546,546,Lance Stephenson,29,"Brooklyn, NY",USA,40.6781784,-73.9441579,University of Cincinnati,,,13.2
+547,547,Edmond Sumner,24,"Detroit, MI",USA,42.331427,-83.0457538,Xavier University,,,5.0
+548,548,Caleb Swanigan,22,"Indianapolis, IN",USA,39.768403,-86.158068,Purdue University,,,5.4
+549,549,Caleb Swanigan,22,"Indianapolis, IN",USA,39.768403,-86.158068,Purdue University,,,9.0
+550,550,Jayson Tatum,22,"St. Louis, MO",USA,38.6270025,-90.19940419999999,Duke University,,,25.6
+551,551,Jeff Teague,31,"Indianapolis, IN",USA,39.768403,-86.158068,Wake Forest University,,,24.2
+552,552,Garrett Temple,33,"Baton Rouge, LA",USA,30.4514677,-91.18714659999999,Louisiana State University,,,15.4
+553,553,Garrett Temple,33,"Baton Rouge, LA",USA,30.4514677,-91.18714659999999,Louisiana State University,,,9.8
+554,554,Milos Teodosic,33,Valjevo,Serbia,44.27431410000001,19.8903398,,,,6.6000000000000005
+555,555,Jared Terrell,25,"Weymouth, MA",USA,42.2180724,-70.94103559999999,,,,3.8
+556,556,Emanuel Terry,24,"Birmingham, IL",USA,40.2642112,-90.820965,,,,9.5
+557,557,Emanuel Terry,24,"Birmingham, IL",USA,40.2642112,-90.820965,,,,3.0
+558,558,Daniel Theis,28,Salzgitter,Germany,52.13786589999999,10.3899127,,,,11.0
+559,559,Isaiah Thomas,31,"Tacoma, WA",USA,47.2528768,-122.4442906,University of Washington,,,11.7
+560,560,Khyri Thomas,23,"Cupertino, CA",USA,37.3229978,-122.0321823,,,,3.9
+561,561,Lance Thomas,31,"Brooklyn, NY",USA,40.6781784,-73.9441579,Duke University,,,8.2
+562,562,Klay Thompson,30,"Los Angeles, CA",USA,34.0522342,-118.2436849,Washington State University,,,29.5
+563,563,Tristan Thompson,29,Toronto,Canada,43.653226,-79.3831843,University of Texas at Austin,,,24.1
+564,564,Sindarius Thornwell,25,"Lancaster, SC",USA,34.7204257,-80.7709014,University of South Carolina,,,2.3000000000000003
+565,565,Anthony Tolliver,34,"Springfield, MO",USA,37.2089572,-93.29229889999999,Creighton University,,,9.000000000000002
+566,566,Karl-Anthony Towns,24,"Edison, NJ",USA,40.5187154,-74.4120953,University of Kentucky,,,42.7
+568,568,Allonzo Trier,24,"Seatle, WS",USA,47.6062095,-122.3320708,,,,16.5
+569,569,P.J. Tucker,34,"Raleigh, NC",USA,35.7795897,-78.6381787,University of Texas at Austin,,,16.4
+570,570,Evan Turner,31,"Chicago, IL",USA,41.8781136,-87.6297982,Ohio State University,,,15.9
+571,571,Myles Turner,24,"Bedford, TX",USA,32.844017,-97.1430671,University of Texas at Austin,,,25.6
+572,572,Ekpe Udoh,32,"Edmond, OK",USA,35.6528323,-97.47809540000002,Baylor University,,,5.4
+573,573,Tyler Ulis,24,"Detroit, MI",USA,42.331427,-83.0457538,University of Kentucky,,,0.0
+574,574,Jonas Valanciunas,27,Utena,Lithuania,55.5000404,25.609385,,,,22.2
+575,575,Jonas Valanciunas,27,Utena,Lithuania,55.5000404,25.609385,,,,34.7
+576,576,Jarred Vanderbilt,21,"Houston, TX",USA,29.7604267,-95.3698028,,,,3.5
+577,577,Fred VanVleet,26,"Rockford, IL",USA,42.2711311,-89.0939952,Wichita State University,,,19.6
+578,578,Noah Vonleh,24,"Haverhill, MA",USA,42.7762015,-71.0772796,Indiana University,,,19.6
+579,579,Nikola Vucevic,29,Morges,Montenegro,46.5072797,6.497431,University of Southern California,,,38.7
+580,580,Dwyane Wade,38,"Chicago, IL",USA,41.8781136,-87.6297982,Marquette University,,,24.5
+581,581,Moritz Wagner,22,Berlin,Germany,52.52000659999999,13.404954,,,,7.899999999999999
+582,582,Dion Waiters,28,"Philadelphia, PA",USA,39.9525839,-75.1652215,Syracuse University,,,18.4
+583,583,Kemba Walker,29,"Bronx, NY",USA,40.8447819,-73.8648268,University of Connecticut,,,37.5
+584,584,Lonnie Walker IV,21,"Reading, PA",USA,40.3356483,-75.9268747,,,,4.6
+585,585,John Wall,29,"Raleigh, NC",USA,35.7795897,-78.6381787,University of Kentucky,,,35.4
+586,586,Tyrone Wallace,25,"Bakersfield, CA",USA,35.3732921,-119.0187125,University of California,,,6.199999999999998
+587,587,Brad Wanamaker,30,"Philadelphia, PA",USA,39.9525839,-75.1652215,,,,6.999999999999999
+588,588,T.J. Warren,26,"Durham, NC",USA,35.9940329,-78.898619,North Carolina State University,,,25.4
+590,590,Yuta Watanabe,25,Miki,Japan,34.7968964,134.9901941,,,,5.6
+591,591,Thomas Welsh,24,"Torrance, CA",USA,33.8358492,-118.3406288,,,,2.5
+592,592,Russell Westbrook,31,"Long Beach, CA",USA,33.7700504,-118.1937395,"University of California, Los Angeles",,,47.1
+593,593,Derrick White,25,"Parker, CO",USA,39.5186002,-104.7613633,University of Colorado,,,19.2
+594,594,Okaro White,27,"Clearwater, FL",USA,27.9658533,-82.8001026,Florida State University,,,0.7
+595,595,Hassan Whiteside,30,"Gastonia, NC",USA,35.262082,-81.18730049999999,Marshall University,,,27.000000000000004
+596,596,Andrew Wiggins,25,Toronto,Canada,43.653226,-79.3831843,University of Kansas,,,27.1
+597,597,Alan Williams,27,"Phoenix, AZ",USA,33.4483771,-112.0740373,"University of California, Santa Barbara",,,8.2
+598,598,C.J. Williams,30,"Fayetteville, NC",USA,35.0526641,-78.87835849999999,North Carolina State University,,,4.300000000000002
+599,599,Johnathan Williams,24,"Memphis, TN",USA,35.1495343,-90.0489801,,,,11.7
+601,601,Lou Williams,33,"Memphis, TN",USA,35.1495343,-90.0489801,,,,29.1
+602,602,Marvin Williams,33,"Bremerton, WA",USA,47.5650067,-122.6269768,University of North Carolina,,,18.4
+603,603,Troy Williams,25,"Hampton, VA",USA,37.0298687,-76.34522179999999,Indiana University,,,9.5
+604,604,Robert Williams III,22,"Shreveport, LA",USA,32.5251516,-93.7501789,,,,6.7
+605,605,D.J. Wilson,24,"Mt. Shasta, CA",USA,41.3098746,-122.3105666,University of Michigan,,,12.3
+606,606,Justise Winslow,24,"Houston, TX",USA,29.7604267,-95.3698028,Duke University,,,23.700000000000006
+607,607,Christian Wood,24,"Long Beach, CA",USA,33.7700504,-118.1937395,"University of Nevada, Las Vegas",,,4.5
+608,608,Christian Wood,24,"Long Beach, CA",USA,33.7700504,-118.1937395,"University of Nevada, Las Vegas",,,27.7
+609,609,Delon Wright,27,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Utah,,,12.9
+610,610,Delon Wright,27,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Utah,,,25.200000000000006
+611,611,Guerschon Yabusele,24,Dreux,France,48.736134,1.370889,,,,4.4
+612,612,Nick Young,34,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Southern California,,,3.1000000000000005
+613,613,Thaddeus Young,31,"New Orleans, LA",USA,29.95106579999999,-90.0715323,Georgia Institute of Technology,,,23.5
+614,614,Trae Young,21,"Lubbock, TX",USA,33.5778631,-101.8551665,,,,32.0
+615,615,Cody Zeller,27,"Washington, IN",USA,47.7510741,-120.7401385,Indiana University,,,20.7
+616,616,Tyler Zeller,30,"Visalia, CA",USA,36.3302284,-119.2920585,University of North Carolina,,,3.5
+617,617,Tyler Zeller,30,"Visalia, CA",USA,36.3302284,-119.2920585,University of North Carolina,,,17.8
+619,619,Ante Zizic,23,Split,Croatia,43.5081323,16.4401935,,,,14.7
+620,620,Ivica Zubac,23,Mostar,Croatia,43.3372849,17.8150151,,,,15.2
+621,621,Ivica Zubac,23,Mostar,Croatia,43.3372849,17.8150151,,,,19.9
+622,622,Jalen Adams,24,"Melrose, MA",USA,42.4584292,-71.0661633,,,,0.0
+623,623,Cliff Alexander,24,"Chicago, IL",USA,41.8781136,-87.6297982,University of Kansas,,,0.0
+624,624,Kyle Alexander,23,"Milton, ON",Canada,43.5182991,-79.8774042,,,,0.0
+625,625,Nickeil Alexander-Walker,21,"Toronto, ON",Canada,43.653226,-79.3831843,Virginia Tech,,,0.0
+627,627,Thanasis Antetokounmpo,27,Athens,Greece,37.9838096,23.7275388,,,,0.0
+630,630,RJ Barrett,19,"Toronto, ON",Canada,43.653226,-79.3831843,Duke,,,0.0
+633,633,Javon Bess,24,"Pickerington, OH",USA,39.8842304,-82.7535049,St. Louis,,,0.0
+634,634,Justin Bibbs,24,"Dayton, OH",USA,39.7589478,-84.1916069,,,,0.0
+635,635,Goga Bitadze,20,Sagarejo,Georgia,41.725392,45.33507909999999,,,,0.0
+636,636,Keljin Blevins,24,"Hot Springs, AR",USA,34.5037004,-93.0551795,Montana State,,,0.0
+637,637,Trevon Bluiett,25,"Indianapolis, IN",USA,39.768403,-86.158068,,,,0.0
+638,638,Bol Bol,20,Khartoum,Sudan,15.5006544,32.5598994,Oregon,,,0.0
+640,640,Jordan Bone,22,"Nashville, TN",USA,36.1626638,-86.7816016,Tennessee,,,0.0
+641,641,Phil Booth,24,"Bltimore, MD",USA,39.2903848,-76.6121893,Villanova,,,0.0
+642,642,Brian Bowen II,21,"Saginaw, MI",USA,43.4194699,-83.9508068,,,,0.0
+643,643,Ky Bowman,22,"Havelock, NC",USA,34.8790492,-76.9013301,Boston College,,,0.0
+645,645,Jarrell Brantley,23,"Charleston, SC",USA,32.7764749,-79.93105120000001,College of Charleston,,,0.0
+646,646,Ignas Brazdeikis,21,Kaunas,Lithuania,54.8985207,23.9035965,Michigan,,,0.0
+647,647,Oshae Brissett,21,"Toronto, ON",Canada,43.653226,-79.3831843,Syracuse,,,0.0
+649,649,Scott Brooks,2,"French Camp, CA",USA,37.8817227,-121.2747843,"University of California, Irvine",,,0.0
+650,650,Barry Brown,23,"At. Petersburg, FL",USA,27.7676008,-82.64029149999999,Kansas State,,,0.0
+651,651,Bobby Brown,35,"Versailles, OH",USA,40.2225481,-84.48439599999999,Miami University,,,0.0
+654,654,Markel Brown,28,"Pineville, LA",USA,31.3224044,-92.4343035,Oklahoma State University,,,0.0
+655,655,Moses Brown,20,"New York, NY",USA,40.7127753,-74.0059728,UCLA,,,0.0
+656,656,Charles Brown Jr.,23,Imhotep Institute Charter,USA,40.0492457,-75.1547205,,,,0.0
+657,657,Nicolas Brussino,27,Santa Fe,Argentina,-31.6106578,-60.697294,,,,0.0
+658,658,Kobe Bryant,41,"Philadelphia, PA",USA,39.9525839,-75.1652215,,,,0.0
+660,660,Devontae Cacok,23,"Chicago, IL",USA,41.8781136,-87.6297982,UNC Wilmington,,,0.0
+661,661,Vlatko Cancar,23,Koper,Slovenia,45.54805899999999,13.7301877,,,,0.0
+662,662,Rick Carlisle,2,"Ogdensburg, NY",USA,44.6942291,-75.48633640000001,University of Virginia,,,0.0
+663,663,Jordan Caroline,24,"Champagne, IL",USA,40.1164204,-88.2433829,Nevada-Reno,,,0.0
+665,665,Zylan Cheatham,24,"Phoenix, AZ",USA,33.4483771,-112.0740373,Arizona State,,,0.0
+666,666,Brandon Clarke,23,"Vancouver, BC",Canada,49.2827291,-123.1207375,Gonzaga,,,0.0
+667,667,Gian Clavell,26,Caguas,Puerto Rico,18.2387995,-66.035249,Colorado State University,,,0.0
+668,668,Nicolas Claxton,20,"Greenville, SC",USA,34.85261759999999,-82.3940104,Georgia,,,0.0
+669,669,Chris Clemons,22,"Raleigh, nC",USA,35.7795897,-78.6381787,Campbell,,,0.0
+670,670,Antonius Cleveland,26,"Memphis, TN",USA,35.1495343,-90.0489801,Southeast Missouri State University,,,0.0
+673,673,Amir Coffey,22,"Hopkins, MN",USA,44.9260794,-93.4044187,Minnesota,,,0.0
+674,674,Kyle Collinsworth,28,"Provo, UT",USA,40.2338438,-111.6585337,Brigham Young University,,,0.0
+675,675,Tyler Cook,22,"St. Louis, MO",USA,38.6270025,-90.19940419999999,Iowa,,,0.0
+677,677,Jarrett Culver,21,"Lubbock, TX",USA,33.5778631,-101.8551665,Texas Tech,,,0.0
+680,680,Terence Davis,22,"Southaven, MI",USA,42.4030865,-86.2736407,Ole Miss,,,0.0
+681,681,Branden Dawson,27,"Gary, IN",USA,41.6020403,-87.3371523,Michigan State University,,,0.0
+684,684,Billy Donovan,2,"Rockville Centre, NY",USA,40.65871380000001,-73.6412406,Providence College,,,0.0
+685,685,Luguentz Dort,20,"Montreal, QC",Canada,45.5016889,-73.567256,Arizona State,,,0.0
+686,686,Sekou Doumbouya,19,Conakry,Guinea,9.641185499999999,-13.5784012,,,,0.0
+687,687,Milton Doyle,26,"Chicago, IL",USA,41.8781136,-87.6297982,Loyola University of Chicago,,,0.0
+689,689,Tyler Ennis,25,Brampton,Canada,43.7315479,-79.7624177,Syracuse University,,,0.0
+690,690,Tacko Fall,24,Dakar,Senegal,14.716677,-17.4676861,Central Florida,,,0.0
+691,691,Carrick Felix,29,"Las Vegas, AZ",USA,36.1699412,-115.1398296,Arizona State University,,,0.0
+692,692,Bruno Fernando,21,Luanda,Angola,-8.8146556,13.2301756,Maryland,,,0.0
+693,693,Robert Franks,23,"Seattle, WA",USA,47.6062095,-122.3320708,Washington State,,,0.0
+696,696,Wenyen Gabriel,23,Khartoum,Sudan,15.5006544,32.5598994,,,,0.0
+697,697,Abdul Gaddy,28,"Tacoma, WA",USA,47.2528768,-122.4442906,,,,0.0
+699,699,Darius Garland,20,"Gary, IN",USA,41.6020403,-87.3371523,Vanderbilt,,,0.0
+700,700,Kevin Garnett,43,"Mauldin, SC",USA,34.77873,-82.310119,,,,0.0
+701,701,Kaiser Gates,23,"Atlanta, GA",USA,33.7489954,-84.3879824,Xavier,,,0.0
+703,703,Jonathan Gibson,32,"West Covina, CA",USA,34.0686208,-117.9389526,New Mexico State University,,,0.0
+705,705,Erick Green,28,"Inglewood, CA",USA,33.9616801,-118.3531311,Virginia Polytechnic Institute and State University,,,0.0
+706,706,Javonte Green,26,"Petersburg, VA",USA,37.2279279,-77.40192669999999,Radford University,,,0.0
+707,707,Marko Guduric,25,Priboj,Serbia,43.5827565,19.5266606,,,,0.0
+708,708,Kyle Guy,22,"Indianapolis, IN",USA,39.768403,-86.158068,Virginia,,,0.0
+709,709,Isaac Haas,24,"Birmingham, AL",USA,33.5185892,-86.8103567,,,,0.0
+710,710,Rui Hachimura,22,Toyama,Japan,36.6958223,137.2137211,Gonzaga,,,0.0
+711,711,Devon Hall,24,"Virginia Beach, VA",USA,36.8529263,-75.97798499999999,Virginia,,,0.0
+713,713,Jaylen Hands,21,"San Diego, CA",USA,32.715738,-117.1610838,UCLA,,,0.0
+715,715,Jaxson Hayes,19,"Norman, OK",USA,35.2225668,-97.4394777,Texas,,,0.0
+716,716,Reggie Hearn,28,"Fort Wayne, IN",USA,41.079273,-85.1393513,Northwestern University,,,0.0
+717,717,Myke Henry,27,"Chicago, IL",USA,41.8781136,-87.6297982,DePaul University,,,0.0
+718,718,Dewan Hernandez,23,"Miami, FL",USA,25.7616798,-80.1917902,Miami,,,0.0
+719,719,Tyler Herro,20,"Milwaukee, WI",USA,43.0389025,-87.9064736,Kentucky,,,0.0
+720,720,Kevin Hervey,23,"Dallas, TX",USA,32.7766642,-96.79698789999999,Texas-Arlington,,,0.0
+722,722,Ahmed Hill,25,"Fort Valley, GA",USA,32.5537585,-83.8874084,Virginia Tech,,,0.0
+723,723,Amir Hinton,23,"Philadelphia, PA",USA,39.9525839,-75.1652215,Shaw University,,,0.0
+724,724,Jaylen Hoard,21,Le Havre,France,49.49437,0.107929,Wake Forest,,,0.0
+725,725,Fred Hoiberg,2,"Lincoln, NE",USA,40.813616,-96.7025955,Iowa State University,,,0.0
+726,726,Aric Holman,22,"Owensboro, KY",USA,37.7719074,-87.1111676,Mississippi State,,,0.0
+727,727,Daulton Hommes,23,"Bellingham, WA",USA,48.7519112,-122.4786854,Western Washington,,,0.0
+729,729,Talen Horton-Tucker,19,"Chicago, IL",USA,41.8781136,-87.6297982,Iowa State,,,0.0
+730,730,William Howard,26,Montbrison,France,45.60745,4.063338,,,,0.0
+731,731,De'Andre Hunter,22,"Philadelphia, PA",USA,39.9525839,-75.1652215,Virginia,,,0.0
+732,732,Vince Hunter,25,"Detroit, MI",USA,42.331427,-83.0457538,University of Texas at El Paso,,,0.0
+733,733,Jarrett Jack,36,"Fort Washington, MD",USA,38.7073379,-77.0230313,Georgia Institute of Technology,,,0.0
+734,734,Justin Jackson,23,"Toronto, ON",Canada,43.653226,-79.3831843,Maryland,,,0.0
+735,735,Justin James,23,"Port St. Lucie, FL",USA,27.2730492,-80.3582261,Wyoming,,,0.0
+736,736,Mike James,29,"Copaigue, NY",USA,40.6814892,-73.3998445,Duquesne University,,,0.0
+739,739,Cameron Johnson,24,"Moon Township, PA",USA,40.51697670000001,-80.22134770000001,North Carolina,,,0.0
+740,740,Chris Johnson,29,"Orlando, FL",USA,28.5383355,-81.3792365,University of Dayton,,,0.0
+742,742,Keldon Johnson,20,"Chesterfield, VA",USA,37.3770935,-77.5049863,Kentucky,,,0.0
+743,743,Mfiondu Kabengele,22,"Burlington, ON",Canada,43.3255196,-79.7990319,Florida State,,,0.0
+744,744,Steve Kerr,2,Beirut,Lebanon,33.8937913,35.5017767,University of Arizona,,,0.0
+745,745,Louis King,21,"Secaucus, NJ",USA,40.7895453,-74.05652979999999,Oregon,,,0.0
+746,746,V.J. King,23,"Akron, OH",USA,41.0814447,-81.51900529999999,,,,0.0
+747,747,Sagaba Konate,23,Bamako,Mali,12.6392316,-8.0028892,West Virginia,,,0.0
+749,749,Christ Koumadje,23,N'djamena,Chad,12.1348457,15.0557415,Florida State,,,0.0
+750,750,David Kramer,23,Myjava,Slovakia,48.7552968,17.5674635,,,,0.0
+751,751,Romeo Langford,20,"New Albany, IN",USA,38.2856247,-85.8241312,Indiana,,,0.0
+752,752,Terry Larrier,24,"The Bronx, NY",USA,40.8447819,-73.8648268,Connecticut,,,0.0
+754,754,Jalen Lecque,19,"Manhattan, NY",USA,40.7830603,-73.9712488,Brewster Academy,,,0.0
+755,755,Nassir Little,20,"Pensacola, FL",USA,30.42130899999999,-87.2169149,North Carolina,,,0.0
+758,758,Josh Magette,30,"Birmingham, AL",USA,33.5185892,-86.8103567,Alabama Huntsville,,,0.0
+760,760,Terance Mann,23,"Tilton, NH",USA,43.4426486,-71.589209,Florida State,,,0.0
+761,761,Caleb Martin,24,"Reno, NV",USA,39.5296329,-119.8138027,Nevada-Reno,,,0.0
+762,762,Cody Martin,24,"Reno, NV",USA,39.5296329,-119.8138027,,,,0.0
+766,766,Dakota Mathias,24,"Lima, OH",USA,40.742551,-84.1052256,Purdue,,,0.0
+767,767,Jalen McDaniels,22,"Federal Way, WA",USA,47.3223221,-122.3126222,San Diego State,,,0.0
+768,768,KJ McDaniels,27,"Mobile, AL",USA,30.6953657,-88.0398912,Clemson University,,,0.0
+769,769,Jordan McLaughlin,24,"Pasadena, CA",USA,34.1477849,-118.1445155,,,,0.0
+770,770,Nate McMillan,2,"Raleigh, NC",USA,35.7795897,-78.6381787,North Carolina State University,,,0.0
+771,771,Nicolo Melli,29,Reggio Emilia,Italy,44.6989932,10.6296859,,,,0.0
+772,772,Eric Mika,25,"Salt Lake City, UT",USA,40.7607793,-111.8910474,Brigham Young,,,0.0
+773,773,Elijah Millsap,32,"Grambling, LA",USA,32.5276503,-92.7140402,University of Alabama at Birmingham,,,0.0
+774,774,Adam Mokoka,21,Paris,France,48.856614,2.3522219,,,,0.0
+775,775,Matt Mooney,23,"Niles, IL",USA,42.0189191,-87.80284019999999,,,,0.0
+776,776,Ben Moore,24,"Bolingbrook, IL",USA,41.69864159999999,-88.0683955,Southern Methodist University,,,0.0
+777,777,Doral Moore,23,"Louisville, KY",USA,38.2526647,-85.7584557,,,,0.0
+778,778,Ja Morant,20,"Dalzell, SC",USA,34.0168212,-80.4300818,Murray State,,,0.0
+780,780,Mychal Mulder,25,"Toronto, ON",Canada,43.653226,-79.3831843,,,,0.0
+781,781,Xavier Munford,27,"Hillside, NJ",USA,40.6955044,-74.2287333,University of Rhode Island,,,0.0
+782,782,Dejounte Murray,23,"Seattle, WA",USA,47.6062095,-122.3320708,University of Washington,,,0.0
+786,786,Zach Norvell Jr.,22,"Chicago, IL",USA,41.8781136,-87.6297982,Gonzaga,,,0.0
+788,788,Jaylen Nowell,20,"Seattle, WA",USA,47.6062095,-122.3320708,Washington,,,0.0
+789,789,Kendrick Nunn,24,"Chicago, IL",USA,41.8781136,-87.6297982,,,,0.0
+791,791,Norense Odiase,24,"Crowley, TX",USA,32.5790251,-97.3625172,,,,0.0
+793,793,Chuma Okeke,21,"Atlanta, GA",USA,33.7489954,-84.3879824,Auburn,,,0.0
+794,794,KZ Okpala,20,"Orange County, CA",USA,33.7174708,-117.8311428,Stanford,,,0.0
+795,795,Miye Oni,22,"Northridge, CA",USA,34.2381251,-118.530123,Yale,,,0.0
+797,797,Tariq Owens,24,"Baltimore, MD",USA,39.2903848,-76.6121893,Texas Tech,,,0.0
+798,798,James Palmer Jr.,23,"Washington, DC",USA,38.9071923,-77.0368707,University of Nebraska-Lincoln,,,0.0
+800,800,Eric Paschall,23,"North Tarrytown, NY",USA,41.0762077,-73.85874609999999,Villanova,,,0.0
+801,801,Anzejs Pasecniks,24,Riga,Latvia,56.9496487,24.1051865,,,,0.0
+802,802,Norvel Pelle,27,St. John's,USA,38.9054722,-77.0430361,,,,0.0
+804,804,London Perrantes,25,"Los Angeles, CA",USA,34.0522342,-118.2436849,University of Virginia,,,0.0
+808,808,Vincent Poirier,26,Clamart,France,48.799815,2.257289,,,,0.0
+809,809,Jordan Poole,20,"Milwaukee, WI",USA,43.0389025,-87.9064736,Michigan,,,0.0
+811,811,Jontay Porter,20,"Columbia, MO",USA,38.9517053,-92.3340724,Missouri,,,0.0
+812,812,Kevin Porter Jr.,19,"Seattle, WA",USA,47.6062095,-122.3320708,USC,,,0.0
+813,813,Michael Porter Jr.,21,"Columbia, MS",USA,31.2524566,-89.83542829999999,,,,0.0
+814,814,Kristaps Porzingis,24,Liepaja,Latvia,56.5046678,21.010806,,,,0.0
+815,815,Jacob Pullen,30,"Maywood, IL",USA,41.8791979,-87.8431155,Kansas State University,,,0.0
+816,816,Tim Quarterman,25,"Savannah, GA",USA,32.0808989,-81.091203,Louisiana State University,,,0.0
+817,817,Levi Randolph,27,"Madison, AL",USA,34.6992579,-86.74833180000002,,,,0.0
+819,819,Josh Reaves,22,"Fairfax, VA",USA,38.84622359999999,-77.30637329999999,Penn State,,,0.0
+820,820,Cam Reddish,20,"Norristown, PA",USA,40.121497,-75.3399048,Duke,,,0.0
+821,821,Willie Reed,29,"Kansas City, MO",USA,39.0997265,-94.5785667,Saint Louis University,,,0.0
+822,822,Naz Reid,20,"Asbury Park, NJ",USA,40.2203907,-74.0120817,Louisiana State,,,0.0
+823,823,Doc Rivers,2,"Chicago, IL",USA,41.8781136,-87.6297982,Marquette University,,,0.0
+824,824,Andre Roberson,28,"Las Cruces, NM",USA,32.3199396,-106.7636538,University of Colorado,,,0.0
+829,829,Isaiah Roby,22,"Dixon, IL",USA,41.8389213,-89.47954779999999,University of Nebraska-Lincoln,,,0.0
+831,831,Brandon Rush,34,"Kansas City, MO",USA,39.0997265,-94.5785667,University of Kansas,,,0.0
+832,832,Luka Samanic,20,Zagreb,Croatia,45.8150108,15.9819189,,,,0.0
+833,833,Admiral Schofield,23,London,United Kingdom,51.5073509,-0.1277583,Tennessee,,,0.0
+834,834,Mike Scott,26,"Los Angeles, CA",USA,34.0522342,-118.2436849,,,,0.0
+835,835,Marial Shayok,24,"Ottawa, ON",Canada,45.4215296,-75.69719309999999,Iowa State,,,0.0
+836,836,Simisola Shittu,20,London,Canada,42.9849233,-81.2452768,Vanderbilt,,,0.0
+838,838,Justin Simon,23,"Los Angeles, CA",USA,34.0522342,-118.2436849,,,,0.0
+839,839,Alen Smailagic,19,Belgrade,Serbia,44.786568,20.4489216,,,,0.0
+844,844,Max Strus,24,"HIckory Hills, IL",USA,41.7255879,-87.82505499999999,DePaul,,,0.0
+845,845,Isaiah Taylor,25,"Hayward, CA",USA,37.6687665,-122.0809964,University of Texas at Austin,,,0.0
+847,847,Mirza Teletovic,34,Mostar,Bosnia and Herzegovina,43.34377480000001,17.8077578,,,,0.0
+848,848,Matt Thomas,25,"Decatur, IL",USA,39.8403147,-88.9548001,Iowa State,,,0.0
+852,852,Rayjon Tucker,22,"Charlotte, NC",USA,35.2270869,-80.8431267,Arkansas-Little Rock,,,0.0
+853,853,Jarrod Uthoff,26,"Cedar Rapids, IA",USA,41.9778795,-91.6656232,University of Iowa,,,0.0
+854,854,Denzel Valentine,26,"Lansing, MI",USA,42.732535,-84.5555347,Michigan State University,,,0.0
+855,855,Anderson Varejao,37,Santa Teresa,Brazil,-22.9162662,-43.1916361,,,,0.0
+856,856,Gabe Vincent,23,"Stockton, CA",USA,37.9577016,-121.2907796,,,,0.0
+857,857,Dean Wade,23,"Wichita, KS",USA,37.68717609999999,-97.33005299999999,Kansas State,,,0.0
+858,858,Luke Walton,2,"San Diego, CA",USA,32.715738,-117.1610838,University of Arizona,,,0.0
+859,859,P.J. Washington,21,"Louisville, KY",USA,38.2526647,-85.7584557,Kentucky,,,0.0
+860,860,Tremont Waters,22,"New Haven, CT",USA,41.308274,-72.9278835,Louisiana State,,,0.0
+861,861,Paul Watson,25,"Phoenix, AZ",USA,33.4483771,-112.0740373,Fresno State,,,0.0
+862,862,Quinndary Weatherspoon,23,"Canton, MS",USA,32.6126381,-90.0367512,Mississippi State,,,0.0
+863,863,James Webb III,26,"Augusta, GA",USA,33.4734978,-82.0105148,Boise State University,,,0.0
+864,864,Coby White,20,"Goldsboro, NC",USA,35.3848841,-77.9927651,North Carolina,,,0.0
+865,865,Andrew White III,26,"Richmond, VA",USA,37.5407246,-77.4360481,Syracuse University,,,0.0
+866,866,C.J. Wilcox,29,"Pleasant Grove, UT",USA,40.3641184,-111.73854,University of Washington,,,0.0
+867,867,Damien Wilkins,40,"Washington, NC",USA,35.54655169999999,-77.0521742,University of Georgia,,,0.0
+868,868,Elliott Williams,30,"Memphis, TN",USA,35.1495343,-90.0489801,University of Memphis,,,0.0
+869,869,Grant Williams,21,"Houston, TX",USA,29.7604267,-95.3698028,Tennessee,,,0.0
+870,870,Nigel Williams-Goss,25,"Happy Valley, OR",USA,45.4470021,-122.5309281,Gonzaga,,,0.0
+871,871,Zion Williamson,19,"Salisbury, NC",USA,35.6709727,-80.4742261,Duke,,,0.0
+872,872,Kyle Wiltjer,27,"Portland, OR",USA,45.5051064,-122.6750261,Gonzaga University,,,0.0
+874,874,Todd Withers,23,"Greensboro, NC",USA,36.0726354,-79.7919754,Queens University,,,0.0
+875,875,Jeff Withey,30,"San Diego, CA",USA,32.715738,-117.1610838,University of Kansas,,,0.0
+876,876,Nate Wolters,28,"St. Cloud, MN",USA,45.5579451,-94.16324039999999,South Dakota State University,,,0.0
+877,877,Kenny Wooten,21,"Manteca, CA",USA,37.7974273,-121.2160526,Oregon,,,0.0
+878,878,Brandan Wright,32,"Nashville, TN",USA,36.1626638,-86.7816016,University of North Carolina,,,0.0
+879,879,Justin Wright-Foreman,22,"Laurelton, NY",USA,40.67764,-73.7447853,Hofstra,,,0.0
+880,880,Tony Wroten,27,"Seattle, WA",USA,47.6062095,-122.3320708,University of Washington,,,0.0
