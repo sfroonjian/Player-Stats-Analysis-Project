@@ -111,7 +111,7 @@
 121,Josh Brown,26,D,2
 122,J.T. Brown,29,RW,8
 123,Logan Brown,22,C,0
-124,Pavel Buchnevich,24,LW,39
+124,Pavel Buchnevich,25,LW,39
 126,Michael Bunting,24,LW,1
 127,Andre Burakovsky,25,LW,25
 128,Erik Burgdoerfer,31,D,0
@@ -253,7 +253,7 @@
 278,Aaron Ekblad,24,D,37
 279,Mattias Ekholm,29,D,45
 280,Oliver Ekman-Larsson,28,D,44
-281,Remi Elie,24,LW,1
+281,Remi Elie,25,LW,1
 282,Lars Eller,30,C,36
 284,Stefan Elliott,29,D,1
 285,Ryan Ellis,29,D,41
@@ -337,7 +337,7 @@
 369,Tyrell Goulbourne,26,LW,0
 370,Yanni Gourde,28,C,48
 371,Michael Grabner,32,RW,16
-372,Markus Granlund,26,C,22
+372,Markus Granlund,27,C,22
 373,Mikael Granlund,28,C,49
 374,Mikael Granlund,28,C,5
 375,Derek Grant,29,C,5
@@ -678,7 +678,7 @@
 751,Gustav Nyquist,30,C,11
 752,Logan O'Connor,23,RW,0
 753,Jordan Oesterle,27,D,20
-754,Kyle Okposo,31,RW,30
+754,Kyle Okposo,32,RW,30
 755,Jamie Oleksiak,27,D,11
 756,Jamie Oleksiak,27,D,1
 757,Victor Olofsson,24,LW,6
@@ -710,7 +710,7 @@
 784,Tanner Pearson,27,LW,12
 785,Matthew Peca,26,C,10
 786,Adam Pelech,25,D,21
-787,Anthony Peluso,30,RW,0
+787,Anthony Peluso,31,RW,0
 788,Brendan Perlini,23,LW,6
 789,Brendan Perlini,23,LW,15
 790,Mathieu Perreault,32,C,31
@@ -747,7 +747,7 @@
 825,Ryan Pulock,25,D,37
 826,Tom Pyatt,33,LW,2
 827,Mark Pysyk,28,D,11
-828,John Quenneville,23,C,1
+828,John Quenneville,24,C,1
 830,Alan Quine,27,C,6
 832,Lukas Radil,29,C,11
 833,Alexander Radulov,33,RW,73
@@ -757,7 +757,7 @@
 837,Mikko Rantanen,23,RW,87
 839,Victor Rask,27,C,6
 840,Victor Rask,27,C,3
-841,Michael Rasmussen,20,C,18
+841,Michael Rasmussen,21,C,18
 842,Ty Rattie,27,RW,11
 843,Kyle Rau,27,C,1
 844,Matt Read,33,RW,1
@@ -853,8 +853,8 @@
 939,Brendan Smith,31,D,13
 940,C.J. Smith,25,LW,2
 941,Craig Smith,30,RW,39
-942,Gemel Smith,25,C,3
-943,Gemel Smith,25,C,0
+942,Gemel Smith,26,C,3
+943,Gemel Smith,26,C,0
 945,Reilly Smith,29,RW,53
 946,Zack Smith,32,LW,28
 947,Devante Smith-Pelly,27,RW,8
@@ -985,11 +985,11 @@
 1083,Keith Yandle,33,D,63
 1084,Pavel Zacha,23,C,28
 1085,Filip Zadina,20,RW,3
-1086,Nikita Zadorov,24,D,14
+1086,Nikita Zadorov,25,D,14
 1087,Nikita Zaitsev,28,D,14
 1088,Travis Zajac,34,C,47
 1089,Jakub Zboril,23,D,0
-1090,Mika Zibanejad,26,C,76
+1090,Mika Zibanejad,27,C,76
 1091,Mats Zuccarello,32,LW,37
 1092,Mats Zuccarello,32,LW,3
 1093,Jason Zucker,28,LW,42
@@ -1040,7 +1040,7 @@
 1140,Adam Brooks,23,C,0
 1141,Patrick Brown,27,C,0
 1142,Sergei Brylin,46,C,0
-1143,Connor Bunnaman,21,C,0
+1143,Connor Bunnaman,22,C,0
 1144,Brayden Burke,23,LW,0
 1145,Alexander Burmistrov,28,C,0
 1146,Nicholas Caamano,21,RW,0
@@ -1137,7 +1137,7 @@
 1249,Jayden Halbgewachs,23,LW,0
 1250,Wacey Hamilton,29,RW,0
 1252,Jansen Harkins,22,C,0
-1253,Scott Hartnell,37,LW,0
+1253,Scott Hartnell,38,LW,0
 1254,Barrett Hayton,19,C,0
 1255,Josh Healey,25,D,0
 1256,Ville Heinola,19,D,0
@@ -1155,7 +1155,7 @@
 1270,Tanner Jeannot,22,LW,0
 1271,Nicklas Jensen,27,RW,0
 1272,Lucas Johansen,22,D,0
-1274,Stephen Johns,27,D,0
+1274,Stephen Johns,28,D,0
 1275,Ryan Johnson,43,C,0
 1276,Ben Jones,21,C,0
 1277,Connor Jones,29,C,0
@@ -1272,7 +1272,7 @@
 1405,Ryan Parent,33,D,0
 1406,Chase Pearson,22,C,0
 1407,Andrew Peeke,22,D,0
-1408,Francis Perron,23,LW,0
+1408,Francis Perron,24,LW,0
 1409,Toby Petersen,41,C,0
 1410,Andre Petersson,29,RW,0
 1411,Matthew Phillips,22,C,0
@@ -1338,7 +1338,7 @@
 1482,Oskar Steen,22,C,0
 1483,Devante Stephens,23,D,0
 1484,Mitchell Stephens,23,C,0
-1485,John Stevens,25,C,0
+1485,John Stevens,26,C,0
 1486,Luke Stevens,23,LW,0
 1487,Nolan Stevens,23,C,0
 1488,Chris Stewart,32,RW,0
